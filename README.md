@@ -6,7 +6,8 @@ The goal was to clean and standardize the raw data, then build an **interactive 
 ---
 
 ## 🔗 Dashboard
-View the live dashboard here: [Pedatric Cancer Dashboard on Tableau Public](https://public.tableau.com/app/profile/josh.fugate/viz/PediatricCancerIncidenceRates/MapDashboard)
+View the live dashboard here:  
+[![Dashboard Preview](dashboard_preview.png)](https://public.tableau.com/app/profile/josh.fugate/viz/PediatricCancerIncidenceRates/MapDashboard)
 
 ---
 
