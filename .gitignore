@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/map
+data/mortality
+data/population
+data/incidence/raw
+.DS_Store
