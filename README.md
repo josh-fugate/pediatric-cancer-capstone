@@ -6,18 +6,20 @@ The goal was to clean and standardize the raw data, then build an **interactive 
 ---
 
 ## 🔗 Dashboard
-View the live dashboard here: [Pediatric Cancer Dashboard on Tableau Public]([https://public.tableau.com/your-dashboard-link](https://public.tableau.com/app/profile/josh.fugate/viz/PediatricCancerIncidenceRates/MapDashboard))
+View the live dashboard here: [Pedatric Cancer Dashboard on Tableau Public](https://public.tableau.com/app/profile/josh.fugate/viz/PediatricCancerIncidenceRates/MapDashboard)
 
 ---
 
 ## 📂 Repository Structure
 
+```text
 data/
 ├── incidence/
 │   ├── raw/      # Raw .txt files downloaded from CDC WONDER
 │   └── clean/    # Processed .csv files ready for analysis
 scripts/
-├── clean_incidence_data.R  # R script to clean raw files
+└── clean_incidence_data.R  # R script to clean raw files
+```
 
 ---
 
@@ -54,5 +56,5 @@ This project was completed as part of my **Google Data Analytics Capstone**.
 It demonstrates skills in data cleaning, analysis, and visualization, and provides a foundation for healthcare-focused analytics work.
 
 Author: **Josh Fugate**  
-📧 [joshua.fugate@outlook.com]  
-🔗 [[LinkedIn Profile](https://www.linkedin.com/in/josh-fugate/)]
+📧 [joshua.fugate@outlook.com](mailto:joshua.fugate@outlook.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/josh-fugate/)
