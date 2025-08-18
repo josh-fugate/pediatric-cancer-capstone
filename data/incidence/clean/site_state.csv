@@ -1,0 +1,2313 @@
+cancer_site,state,count,population,crude_rate_100k
+I Leukemia,Alabama,1116,28877079,3.8600000000000003
+I Leukemia,Alaska,228,4720625,4.83
+I Leukemia,Arizona,1986,39775657,4.99
+I Leukemia,Arkansas,717,17898158,4.010000000000001
+I Leukemia,California,12607,236070538,5.34
+I Leukemia,Colorado,1392,30887289,4.510000000000001
+I Leukemia,Connecticut,907,20830240,4.3500000000000005
+I Leukemia,Delaware,238,5268436,4.5200000000000005
+I Leukemia,District of Columbia,129,3083338,4.18
+I Leukemia,Florida,4946,102863635,4.8100000000000005
+I Leukemia,Georgia,2601,62011319,4.19
+I Leukemia,Hawaii,354,7747695,4.57
+I Leukemia,Idaho,464,10734756,4.32
+I Leukemia,Illinois,3713,79093866,4.69
+I Leukemia,Indiana,1596,37414578,4.2700000000000005
+I Leukemia,Iowa,815,18924991,4.3100000000000005
+I Leukemia,Kansas,815,18406535,4.43
+I Leukemia,Kentucky,1118,25974328,4.3
+I Leukemia,Louisiana,1165,29086064,4.010000000000001
+I Leukemia,Maine,335,7144119,4.69
+I Leukemia,Maryland,1360,34984232,3.89
+I Leukemia,Massachusetts,1593,37580693,4.24
+I Leukemia,Michigan,2595,61154757,4.24
+I Leukemia,Minnesota,1508,33142582,4.55
+I Leukemia,Mississippi,581,15669603,3.7100000000000004
+I Leukemia,Missouri,1417,36266473,3.91
+I Leukemia,Montana,266,5846055,4.55
+I Leukemia,Nebraska,530,11903430,4.45
+I Leukemia,Nevada,839,16014625,5.24
+I Leukemia,New Hampshire,325,7453487,4.36
+I Leukemia,New Jersey,2564,52654520,4.870000000000001
+I Leukemia,New Mexico,658,12904509,5.1000000000000005
+I Leukemia,New York,5286,113517852,4.66
+I Leukemia,North Carolina,2426,56649928,4.28
+I Leukemia,North Dakota,173,4266274,4.0600000000000005
+I Leukemia,Ohio,2946,70366333,4.19
+I Leukemia,Oklahoma,1077,23756620,4.53
+I Leukemia,Oregon,1071,22097759,4.8500000000000005
+I Leukemia,Pennsylvania,3305,72683727,4.55
+I Leukemia,Rhode Island,293,6082080,4.82
+I Leukemia,South Carolina,1051,27583495,3.8100000000000005
+I Leukemia,South Dakota,214,4834317,4.43
+I Leukemia,Tennessee,1636,37884392,4.32
+I Leukemia,Texas,9377,172599550,5.43
+I Leukemia,Utah,1001,21588203,4.64
+I Leukemia,Vermont,179,3490801,5.13
+I Leukemia,Virginia,1903,47413830,4.010000000000001
+I Leukemia,Washington,1886,40520105,4.65
+I Leukemia,West Virginia,389,9950567,3.91
+I Leukemia,Wisconsin,1602,34329682,4.670000000000001
+I Leukemia,Wyoming,129,3396153,3.8000000000000003
+I(a) Lymphoid leukemias,Alabama,722,28877079,2.5
+I(a) Lymphoid leukemias,Alaska,154,4720625,3.2600000000000002
+I(a) Lymphoid leukemias,Arizona,1485,39775657,3.73
+I(a) Lymphoid leukemias,Arkansas,512,17898158,2.8600000000000003
+I(a) Lymphoid leukemias,California,9475,236070538,4.010000000000001
+I(a) Lymphoid leukemias,Colorado,1062,30887289,3.44
+I(a) Lymphoid leukemias,Connecticut,654,20830240,3.14
+I(a) Lymphoid leukemias,Delaware,171,5268436,3.25
+I(a) Lymphoid leukemias,District of Columbia,88,3083338,2.85
+I(a) Lymphoid leukemias,Florida,3507,102863635,3.41
+I(a) Lymphoid leukemias,Georgia,1762,62011319,2.84
+I(a) Lymphoid leukemias,Hawaii,240,7747695,3.1
+I(a) Lymphoid leukemias,Idaho,354,10734756,3.3000000000000003
+I(a) Lymphoid leukemias,Illinois,2760,79093866,3.49
+I(a) Lymphoid leukemias,Indiana,1176,37414578,3.14
+I(a) Lymphoid leukemias,Iowa,597,18924991,3.1500000000000004
+I(a) Lymphoid leukemias,Kansas,585,18406535,3.18
+I(a) Lymphoid leukemias,Kentucky,819,25974328,3.1500000000000004
+I(a) Lymphoid leukemias,Louisiana,771,29086064,2.6500000000000004
+I(a) Lymphoid leukemias,Maine,250,7144119,3.5
+I(a) Lymphoid leukemias,Maryland,935,34984232,2.67
+I(a) Lymphoid leukemias,Massachusetts,1197,37580693,3.19
+I(a) Lymphoid leukemias,Michigan,1809,61154757,2.9600000000000004
+I(a) Lymphoid leukemias,Minnesota,1106,33142582,3.34
+I(a) Lymphoid leukemias,Mississippi,401,15669603,2.5600000000000005
+I(a) Lymphoid leukemias,Missouri,1034,36266473,2.85
+I(a) Lymphoid leukemias,Montana,179,5846055,3.0600000000000005
+I(a) Lymphoid leukemias,Nebraska,368,11903430,3.09
+I(a) Lymphoid leukemias,Nevada,596,16014625,3.7200000000000006
+I(a) Lymphoid leukemias,New Hampshire,242,7453487,3.25
+I(a) Lymphoid leukemias,New Jersey,1843,52654520,3.5
+I(a) Lymphoid leukemias,New Mexico,498,12904509,3.8600000000000003
+I(a) Lymphoid leukemias,New York,3656,113517852,3.2200000000000006
+I(a) Lymphoid leukemias,North Carolina,1741,56649928,3.0700000000000003
+I(a) Lymphoid leukemias,North Dakota,143,4266274,3.35
+I(a) Lymphoid leukemias,Ohio,2115,70366333,3.0100000000000002
+I(a) Lymphoid leukemias,Oklahoma,778,23756620,3.2700000000000005
+I(a) Lymphoid leukemias,Oregon,813,22097759,3.6799999999999997
+I(a) Lymphoid leukemias,Pennsylvania,2393,72683727,3.29
+I(a) Lymphoid leukemias,Rhode Island,194,6082080,3.19
+I(a) Lymphoid leukemias,South Carolina,744,27583495,2.7
+I(a) Lymphoid leukemias,South Dakota,151,4834317,3.12
+I(a) Lymphoid leukemias,Tennessee,1176,37884392,3.1
+I(a) Lymphoid leukemias,Texas,6672,172599550,3.8700000000000006
+I(a) Lymphoid leukemias,Utah,734,21588203,3.4000000000000004
+I(a) Lymphoid leukemias,Vermont,136,3490801,3.9000000000000004
+I(a) Lymphoid leukemias,Virginia,1382,47413830,2.91
+I(a) Lymphoid leukemias,Washington,1392,40520105,3.44
+I(a) Lymphoid leukemias,West Virginia,272,9950567,2.7300000000000004
+I(a) Lymphoid leukemias,Wisconsin,1162,34329682,3.38
+I(a) Lymphoid leukemias,Wyoming,106,3396153,3.12
+I(b) Acute myeloid leukemias,Alabama,213,28877079,0.7400000000000001
+I(b) Acute myeloid leukemias,Alaska,42,4720625,0.8900000000000001
+I(b) Acute myeloid leukemias,Arizona,305,39775657,0.77
+I(b) Acute myeloid leukemias,Arkansas,134,17898158,0.75
+I(b) Acute myeloid leukemias,California,2135,236070538,0.9
+I(b) Acute myeloid leukemias,Colorado,239,30887289,0.77
+I(b) Acute myeloid leukemias,Connecticut,156,20830240,0.75
+I(b) Acute myeloid leukemias,Delaware,43,5268436,0.82
+I(b) Acute myeloid leukemias,District of Columbia,26,3083338,0.8400000000000001
+I(b) Acute myeloid leukemias,Florida,895,102863635,0.87
+I(b) Acute myeloid leukemias,Georgia,520,62011319,0.8400000000000001
+I(b) Acute myeloid leukemias,Hawaii,90,7747695,1.16
+I(b) Acute myeloid leukemias,Idaho,67,10734756,0.6200000000000001
+I(b) Acute myeloid leukemias,Illinois,635,79093866,0.8
+I(b) Acute myeloid leukemias,Indiana,298,37414578,0.8
+I(b) Acute myeloid leukemias,Iowa,144,18924991,0.76
+I(b) Acute myeloid leukemias,Kansas,138,18406535,0.75
+I(b) Acute myeloid leukemias,Kentucky,189,25974328,0.73
+I(b) Acute myeloid leukemias,Louisiana,244,29086064,0.8400000000000001
+I(b) Acute myeloid leukemias,Maine,60,7144119,0.8400000000000001
+I(b) Acute myeloid leukemias,Maryland,265,34984232,0.76
+I(b) Acute myeloid leukemias,Massachusetts,277,37580693,0.7400000000000001
+I(b) Acute myeloid leukemias,Michigan,499,61154757,0.82
+I(b) Acute myeloid leukemias,Minnesota,258,33142582,0.78
+I(b) Acute myeloid leukemias,Mississippi,112,15669603,0.71
+I(b) Acute myeloid leukemias,Missouri,273,36266473,0.75
+I(b) Acute myeloid leukemias,Montana,46,5846055,0.79
+I(b) Acute myeloid leukemias,Nebraska,105,11903430,0.8800000000000001
+I(b) Acute myeloid leukemias,Nevada,134,16014625,0.8400000000000001
+I(b) Acute myeloid leukemias,New Hampshire,56,7453487,0.75
+I(b) Acute myeloid leukemias,New Jersey,424,52654520,0.81
+I(b) Acute myeloid leukemias,New Mexico,95,12904509,0.7400000000000001
+I(b) Acute myeloid leukemias,New York,945,113517852,0.8300000000000001
+I(b) Acute myeloid leukemias,North Carolina,439,56649928,0.77
+I(b) Acute myeloid leukemias,North Dakota,21,4266274,0.49000000000000005
+I(b) Acute myeloid leukemias,Ohio,527,70366333,0.75
+I(b) Acute myeloid leukemias,Oklahoma,197,23756620,0.8300000000000001
+I(b) Acute myeloid leukemias,Oregon,169,22097759,0.76
+I(b) Acute myeloid leukemias,Pennsylvania,586,72683727,0.81
+I(b) Acute myeloid leukemias,Rhode Island,57,6082080,0.9400000000000001
+I(b) Acute myeloid leukemias,South Carolina,199,27583495,0.7200000000000001
+I(b) Acute myeloid leukemias,South Dakota,41,4834317,0.8500000000000001
+I(b) Acute myeloid leukemias,Tennessee,279,37884392,0.7400000000000001
+I(b) Acute myeloid leukemias,Texas,1402,172599550,0.81
+I(b) Acute myeloid leukemias,Utah,187,21588203,0.87
+I(b) Acute myeloid leukemias,Vermont,26,3490801,0.7400000000000001
+I(b) Acute myeloid leukemias,Virginia,352,47413830,0.7400000000000001
+I(b) Acute myeloid leukemias,Washington,323,40520105,0.8
+I(b) Acute myeloid leukemias,West Virginia,75,9950567,0.75
+I(b) Acute myeloid leukemias,Wisconsin,301,34329682,0.8800000000000001
+I(b) Acute myeloid leukemias,Wyoming,17,3396153,0.5
+I(c) Chronic myeloproliferative diseases,Alabama,132,28877079,0.45999999999999996
+I(c) Chronic myeloproliferative diseases,Arizona,88,39775657,0.22000000000000003
+I(c) Chronic myeloproliferative diseases,Arkansas,36,17898158,0.2
+I(c) Chronic myeloproliferative diseases,California,467,236070538,0.2
+I(c) Chronic myeloproliferative diseases,Colorado,52,30887289,0.17
+I(c) Chronic myeloproliferative diseases,Connecticut,39,20830240,0.19
+I(c) Chronic myeloproliferative diseases,Florida,323,102863635,0.31000000000000005
+I(c) Chronic myeloproliferative diseases,Georgia,153,62011319,0.25
+I(c) Chronic myeloproliferative diseases,Idaho,18,10734756,0.17
+I(c) Chronic myeloproliferative diseases,Illinois,144,79093866,0.18000000000000002
+I(c) Chronic myeloproliferative diseases,Indiana,52,37414578,0.13999999999999999
+I(c) Chronic myeloproliferative diseases,Iowa,40,18924991,0.21000000000000002
+I(c) Chronic myeloproliferative diseases,Kansas,41,18406535,0.22000000000000003
+I(c) Chronic myeloproliferative diseases,Kentucky,46,25974328,0.18000000000000002
+I(c) Chronic myeloproliferative diseases,Louisiana,56,29086064,0.19
+I(c) Chronic myeloproliferative diseases,Maryland,62,34984232,0.18000000000000002
+I(c) Chronic myeloproliferative diseases,Massachusetts,72,37580693,0.19
+I(c) Chronic myeloproliferative diseases,Michigan,118,61154757,0.19
+I(c) Chronic myeloproliferative diseases,Minnesota,59,33142582,0.18000000000000002
+I(c) Chronic myeloproliferative diseases,Mississippi,42,15669603,0.27
+I(c) Chronic myeloproliferative diseases,Missouri,44,36266473,0.12
+I(c) Chronic myeloproliferative diseases,Montana,27,5846055,0.45999999999999996
+I(c) Chronic myeloproliferative diseases,Nebraska,24,11903430,0.2
+I(c) Chronic myeloproliferative diseases,Nevada,28,16014625,0.17
+I(c) Chronic myeloproliferative diseases,New Hampshire,18,7453487,0.24
+I(c) Chronic myeloproliferative diseases,New Jersey,142,52654520,0.27
+I(c) Chronic myeloproliferative diseases,New Mexico,31,12904509,0.24
+I(c) Chronic myeloproliferative diseases,New York,380,113517852,0.33
+I(c) Chronic myeloproliferative diseases,North Carolina,121,56649928,0.21000000000000002
+I(c) Chronic myeloproliferative diseases,Ohio,137,70366333,0.19
+I(c) Chronic myeloproliferative diseases,Oklahoma,47,23756620,0.2
+I(c) Chronic myeloproliferative diseases,Oregon,37,22097759,0.17
+I(c) Chronic myeloproliferative diseases,Pennsylvania,177,72683727,0.24
+I(c) Chronic myeloproliferative diseases,South Carolina,55,27583495,0.2
+I(c) Chronic myeloproliferative diseases,Tennessee,86,37884392,0.22999999999999998
+I(c) Chronic myeloproliferative diseases,Texas,651,172599550,0.38
+I(c) Chronic myeloproliferative diseases,Utah,42,21588203,0.19
+I(c) Chronic myeloproliferative diseases,Virginia,68,47413830,0.13999999999999999
+I(c) Chronic myeloproliferative diseases,Washington,72,40520105,0.18000000000000002
+I(c) Chronic myeloproliferative diseases,Wisconsin,65,34329682,0.19
+I(d) Myelodysplastic syndrome and other myeloproliferative,Alabama,21,28877079,0.06999999999999999
+I(d) Myelodysplastic syndrome and other myeloproliferative,Arizona,53,39775657,0.13
+I(d) Myelodysplastic syndrome and other myeloproliferative,Arkansas,17,17898158,0.09000000000000001
+I(d) Myelodysplastic syndrome and other myeloproliferative,California,298,236070538,0.13
+I(d) Myelodysplastic syndrome and other myeloproliferative,Colorado,27,30887289,0.09000000000000001
+I(d) Myelodysplastic syndrome and other myeloproliferative,Connecticut,22,20830240,0.11000000000000001
+I(d) Myelodysplastic syndrome and other myeloproliferative,Florida,141,102863635,0.13999999999999999
+I(d) Myelodysplastic syndrome and other myeloproliferative,Georgia,96,62011319,0.15000000000000002
+I(d) Myelodysplastic syndrome and other myeloproliferative,Illinois,83,79093866,0.1
+I(d) Myelodysplastic syndrome and other myeloproliferative,Indiana,40,37414578,0.11000000000000001
+I(d) Myelodysplastic syndrome and other myeloproliferative,Iowa,24,18924991,0.13
+I(d) Myelodysplastic syndrome and other myeloproliferative,Kansas,33,18406535,0.18000000000000002
+I(d) Myelodysplastic syndrome and other myeloproliferative,Kentucky,33,25974328,0.13
+I(d) Myelodysplastic syndrome and other myeloproliferative,Louisiana,58,29086064,0.2
+I(d) Myelodysplastic syndrome and other myeloproliferative,Maryland,38,34984232,0.11000000000000001
+I(d) Myelodysplastic syndrome and other myeloproliferative,Massachusetts,29,37580693,0.08000000000000002
+I(d) Myelodysplastic syndrome and other myeloproliferative,Michigan,111,61154757,0.18000000000000002
+I(d) Myelodysplastic syndrome and other myeloproliferative,Minnesota,47,33142582,0.13999999999999999
+I(d) Myelodysplastic syndrome and other myeloproliferative,Missouri,39,36266473,0.11000000000000001
+I(d) Myelodysplastic syndrome and other myeloproliferative,Nebraska,25,11903430,0.21000000000000002
+I(d) Myelodysplastic syndrome and other myeloproliferative,Nevada,19,16014625,0.12
+I(d) Myelodysplastic syndrome and other myeloproliferative,New Jersey,84,52654520,0.16000000000000003
+I(d) Myelodysplastic syndrome and other myeloproliferative,New York,193,113517852,0.17
+I(d) Myelodysplastic syndrome and other myeloproliferative,North Carolina,76,56649928,0.13
+I(d) Myelodysplastic syndrome and other myeloproliferative,Ohio,112,70366333,0.16000000000000003
+I(d) Myelodysplastic syndrome and other myeloproliferative,Oklahoma,24,23756620,0.1
+I(d) Myelodysplastic syndrome and other myeloproliferative,Oregon,35,22097759,0.16000000000000003
+I(d) Myelodysplastic syndrome and other myeloproliferative,Pennsylvania,93,72683727,0.13
+I(d) Myelodysplastic syndrome and other myeloproliferative,South Carolina,27,27583495,0.1
+I(d) Myelodysplastic syndrome and other myeloproliferative,Tennessee,48,37884392,0.13
+I(d) Myelodysplastic syndrome and other myeloproliferative,Texas,268,172599550,0.16000000000000003
+I(d) Myelodysplastic syndrome and other myeloproliferative,Utah,25,21588203,0.12
+I(d) Myelodysplastic syndrome and other myeloproliferative,Virginia,43,47413830,0.09000000000000001
+I(d) Myelodysplastic syndrome and other myeloproliferative,Washington,72,40520105,0.18000000000000002
+I(d) Myelodysplastic syndrome and other myeloproliferative,Wisconsin,35,34329682,0.1
+I(d) Myelodysplastic syndrome and other myeloproliferative,Wyoming,0,3396153,0
+I(e) Unspecified and other specified leukemias,Alabama,28,28877079,0.1
+I(e) Unspecified and other specified leukemias,Arizona,55,39775657,0.13999999999999999
+I(e) Unspecified and other specified leukemias,Arkansas,18,17898158,0.1
+I(e) Unspecified and other specified leukemias,California,232,236070538,0.1
+I(e) Unspecified and other specified leukemias,Connecticut,36,20830240,0.17
+I(e) Unspecified and other specified leukemias,District of Columbia,0,3083338,0
+I(e) Unspecified and other specified leukemias,Florida,80,102863635,0.08000000000000002
+I(e) Unspecified and other specified leukemias,Georgia,70,62011319,0.11000000000000001
+I(e) Unspecified and other specified leukemias,Illinois,91,79093866,0.12
+I(e) Unspecified and other specified leukemias,Indiana,30,37414578,0.08000000000000002
+I(e) Unspecified and other specified leukemias,Kansas,18,18406535,0.1
+I(e) Unspecified and other specified leukemias,Kentucky,31,25974328,0.12
+I(e) Unspecified and other specified leukemias,Louisiana,36,29086064,0.12
+I(e) Unspecified and other specified leukemias,Maryland,60,34984232,0.17
+I(e) Unspecified and other specified leukemias,Massachusetts,18,37580693,0.05
+I(e) Unspecified and other specified leukemias,Michigan,58,61154757,0.09000000000000001
+I(e) Unspecified and other specified leukemias,Minnesota,38,33142582,0.11000000000000001
+I(e) Unspecified and other specified leukemias,Missouri,27,36266473,0.06999999999999999
+I(e) Unspecified and other specified leukemias,Nevada,62,16014625,0.39
+I(e) Unspecified and other specified leukemias,New Jersey,71,52654520,0.13
+I(e) Unspecified and other specified leukemias,New Mexico,19,12904509,0.15000000000000002
+I(e) Unspecified and other specified leukemias,New York,112,113517852,0.1
+I(e) Unspecified and other specified leukemias,North Carolina,49,56649928,0.09000000000000001
+I(e) Unspecified and other specified leukemias,Ohio,55,70366333,0.08000000000000002
+I(e) Unspecified and other specified leukemias,Oklahoma,31,23756620,0.13
+I(e) Unspecified and other specified leukemias,Oregon,17,22097759,0.08000000000000002
+I(e) Unspecified and other specified leukemias,Pennsylvania,56,72683727,0.08000000000000002
+I(e) Unspecified and other specified leukemias,Rhode Island,18,6082080,0.30000000000000004
+I(e) Unspecified and other specified leukemias,South Carolina,26,27583495,0.09000000000000001
+I(e) Unspecified and other specified leukemias,Tennessee,47,37884392,0.12
+I(e) Unspecified and other specified leukemias,Texas,384,172599550,0.22000000000000003
+I(e) Unspecified and other specified leukemias,Virginia,58,47413830,0.12
+I(e) Unspecified and other specified leukemias,Washington,27,40520105,0.06999999999999999
+I(e) Unspecified and other specified leukemias,Wisconsin,39,34329682,0.11000000000000001
+II Lymphoma and reticuloendothelial neoplasms,Alabama,666,28877079,2.31
+II Lymphoma and reticuloendothelial neoplasms,Alaska,125,4720625,2.6500000000000004
+II Lymphoma and reticuloendothelial neoplasms,Arizona,946,39775657,2.3800000000000003
+II Lymphoma and reticuloendothelial neoplasms,Arkansas,513,17898158,2.87
+II Lymphoma and reticuloendothelial neoplasms,California,6087,236070538,2.58
+II Lymphoma and reticuloendothelial neoplasms,Colorado,839,30887289,2.72
+II Lymphoma and reticuloendothelial neoplasms,Connecticut,714,20830240,3.4299999999999997
+II Lymphoma and reticuloendothelial neoplasms,Delaware,158,5268436,3
+II Lymphoma and reticuloendothelial neoplasms,District of Columbia,71,3083338,2.3000000000000003
+II Lymphoma and reticuloendothelial neoplasms,Florida,2876,102863635,2.8000000000000003
+II Lymphoma and reticuloendothelial neoplasms,Georgia,1707,62011319,2.75
+II Lymphoma and reticuloendothelial neoplasms,Hawaii,192,7747695,2.4800000000000004
+II Lymphoma and reticuloendothelial neoplasms,Idaho,275,10734756,2.5600000000000005
+II Lymphoma and reticuloendothelial neoplasms,Illinois,2236,79093866,2.83
+II Lymphoma and reticuloendothelial neoplasms,Indiana,1039,37414578,2.7800000000000002
+II Lymphoma and reticuloendothelial neoplasms,Iowa,506,18924991,2.67
+II Lymphoma and reticuloendothelial neoplasms,Kansas,508,18406535,2.7600000000000002
+II Lymphoma and reticuloendothelial neoplasms,Kentucky,754,25974328,2.9000000000000004
+II Lymphoma and reticuloendothelial neoplasms,Louisiana,729,29086064,2.5100000000000002
+II Lymphoma and reticuloendothelial neoplasms,Maine,251,7144119,3.5100000000000002
+II Lymphoma and reticuloendothelial neoplasms,Maryland,894,34984232,2.5600000000000005
+II Lymphoma and reticuloendothelial neoplasms,Massachusetts,1116,37580693,2.97
+II Lymphoma and reticuloendothelial neoplasms,Michigan,1797,61154757,2.94
+II Lymphoma and reticuloendothelial neoplasms,Minnesota,1026,33142582,3.1
+II Lymphoma and reticuloendothelial neoplasms,Mississippi,361,15669603,2.3000000000000003
+II Lymphoma and reticuloendothelial neoplasms,Missouri,940,36266473,2.59
+II Lymphoma and reticuloendothelial neoplasms,Montana,160,5846055,2.74
+II Lymphoma and reticuloendothelial neoplasms,Nebraska,342,11903430,2.87
+II Lymphoma and reticuloendothelial neoplasms,Nevada,395,16014625,2.47
+II Lymphoma and reticuloendothelial neoplasms,New Hampshire,239,7453487,3.2100000000000004
+II Lymphoma and reticuloendothelial neoplasms,New Jersey,1686,52654520,3.2
+II Lymphoma and reticuloendothelial neoplasms,New Mexico,284,12904509,2.2
+II Lymphoma and reticuloendothelial neoplasms,New York,3686,113517852,3.25
+II Lymphoma and reticuloendothelial neoplasms,North Carolina,1489,56649928,2.6300000000000003
+II Lymphoma and reticuloendothelial neoplasms,North Dakota,119,4266274,2.79
+II Lymphoma and reticuloendothelial neoplasms,Ohio,1882,70366333,2.67
+II Lymphoma and reticuloendothelial neoplasms,Oklahoma,595,23756620,2.5
+II Lymphoma and reticuloendothelial neoplasms,Oregon,654,22097759,2.9600000000000004
+II Lymphoma and reticuloendothelial neoplasms,Pennsylvania,2094,72683727,2.8800000000000003
+II Lymphoma and reticuloendothelial neoplasms,Rhode Island,164,6082080,2.7
+II Lymphoma and reticuloendothelial neoplasms,South Carolina,703,27583495,2.5500000000000003
+II Lymphoma and reticuloendothelial neoplasms,South Dakota,122,4834317,2.52
+II Lymphoma and reticuloendothelial neoplasms,Tennessee,987,37884392,2.6100000000000003
+II Lymphoma and reticuloendothelial neoplasms,Texas,4615,172599550,2.67
+II Lymphoma and reticuloendothelial neoplasms,Utah,596,21588203,2.7600000000000002
+II Lymphoma and reticuloendothelial neoplasms,Vermont,111,3490801,3.18
+II Lymphoma and reticuloendothelial neoplasms,Virginia,1188,47413830,2.5100000000000002
+II Lymphoma and reticuloendothelial neoplasms,Washington,1077,40520105,2.66
+II Lymphoma and reticuloendothelial neoplasms,West Virginia,266,9950567,2.67
+II Lymphoma and reticuloendothelial neoplasms,Wisconsin,984,34329682,2.87
+II Lymphoma and reticuloendothelial neoplasms,Wyoming,81,3396153,2.39
+II(a) Hodgkin lymphomas,Alabama,312,28877079,1.08
+II(a) Hodgkin lymphomas,Alaska,50,4720625,1.06
+II(a) Hodgkin lymphomas,Arizona,398,39775657,1
+II(a) Hodgkin lymphomas,Arkansas,232,17898158,1.3
+II(a) Hodgkin lymphomas,California,2605,236070538,1.1
+II(a) Hodgkin lymphomas,Colorado,383,30887289,1.2400000000000002
+II(a) Hodgkin lymphomas,Connecticut,342,20830240,1.64
+II(a) Hodgkin lymphomas,Delaware,75,5268436,1.42
+II(a) Hodgkin lymphomas,District of Columbia,33,3083338,1.07
+II(a) Hodgkin lymphomas,Florida,1216,102863635,1.1800000000000002
+II(a) Hodgkin lymphomas,Georgia,709,62011319,1.1400000000000001
+II(a) Hodgkin lymphomas,Hawaii,57,7747695,0.7400000000000001
+II(a) Hodgkin lymphomas,Idaho,129,10734756,1.2000000000000002
+II(a) Hodgkin lymphomas,Illinois,1023,79093866,1.29
+II(a) Hodgkin lymphomas,Indiana,513,37414578,1.37
+II(a) Hodgkin lymphomas,Iowa,229,18924991,1.21
+II(a) Hodgkin lymphomas,Kansas,207,18406535,1.1199999999999999
+II(a) Hodgkin lymphomas,Kentucky,339,25974328,1.31
+II(a) Hodgkin lymphomas,Louisiana,337,29086064,1.16
+II(a) Hodgkin lymphomas,Maine,134,7144119,1.8800000000000001
+II(a) Hodgkin lymphomas,Maryland,443,34984232,1.27
+II(a) Hodgkin lymphomas,Massachusetts,547,37580693,1.46
+II(a) Hodgkin lymphomas,Michigan,848,61154757,1.3900000000000001
+II(a) Hodgkin lymphomas,Minnesota,445,33142582,1.34
+II(a) Hodgkin lymphomas,Mississippi,165,15669603,1.05
+II(a) Hodgkin lymphomas,Missouri,434,36266473,1.2000000000000002
+II(a) Hodgkin lymphomas,Montana,73,5846055,1.25
+II(a) Hodgkin lymphomas,Nebraska,161,11903430,1.35
+II(a) Hodgkin lymphomas,Nevada,176,16014625,1.1
+II(a) Hodgkin lymphomas,New Hampshire,108,7453487,1.4500000000000002
+II(a) Hodgkin lymphomas,New Jersey,790,52654520,1.5
+II(a) Hodgkin lymphomas,New Mexico,110,12904509,0.8500000000000001
+II(a) Hodgkin lymphomas,New York,1741,113517852,1.5300000000000002
+II(a) Hodgkin lymphomas,North Carolina,647,56649928,1.1400000000000001
+II(a) Hodgkin lymphomas,North Dakota,61,4266274,1.4300000000000002
+II(a) Hodgkin lymphomas,Ohio,896,70366333,1.27
+II(a) Hodgkin lymphomas,Oklahoma,264,23756620,1.11
+II(a) Hodgkin lymphomas,Oregon,291,22097759,1.32
+II(a) Hodgkin lymphomas,Pennsylvania,1061,72683727,1.46
+II(a) Hodgkin lymphomas,Rhode Island,97,6082080,1.59
+II(a) Hodgkin lymphomas,South Carolina,322,27583495,1.17
+II(a) Hodgkin lymphomas,South Dakota,53,4834317,1.1
+II(a) Hodgkin lymphomas,Tennessee,453,37884392,1.2000000000000002
+II(a) Hodgkin lymphomas,Texas,1892,172599550,1.1
+II(a) Hodgkin lymphomas,Utah,236,21588203,1.09
+II(a) Hodgkin lymphomas,Vermont,63,3490801,1.8
+II(a) Hodgkin lymphomas,Virginia,565,47413830,1.1900000000000002
+II(a) Hodgkin lymphomas,Washington,484,40520105,1.1900000000000002
+II(a) Hodgkin lymphomas,West Virginia,135,9950567,1.36
+II(a) Hodgkin lymphomas,Wisconsin,492,34329682,1.4300000000000002
+II(a) Hodgkin lymphomas,Wyoming,47,3396153,1.3800000000000001
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Alabama,252,28877079,0.87
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Alaska,43,4720625,0.91
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Arizona,297,39775657,0.75
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Arkansas,197,17898158,1.1
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),California,2179,236070538,0.9199999999999999
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Colorado,262,30887289,0.8500000000000001
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Connecticut,239,20830240,1.1500000000000001
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Delaware,52,5268436,0.9900000000000001
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),District of Columbia,21,3083338,0.68
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Florida,1046,102863635,1.02
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Georgia,680,62011319,1.1
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Hawaii,81,7747695,1.05
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Idaho,94,10734756,0.8800000000000001
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Illinois,782,79093866,0.9900000000000001
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Indiana,338,37414578,0.9
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Iowa,181,18924991,0.96
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Kansas,163,18406535,0.8900000000000001
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Kentucky,230,25974328,0.8900000000000001
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Louisiana,250,29086064,0.86
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Maine,80,7144119,1.1199999999999999
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Maryland,297,34984232,0.8500000000000001
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Massachusetts,368,37580693,0.9800000000000001
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Michigan,584,61154757,0.9500000000000001
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Minnesota,339,33142582,1.02
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Mississippi,127,15669603,0.81
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Missouri,312,36266473,0.86
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Montana,49,5846055,0.8400000000000001
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Nebraska,109,11903430,0.9199999999999999
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Nevada,140,16014625,0.87
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),New Hampshire,85,7453487,1.1400000000000001
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),New Jersey,565,52654520,1.07
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),New Mexico,114,12904509,0.8800000000000001
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),New York,1273,113517852,1.1199999999999999
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),North Carolina,557,56649928,0.9800000000000001
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),North Dakota,29,4266274,0.68
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Ohio,591,70366333,0.8400000000000001
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Oklahoma,193,23756620,0.81
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Oregon,213,22097759,0.96
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Pennsylvania,645,72683727,0.8900000000000001
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Rhode Island,40,6082080,0.66
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),South Carolina,253,27583495,0.9199999999999999
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),South Dakota,42,4834317,0.87
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Tennessee,339,37884392,0.8900000000000001
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Texas,1546,172599550,0.9
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Utah,219,21588203,1.01
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Vermont,28,3490801,0.8
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Virginia,417,47413830,0.8800000000000001
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Washington,388,40520105,0.96
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),West Virginia,80,9950567,0.8
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Wisconsin,291,34329682,0.8500000000000001
+II(b) Non-Hodgkin lymphomas (except Burkitt lymphoma),Wyoming,19,3396153,0.5599999999999999
+II(c) Burkitt lymphoma,Alabama,61,28877079,0.21000000000000002
+II(c) Burkitt lymphoma,Arizona,98,39775657,0.25
+II(c) Burkitt lymphoma,Arkansas,31,17898158,0.17
+II(c) Burkitt lymphoma,California,525,236070538,0.22000000000000003
+II(c) Burkitt lymphoma,Colorado,91,30887289,0.29
+II(c) Burkitt lymphoma,Connecticut,70,20830240,0.34
+II(c) Burkitt lymphoma,Florida,285,102863635,0.27999999999999997
+II(c) Burkitt lymphoma,Georgia,139,62011319,0.22000000000000003
+II(c) Burkitt lymphoma,Hawaii,17,7747695,0.22000000000000003
+II(c) Burkitt lymphoma,Idaho,23,10734756,0.21000000000000002
+II(c) Burkitt lymphoma,Illinois,172,79093866,0.22000000000000003
+II(c) Burkitt lymphoma,Indiana,89,37414578,0.24
+II(c) Burkitt lymphoma,Iowa,53,18924991,0.27999999999999997
+II(c) Burkitt lymphoma,Kansas,64,18406535,0.35000000000000003
+II(c) Burkitt lymphoma,Kentucky,93,25974328,0.36000000000000004
+II(c) Burkitt lymphoma,Louisiana,68,29086064,0.22999999999999998
+II(c) Burkitt lymphoma,Maine,19,7144119,0.27
+II(c) Burkitt lymphoma,Maryland,58,34984232,0.17
+II(c) Burkitt lymphoma,Massachusetts,112,37580693,0.30000000000000004
+II(c) Burkitt lymphoma,Michigan,176,61154757,0.29
+II(c) Burkitt lymphoma,Minnesota,87,33142582,0.26
+II(c) Burkitt lymphoma,Mississippi,28,15669603,0.18000000000000002
+II(c) Burkitt lymphoma,Missouri,84,36266473,0.22999999999999998
+II(c) Burkitt lymphoma,Montana,24,5846055,0.41
+II(c) Burkitt lymphoma,Nebraska,34,11903430,0.29
+II(c) Burkitt lymphoma,Nevada,37,16014625,0.22999999999999998
+II(c) Burkitt lymphoma,New Jersey,152,52654520,0.29
+II(c) Burkitt lymphoma,New Mexico,25,12904509,0.19
+II(c) Burkitt lymphoma,New York,305,113517852,0.27
+II(c) Burkitt lymphoma,North Carolina,136,56649928,0.24
+II(c) Burkitt lymphoma,Ohio,205,70366333,0.29
+II(c) Burkitt lymphoma,Oklahoma,60,23756620,0.25
+II(c) Burkitt lymphoma,Oregon,65,22097759,0.29
+II(c) Burkitt lymphoma,Pennsylvania,187,72683727,0.26
+II(c) Burkitt lymphoma,Rhode Island,16,6082080,0.26
+II(c) Burkitt lymphoma,South Carolina,60,27583495,0.22000000000000003
+II(c) Burkitt lymphoma,Tennessee,87,37884392,0.22999999999999998
+II(c) Burkitt lymphoma,Texas,358,172599550,0.21000000000000002
+II(c) Burkitt lymphoma,Utah,66,21588203,0.31000000000000005
+II(c) Burkitt lymphoma,Virginia,86,47413830,0.18000000000000002
+II(c) Burkitt lymphoma,Washington,91,40520105,0.22000000000000003
+II(c) Burkitt lymphoma,West Virginia,32,9950567,0.32000000000000006
+II(c) Burkitt lymphoma,Wisconsin,99,34329682,0.29
+II(d) Miscellaneous lymphoreticular neoplasms,Alabama,33,28877079,0.11000000000000001
+II(d) Miscellaneous lymphoreticular neoplasms,Alaska,20,4720625,0.42000000000000004
+II(d) Miscellaneous lymphoreticular neoplasms,Arizona,138,39775657,0.35000000000000003
+II(d) Miscellaneous lymphoreticular neoplasms,Arkansas,45,17898158,0.25
+II(d) Miscellaneous lymphoreticular neoplasms,California,718,236070538,0.30000000000000004
+II(d) Miscellaneous lymphoreticular neoplasms,Colorado,93,30887289,0.30000000000000004
+II(d) Miscellaneous lymphoreticular neoplasms,Connecticut,54,20830240,0.26
+II(d) Miscellaneous lymphoreticular neoplasms,Delaware,21,5268436,0.4
+II(d) Miscellaneous lymphoreticular neoplasms,Florida,270,102863635,0.26
+II(d) Miscellaneous lymphoreticular neoplasms,Georgia,153,62011319,0.25
+II(d) Miscellaneous lymphoreticular neoplasms,Hawaii,35,7747695,0.45
+II(d) Miscellaneous lymphoreticular neoplasms,Idaho,27,10734756,0.25
+II(d) Miscellaneous lymphoreticular neoplasms,Illinois,233,79093866,0.29
+II(d) Miscellaneous lymphoreticular neoplasms,Indiana,93,37414578,0.25
+II(d) Miscellaneous lymphoreticular neoplasms,Iowa,40,18924991,0.21000000000000002
+II(d) Miscellaneous lymphoreticular neoplasms,Kansas,65,18406535,0.35000000000000003
+II(d) Miscellaneous lymphoreticular neoplasms,Kentucky,84,25974328,0.32000000000000006
+II(d) Miscellaneous lymphoreticular neoplasms,Louisiana,61,29086064,0.21000000000000002
+II(d) Miscellaneous lymphoreticular neoplasms,Maryland,79,34984232,0.22999999999999998
+II(d) Miscellaneous lymphoreticular neoplasms,Massachusetts,84,37580693,0.22000000000000003
+II(d) Miscellaneous lymphoreticular neoplasms,Michigan,150,61154757,0.25
+II(d) Miscellaneous lymphoreticular neoplasms,Minnesota,147,33142582,0.44000000000000006
+II(d) Miscellaneous lymphoreticular neoplasms,Mississippi,37,15669603,0.24
+II(d) Miscellaneous lymphoreticular neoplasms,Missouri,97,36266473,0.27
+II(d) Miscellaneous lymphoreticular neoplasms,Nebraska,38,11903430,0.32000000000000006
+II(d) Miscellaneous lymphoreticular neoplasms,Nevada,37,16014625,0.22999999999999998
+II(d) Miscellaneous lymphoreticular neoplasms,New Hampshire,28,7453487,0.38
+II(d) Miscellaneous lymphoreticular neoplasms,New Jersey,156,52654520,0.30000000000000004
+II(d) Miscellaneous lymphoreticular neoplasms,New Mexico,30,12904509,0.22999999999999998
+II(d) Miscellaneous lymphoreticular neoplasms,New York,333,113517852,0.29
+II(d) Miscellaneous lymphoreticular neoplasms,North Carolina,130,56649928,0.22999999999999998
+II(d) Miscellaneous lymphoreticular neoplasms,North Dakota,18,4266274,0.42000000000000004
+II(d) Miscellaneous lymphoreticular neoplasms,Ohio,174,70366333,0.25
+II(d) Miscellaneous lymphoreticular neoplasms,Oklahoma,63,23756620,0.27
+II(d) Miscellaneous lymphoreticular neoplasms,Oregon,81,22097759,0.37000000000000005
+II(d) Miscellaneous lymphoreticular neoplasms,Pennsylvania,182,72683727,0.25
+II(d) Miscellaneous lymphoreticular neoplasms,South Carolina,53,27583495,0.19
+II(d) Miscellaneous lymphoreticular neoplasms,Tennessee,100,37884392,0.26
+II(d) Miscellaneous lymphoreticular neoplasms,Texas,703,172599550,0.41
+II(d) Miscellaneous lymphoreticular neoplasms,Utah,69,21588203,0.32000000000000006
+II(d) Miscellaneous lymphoreticular neoplasms,Virginia,105,47413830,0.22000000000000003
+II(d) Miscellaneous lymphoreticular neoplasms,Washington,109,40520105,0.27
+II(d) Miscellaneous lymphoreticular neoplasms,West Virginia,17,9950567,0.17
+II(d) Miscellaneous lymphoreticular neoplasms,Wisconsin,93,34329682,0.27
+II(e) Unspecified lymphomas,California,60,236070538,0.03
+II(e) Unspecified lymphomas,Florida,59,102863635,0.06
+II(e) Unspecified lymphomas,Georgia,26,62011319,0.04000000000000001
+II(e) Unspecified lymphomas,Illinois,26,79093866,0.03
+II(e) Unspecified lymphomas,Maryland,17,34984232,0.05
+II(e) Unspecified lymphomas,Michigan,39,61154757,0.06
+II(e) Unspecified lymphomas,Nebraska,0,11903430,0
+II(e) Unspecified lymphomas,New Jersey,23,52654520,0.04000000000000001
+II(e) Unspecified lymphomas,New York,34,113517852,0.03
+II(e) Unspecified lymphomas,North Carolina,19,56649928,0.03
+II(e) Unspecified lymphomas,Ohio,16,70366333,0.020000000000000004
+II(e) Unspecified lymphomas,Pennsylvania,19,72683727,0.03
+II(e) Unspecified lymphomas,Texas,116,172599550,0.06999999999999999
+III CNS and misc intracranial and intraspinal neoplasms,Alabama,868,28877079,3.0100000000000002
+III CNS and misc intracranial and intraspinal neoplasms,Alaska,121,4720625,2.5600000000000005
+III CNS and misc intracranial and intraspinal neoplasms,Arizona,1166,39775657,2.93
+III CNS and misc intracranial and intraspinal neoplasms,Arkansas,531,17898158,2.97
+III CNS and misc intracranial and intraspinal neoplasms,California,6283,236070538,2.66
+III CNS and misc intracranial and intraspinal neoplasms,Colorado,906,30887289,2.93
+III CNS and misc intracranial and intraspinal neoplasms,Connecticut,689,20830240,3.3100000000000005
+III CNS and misc intracranial and intraspinal neoplasms,Delaware,207,5268436,3.9299999999999997
+III CNS and misc intracranial and intraspinal neoplasms,District of Columbia,83,3083338,2.69
+III CNS and misc intracranial and intraspinal neoplasms,Florida,3521,102863635,3.4200000000000004
+III CNS and misc intracranial and intraspinal neoplasms,Georgia,1877,62011319,3.0300000000000002
+III CNS and misc intracranial and intraspinal neoplasms,Hawaii,170,7747695,2.19
+III CNS and misc intracranial and intraspinal neoplasms,Idaho,331,10734756,3.08
+III CNS and misc intracranial and intraspinal neoplasms,Illinois,2244,79093866,2.84
+III CNS and misc intracranial and intraspinal neoplasms,Indiana,1263,37414578,3.38
+III CNS and misc intracranial and intraspinal neoplasms,Iowa,638,18924991,3.3700000000000006
+III CNS and misc intracranial and intraspinal neoplasms,Kansas,533,18406535,2.9000000000000004
+III CNS and misc intracranial and intraspinal neoplasms,Kentucky,965,25974328,3.7200000000000006
+III CNS and misc intracranial and intraspinal neoplasms,Louisiana,858,29086064,2.95
+III CNS and misc intracranial and intraspinal neoplasms,Maine,263,7144119,3.6799999999999997
+III CNS and misc intracranial and intraspinal neoplasms,Maryland,972,34984232,2.7800000000000002
+III CNS and misc intracranial and intraspinal neoplasms,Massachusetts,1226,37580693,3.2600000000000002
+III CNS and misc intracranial and intraspinal neoplasms,Michigan,1799,61154757,2.94
+III CNS and misc intracranial and intraspinal neoplasms,Minnesota,995,33142582,3
+III CNS and misc intracranial and intraspinal neoplasms,Mississippi,445,15669603,2.84
+III CNS and misc intracranial and intraspinal neoplasms,Missouri,1182,36266473,3.2600000000000002
+III CNS and misc intracranial and intraspinal neoplasms,Montana,171,5846055,2.93
+III CNS and misc intracranial and intraspinal neoplasms,Nebraska,429,11903430,3.6
+III CNS and misc intracranial and intraspinal neoplasms,Nevada,420,16014625,2.62
+III CNS and misc intracranial and intraspinal neoplasms,New Hampshire,283,7453487,3.8000000000000003
+III CNS and misc intracranial and intraspinal neoplasms,New Jersey,1802,52654520,3.4200000000000004
+III CNS and misc intracranial and intraspinal neoplasms,New Mexico,282,12904509,2.19
+III CNS and misc intracranial and intraspinal neoplasms,New York,3850,113517852,3.39
+III CNS and misc intracranial and intraspinal neoplasms,North Carolina,1810,56649928,3.2
+III CNS and misc intracranial and intraspinal neoplasms,North Dakota,125,4266274,2.93
+III CNS and misc intracranial and intraspinal neoplasms,Ohio,2416,70366333,3.4299999999999997
+III CNS and misc intracranial and intraspinal neoplasms,Oklahoma,696,23756620,2.93
+III CNS and misc intracranial and intraspinal neoplasms,Oregon,753,22097759,3.41
+III CNS and misc intracranial and intraspinal neoplasms,Pennsylvania,2703,72683727,3.7200000000000006
+III CNS and misc intracranial and intraspinal neoplasms,Rhode Island,174,6082080,2.8600000000000003
+III CNS and misc intracranial and intraspinal neoplasms,South Carolina,763,27583495,2.77
+III CNS and misc intracranial and intraspinal neoplasms,South Dakota,127,4834317,2.6300000000000003
+III CNS and misc intracranial and intraspinal neoplasms,Tennessee,1178,37884392,3.1100000000000003
+III CNS and misc intracranial and intraspinal neoplasms,Texas,5542,172599550,3.2100000000000004
+III CNS and misc intracranial and intraspinal neoplasms,Utah,724,21588203,3.35
+III CNS and misc intracranial and intraspinal neoplasms,Vermont,92,3490801,2.64
+III CNS and misc intracranial and intraspinal neoplasms,Virginia,1343,47413830,2.83
+III CNS and misc intracranial and intraspinal neoplasms,Washington,1515,40520105,3.74
+III CNS and misc intracranial and intraspinal neoplasms,West Virginia,362,9950567,3.64
+III CNS and misc intracranial and intraspinal neoplasms,Wisconsin,1108,34329682,3.23
+III CNS and misc intracranial and intraspinal neoplasms,Wyoming,90,3396153,2.6500000000000004
+III(a) Ependymomas and choroid plexus tumor,Alabama,73,28877079,0.25
+III(a) Ependymomas and choroid plexus tumor,Arizona,94,39775657,0.24
+III(a) Ependymomas and choroid plexus tumor,Arkansas,30,17898158,0.17
+III(a) Ependymomas and choroid plexus tumor,California,615,236070538,0.26
+III(a) Ependymomas and choroid plexus tumor,Colorado,81,30887289,0.26
+III(a) Ependymomas and choroid plexus tumor,Connecticut,61,20830240,0.29
+III(a) Ependymomas and choroid plexus tumor,Florida,262,102863635,0.25
+III(a) Ependymomas and choroid plexus tumor,Georgia,154,62011319,0.25
+III(a) Ependymomas and choroid plexus tumor,Hawaii,16,7747695,0.21000000000000002
+III(a) Ependymomas and choroid plexus tumor,Idaho,29,10734756,0.27
+III(a) Ependymomas and choroid plexus tumor,Illinois,189,79093866,0.24
+III(a) Ependymomas and choroid plexus tumor,Indiana,101,37414578,0.27
+III(a) Ependymomas and choroid plexus tumor,Iowa,42,18924991,0.22000000000000003
+III(a) Ependymomas and choroid plexus tumor,Kansas,45,18406535,0.24
+III(a) Ependymomas and choroid plexus tumor,Kentucky,65,25974328,0.25
+III(a) Ependymomas and choroid plexus tumor,Louisiana,67,29086064,0.22999999999999998
+III(a) Ependymomas and choroid plexus tumor,Maine,16,7144119,0.22000000000000003
+III(a) Ependymomas and choroid plexus tumor,Maryland,76,34984232,0.22000000000000003
+III(a) Ependymomas and choroid plexus tumor,Massachusetts,104,37580693,0.27999999999999997
+III(a) Ependymomas and choroid plexus tumor,Michigan,142,61154757,0.22999999999999998
+III(a) Ependymomas and choroid plexus tumor,Minnesota,100,33142582,0.30000000000000004
+III(a) Ependymomas and choroid plexus tumor,Mississippi,34,15669603,0.22000000000000003
+III(a) Ependymomas and choroid plexus tumor,Missouri,124,36266473,0.34
+III(a) Ependymomas and choroid plexus tumor,Montana,18,5846055,0.31000000000000005
+III(a) Ependymomas and choroid plexus tumor,Nebraska,25,11903430,0.21000000000000002
+III(a) Ependymomas and choroid plexus tumor,Nevada,44,16014625,0.27
+III(a) Ependymomas and choroid plexus tumor,New Hampshire,25,7453487,0.34
+III(a) Ependymomas and choroid plexus tumor,New Jersey,146,52654520,0.27999999999999997
+III(a) Ependymomas and choroid plexus tumor,New Mexico,31,12904509,0.24
+III(a) Ependymomas and choroid plexus tumor,New York,296,113517852,0.26
+III(a) Ependymomas and choroid plexus tumor,North Carolina,152,56649928,0.27
+III(a) Ependymomas and choroid plexus tumor,Ohio,196,70366333,0.27999999999999997
+III(a) Ependymomas and choroid plexus tumor,Oklahoma,59,23756620,0.25
+III(a) Ependymomas and choroid plexus tumor,Oregon,64,22097759,0.29
+III(a) Ependymomas and choroid plexus tumor,Pennsylvania,180,72683727,0.25
+III(a) Ependymomas and choroid plexus tumor,Rhode Island,17,6082080,0.27999999999999997
+III(a) Ependymomas and choroid plexus tumor,South Carolina,60,27583495,0.22000000000000003
+III(a) Ependymomas and choroid plexus tumor,Tennessee,84,37884392,0.22000000000000003
+III(a) Ependymomas and choroid plexus tumor,Texas,498,172599550,0.29
+III(a) Ependymomas and choroid plexus tumor,Utah,72,21588203,0.33
+III(a) Ependymomas and choroid plexus tumor,Virginia,117,47413830,0.25
+III(a) Ependymomas and choroid plexus tumor,Washington,115,40520105,0.27999999999999997
+III(a) Ependymomas and choroid plexus tumor,West Virginia,22,9950567,0.22000000000000003
+III(a) Ependymomas and choroid plexus tumor,Wisconsin,89,34329682,0.26
+III(b) Astrocytomas,Alabama,390,28877079,1.35
+III(b) Astrocytomas,Alaska,59,4720625,1.25
+III(b) Astrocytomas,Arizona,582,39775657,1.46
+III(b) Astrocytomas,Arkansas,270,17898158,1.51
+III(b) Astrocytomas,California,3045,236070538,1.29
+III(b) Astrocytomas,Colorado,449,30887289,1.4500000000000002
+III(b) Astrocytomas,Connecticut,345,20830240,1.6600000000000001
+III(b) Astrocytomas,Delaware,99,5268436,1.8800000000000001
+III(b) Astrocytomas,District of Columbia,38,3083338,1.2300000000000002
+III(b) Astrocytomas,Florida,1769,102863635,1.72
+III(b) Astrocytomas,Georgia,973,62011319,1.57
+III(b) Astrocytomas,Hawaii,68,7747695,0.8800000000000001
+III(b) Astrocytomas,Idaho,175,10734756,1.6300000000000001
+III(b) Astrocytomas,Illinois,1151,79093866,1.46
+III(b) Astrocytomas,Indiana,624,37414578,1.67
+III(b) Astrocytomas,Iowa,330,18924991,1.74
+III(b) Astrocytomas,Kansas,278,18406535,1.51
+III(b) Astrocytomas,Kentucky,520,25974328,2
+III(b) Astrocytomas,Louisiana,432,29086064,1.4900000000000002
+III(b) Astrocytomas,Maine,143,7144119,2
+III(b) Astrocytomas,Maryland,487,34984232,1.3900000000000001
+III(b) Astrocytomas,Massachusetts,581,37580693,1.55
+III(b) Astrocytomas,Michigan,887,61154757,1.4500000000000002
+III(b) Astrocytomas,Minnesota,571,33142582,1.72
+III(b) Astrocytomas,Mississippi,226,15669603,1.4400000000000002
+III(b) Astrocytomas,Missouri,601,36266473,1.6600000000000001
+III(b) Astrocytomas,Montana,90,5846055,1.54
+III(b) Astrocytomas,Nebraska,223,11903430,1.87
+III(b) Astrocytomas,Nevada,208,16014625,1.3
+III(b) Astrocytomas,New Hampshire,146,7453487,1.9600000000000002
+III(b) Astrocytomas,New Jersey,923,52654520,1.75
+III(b) Astrocytomas,New Mexico,136,12904509,1.05
+III(b) Astrocytomas,New York,2063,113517852,1.82
+III(b) Astrocytomas,North Carolina,968,56649928,1.7100000000000002
+III(b) Astrocytomas,North Dakota,63,4266274,1.4800000000000002
+III(b) Astrocytomas,Ohio,1240,70366333,1.7600000000000002
+III(b) Astrocytomas,Oklahoma,315,23756620,1.33
+III(b) Astrocytomas,Oregon,384,22097759,1.74
+III(b) Astrocytomas,Pennsylvania,1446,72683727,1.99
+III(b) Astrocytomas,Rhode Island,102,6082080,1.6800000000000002
+III(b) Astrocytomas,South Carolina,397,27583495,1.4400000000000002
+III(b) Astrocytomas,South Dakota,66,4834317,1.37
+III(b) Astrocytomas,Tennessee,620,37884392,1.64
+III(b) Astrocytomas,Texas,2677,172599550,1.55
+III(b) Astrocytomas,Utah,372,21588203,1.72
+III(b) Astrocytomas,Vermont,39,3490801,1.1199999999999999
+III(b) Astrocytomas,Virginia,678,47413830,1.4300000000000002
+III(b) Astrocytomas,Washington,730,40520105,1.8
+III(b) Astrocytomas,West Virginia,187,9950567,1.8800000000000001
+III(b) Astrocytomas,Wisconsin,582,34329682,1.7000000000000002
+III(b) Astrocytomas,Wyoming,43,3396153,1.27
+III(c) Intracranial and intraspinal embryonal tumors,Alabama,142,28877079,0.49000000000000005
+III(c) Intracranial and intraspinal embryonal tumors,Alaska,24,4720625,0.51
+III(c) Intracranial and intraspinal embryonal tumors,Arizona,254,39775657,0.6400000000000001
+III(c) Intracranial and intraspinal embryonal tumors,Arkansas,109,17898158,0.61
+III(c) Intracranial and intraspinal embryonal tumors,California,1434,236070538,0.61
+III(c) Intracranial and intraspinal embryonal tumors,Colorado,180,30887289,0.58
+III(c) Intracranial and intraspinal embryonal tumors,Connecticut,102,20830240,0.49000000000000005
+III(c) Intracranial and intraspinal embryonal tumors,Delaware,41,5268436,0.78
+III(c) Intracranial and intraspinal embryonal tumors,District of Columbia,20,3083338,0.65
+III(c) Intracranial and intraspinal embryonal tumors,Florida,657,102863635,0.6400000000000001
+III(c) Intracranial and intraspinal embryonal tumors,Georgia,361,62011319,0.58
+III(c) Intracranial and intraspinal embryonal tumors,Hawaii,52,7747695,0.67
+III(c) Intracranial and intraspinal embryonal tumors,Idaho,62,10734756,0.58
+III(c) Intracranial and intraspinal embryonal tumors,Illinois,471,79093866,0.6000000000000001
+III(c) Intracranial and intraspinal embryonal tumors,Indiana,244,37414578,0.65
+III(c) Intracranial and intraspinal embryonal tumors,Iowa,129,18924991,0.68
+III(c) Intracranial and intraspinal embryonal tumors,Kansas,97,18406535,0.53
+III(c) Intracranial and intraspinal embryonal tumors,Kentucky,162,25974328,0.6200000000000001
+III(c) Intracranial and intraspinal embryonal tumors,Louisiana,168,29086064,0.58
+III(c) Intracranial and intraspinal embryonal tumors,Maine,51,7144119,0.71
+III(c) Intracranial and intraspinal embryonal tumors,Maryland,188,34984232,0.54
+III(c) Intracranial and intraspinal embryonal tumors,Massachusetts,210,37580693,0.5599999999999999
+III(c) Intracranial and intraspinal embryonal tumors,Michigan,364,61154757,0.6000000000000001
+III(c) Intracranial and intraspinal embryonal tumors,Minnesota,187,33142582,0.5599999999999999
+III(c) Intracranial and intraspinal embryonal tumors,Mississippi,89,15669603,0.5700000000000001
+III(c) Intracranial and intraspinal embryonal tumors,Missouri,228,36266473,0.63
+III(c) Intracranial and intraspinal embryonal tumors,Montana,33,5846055,0.5599999999999999
+III(c) Intracranial and intraspinal embryonal tumors,Nebraska,89,11903430,0.75
+III(c) Intracranial and intraspinal embryonal tumors,Nevada,91,16014625,0.5700000000000001
+III(c) Intracranial and intraspinal embryonal tumors,New Hampshire,49,7453487,0.66
+III(c) Intracranial and intraspinal embryonal tumors,New Jersey,319,52654520,0.61
+III(c) Intracranial and intraspinal embryonal tumors,New Mexico,58,12904509,0.45
+III(c) Intracranial and intraspinal embryonal tumors,New York,664,113517852,0.58
+III(c) Intracranial and intraspinal embryonal tumors,North Carolina,313,56649928,0.55
+III(c) Intracranial and intraspinal embryonal tumors,North Dakota,34,4266274,0.8
+III(c) Intracranial and intraspinal embryonal tumors,Ohio,422,70366333,0.6000000000000001
+III(c) Intracranial and intraspinal embryonal tumors,Oklahoma,160,23756620,0.67
+III(c) Intracranial and intraspinal embryonal tumors,Oregon,151,22097759,0.68
+III(c) Intracranial and intraspinal embryonal tumors,Pennsylvania,419,72683727,0.58
+III(c) Intracranial and intraspinal embryonal tumors,Rhode Island,27,6082080,0.44000000000000006
+III(c) Intracranial and intraspinal embryonal tumors,South Carolina,143,27583495,0.52
+III(c) Intracranial and intraspinal embryonal tumors,South Dakota,23,4834317,0.48
+III(c) Intracranial and intraspinal embryonal tumors,Tennessee,227,37884392,0.6000000000000001
+III(c) Intracranial and intraspinal embryonal tumors,Texas,1019,172599550,0.5900000000000001
+III(c) Intracranial and intraspinal embryonal tumors,Utah,150,21588203,0.6900000000000001
+III(c) Intracranial and intraspinal embryonal tumors,Vermont,22,3490801,0.63
+III(c) Intracranial and intraspinal embryonal tumors,Virginia,265,47413830,0.5599999999999999
+III(c) Intracranial and intraspinal embryonal tumors,Washington,270,40520105,0.67
+III(c) Intracranial and intraspinal embryonal tumors,West Virginia,80,9950567,0.8
+III(c) Intracranial and intraspinal embryonal tumors,Wisconsin,184,34329682,0.54
+III(c) Intracranial and intraspinal embryonal tumors,Wyoming,22,3396153,0.65
+III(d) Other gliomas,Alabama,127,28877079,0.44000000000000006
+III(d) Other gliomas,Alaska,27,4720625,0.5700000000000001
+III(d) Other gliomas,Arizona,196,39775657,0.49000000000000005
+III(d) Other gliomas,Arkansas,92,17898158,0.51
+III(d) Other gliomas,California,1013,236070538,0.43
+III(d) Other gliomas,Colorado,160,30887289,0.52
+III(d) Other gliomas,Connecticut,159,20830240,0.76
+III(d) Other gliomas,Delaware,48,5268436,0.91
+III(d) Other gliomas,District of Columbia,16,3083338,0.52
+III(d) Other gliomas,Florida,677,102863635,0.66
+III(d) Other gliomas,Georgia,332,62011319,0.54
+III(d) Other gliomas,Hawaii,29,7747695,0.37000000000000005
+III(d) Other gliomas,Idaho,56,10734756,0.52
+III(d) Other gliomas,Illinois,365,79093866,0.45999999999999996
+III(d) Other gliomas,Indiana,254,37414578,0.68
+III(d) Other gliomas,Iowa,116,18924991,0.61
+III(d) Other gliomas,Kansas,91,18406535,0.49000000000000005
+III(d) Other gliomas,Kentucky,197,25974328,0.76
+III(d) Other gliomas,Louisiana,146,29086064,0.5
+III(d) Other gliomas,Maine,46,7144119,0.6400000000000001
+III(d) Other gliomas,Maryland,164,34984232,0.47000000000000003
+III(d) Other gliomas,Massachusetts,284,37580693,0.76
+III(d) Other gliomas,Michigan,330,61154757,0.54
+III(d) Other gliomas,Minnesota,111,33142582,0.33
+III(d) Other gliomas,Mississippi,79,15669603,0.5
+III(d) Other gliomas,Missouri,197,36266473,0.54
+III(d) Other gliomas,Montana,28,5846055,0.48
+III(d) Other gliomas,Nebraska,77,11903430,0.65
+III(d) Other gliomas,Nevada,55,16014625,0.34
+III(d) Other gliomas,New Hampshire,55,7453487,0.7400000000000001
+III(d) Other gliomas,New Jersey,363,52654520,0.6900000000000001
+III(d) Other gliomas,New Mexico,50,12904509,0.39
+III(d) Other gliomas,New York,688,113517852,0.61
+III(d) Other gliomas,North Carolina,320,56649928,0.5599999999999999
+III(d) Other gliomas,North Dakota,16,4266274,0.38
+III(d) Other gliomas,Ohio,492,70366333,0.7000000000000001
+III(d) Other gliomas,Oklahoma,118,23756620,0.5
+III(d) Other gliomas,Oregon,137,22097759,0.6200000000000001
+III(d) Other gliomas,Pennsylvania,576,72683727,0.79
+III(d) Other gliomas,Rhode Island,20,6082080,0.33
+III(d) Other gliomas,South Carolina,131,27583495,0.47000000000000003
+III(d) Other gliomas,South Dakota,25,4834317,0.52
+III(d) Other gliomas,Tennessee,202,37884392,0.53
+III(d) Other gliomas,Texas,1081,172599550,0.63
+III(d) Other gliomas,Utah,118,21588203,0.55
+III(d) Other gliomas,Vermont,17,3490801,0.49000000000000005
+III(d) Other gliomas,Virginia,235,47413830,0.5
+III(d) Other gliomas,Washington,365,40520105,0.9
+III(d) Other gliomas,West Virginia,68,9950567,0.68
+III(d) Other gliomas,Wisconsin,206,34329682,0.6000000000000001
+III(e) Other specified intracranial/intraspinal neoplasms,Alabama,28,28877079,0.1
+III(e) Other specified intracranial/intraspinal neoplasms,Arizona,20,39775657,0.05
+III(e) Other specified intracranial/intraspinal neoplasms,Arkansas,19,17898158,0.11000000000000001
+III(e) Other specified intracranial/intraspinal neoplasms,California,132,236070538,0.06
+III(e) Other specified intracranial/intraspinal neoplasms,District of Columbia,0,3083338,0
+III(e) Other specified intracranial/intraspinal neoplasms,Florida,96,102863635,0.09000000000000001
+III(e) Other specified intracranial/intraspinal neoplasms,Georgia,32,62011319,0.05
+III(e) Other specified intracranial/intraspinal neoplasms,Illinois,48,79093866,0.06
+III(e) Other specified intracranial/intraspinal neoplasms,Indiana,28,37414578,0.06999999999999999
+III(e) Other specified intracranial/intraspinal neoplasms,Iowa,17,18924991,0.09000000000000001
+III(e) Other specified intracranial/intraspinal neoplasms,Kansas,16,18406535,0.09000000000000001
+III(e) Other specified intracranial/intraspinal neoplasms,Louisiana,26,29086064,0.09000000000000001
+III(e) Other specified intracranial/intraspinal neoplasms,Maryland,19,34984232,0.05
+III(e) Other specified intracranial/intraspinal neoplasms,Massachusetts,29,37580693,0.08000000000000002
+III(e) Other specified intracranial/intraspinal neoplasms,Michigan,58,61154757,0.09000000000000001
+III(e) Other specified intracranial/intraspinal neoplasms,Minnesota,18,33142582,0.05
+III(e) Other specified intracranial/intraspinal neoplasms,New Jersey,28,52654520,0.05
+III(e) Other specified intracranial/intraspinal neoplasms,New York,99,113517852,0.09000000000000001
+III(e) Other specified intracranial/intraspinal neoplasms,North Carolina,40,56649928,0.06999999999999999
+III(e) Other specified intracranial/intraspinal neoplasms,North Dakota,0,4266274,0
+III(e) Other specified intracranial/intraspinal neoplasms,Ohio,40,70366333,0.06
+III(e) Other specified intracranial/intraspinal neoplasms,Oklahoma,16,23756620,0.06999999999999999
+III(e) Other specified intracranial/intraspinal neoplasms,Pennsylvania,48,72683727,0.06999999999999999
+III(e) Other specified intracranial/intraspinal neoplasms,South Carolina,21,27583495,0.08000000000000002
+III(e) Other specified intracranial/intraspinal neoplasms,South Dakota,0,4834317,0
+III(e) Other specified intracranial/intraspinal neoplasms,Tennessee,26,37884392,0.06999999999999999
+III(e) Other specified intracranial/intraspinal neoplasms,Texas,123,172599550,0.06999999999999999
+III(e) Other specified intracranial/intraspinal neoplasms,Virginia,21,47413830,0.04000000000000001
+III(e) Other specified intracranial/intraspinal neoplasms,Washington,21,40520105,0.05
+III(e) Other specified intracranial/intraspinal neoplasms,Wisconsin,25,34329682,0.06999999999999999
+III(f) Unspecified intracranial and intraspinal neoplasms,Alabama,108,28877079,0.37000000000000005
+III(f) Unspecified intracranial and intraspinal neoplasms,Arizona,20,39775657,0.05
+III(f) Unspecified intracranial and intraspinal neoplasms,California,44,236070538,0.020000000000000004
+III(f) Unspecified intracranial and intraspinal neoplasms,Colorado,21,30887289,0.06999999999999999
+III(f) Unspecified intracranial and intraspinal neoplasms,District of Columbia,0,3083338,0
+III(f) Unspecified intracranial and intraspinal neoplasms,Florida,60,102863635,0.06
+III(f) Unspecified intracranial and intraspinal neoplasms,Georgia,25,62011319,0.04000000000000001
+III(f) Unspecified intracranial and intraspinal neoplasms,Illinois,20,79093866,0.03
+III(f) Unspecified intracranial and intraspinal neoplasms,Louisiana,19,29086064,0.06999999999999999
+III(f) Unspecified intracranial and intraspinal neoplasms,Maryland,38,34984232,0.11000000000000001
+III(f) Unspecified intracranial and intraspinal neoplasms,Massachusetts,18,37580693,0.05
+III(f) Unspecified intracranial and intraspinal neoplasms,Michigan,18,61154757,0.03
+III(f) Unspecified intracranial and intraspinal neoplasms,Missouri,17,36266473,0.05
+III(f) Unspecified intracranial and intraspinal neoplasms,Montana,0,5846055,0
+III(f) Unspecified intracranial and intraspinal neoplasms,New Jersey,23,52654520,0.04000000000000001
+III(f) Unspecified intracranial and intraspinal neoplasms,New York,40,113517852,0.04000000000000001
+III(f) Unspecified intracranial and intraspinal neoplasms,North Carolina,17,56649928,0.03
+III(f) Unspecified intracranial and intraspinal neoplasms,Ohio,26,70366333,0.04000000000000001
+III(f) Unspecified intracranial and intraspinal neoplasms,Oklahoma,28,23756620,0.12
+III(f) Unspecified intracranial and intraspinal neoplasms,Pennsylvania,34,72683727,0.05
+III(f) Unspecified intracranial and intraspinal neoplasms,Tennessee,19,37884392,0.05
+III(f) Unspecified intracranial and intraspinal neoplasms,Texas,144,172599550,0.08000000000000002
+III(f) Unspecified intracranial and intraspinal neoplasms,Virginia,27,47413830,0.06
+III(f) Unspecified intracranial and intraspinal neoplasms,Wisconsin,22,34329682,0.06
+IV Sympathetic nervous system tumors,Alabama,232,28877079,0.8
+IV Sympathetic nervous system tumors,Alaska,42,4720625,0.8900000000000001
+IV Sympathetic nervous system tumors,Arizona,313,39775657,0.79
+IV Sympathetic nervous system tumors,Arkansas,158,17898158,0.8800000000000001
+IV Sympathetic nervous system tumors,California,1637,236070538,0.6900000000000001
+IV Sympathetic nervous system tumors,Colorado,259,30887289,0.8400000000000001
+IV Sympathetic nervous system tumors,Connecticut,190,20830240,0.91
+IV Sympathetic nervous system tumors,Delaware,52,5268436,0.9900000000000001
+IV Sympathetic nervous system tumors,District of Columbia,32,3083338,1.04
+IV Sympathetic nervous system tumors,Florida,1029,102863635,1
+IV Sympathetic nervous system tumors,Georgia,549,62011319,0.8900000000000001
+IV Sympathetic nervous system tumors,Hawaii,62,7747695,0.8
+IV Sympathetic nervous system tumors,Idaho,82,10734756,0.76
+IV Sympathetic nervous system tumors,Illinois,694,79093866,0.8800000000000001
+IV Sympathetic nervous system tumors,Indiana,370,37414578,0.9900000000000001
+IV Sympathetic nervous system tumors,Iowa,153,18924991,0.81
+IV Sympathetic nervous system tumors,Kansas,158,18406535,0.86
+IV Sympathetic nervous system tumors,Kentucky,248,25974328,0.9500000000000001
+IV Sympathetic nervous system tumors,Louisiana,225,29086064,0.77
+IV Sympathetic nervous system tumors,Maine,74,7144119,1.04
+IV Sympathetic nervous system tumors,Maryland,278,34984232,0.79
+IV Sympathetic nervous system tumors,Massachusetts,420,37580693,1.1199999999999999
+IV Sympathetic nervous system tumors,Michigan,637,61154757,1.04
+IV Sympathetic nervous system tumors,Minnesota,323,33142582,0.97
+IV Sympathetic nervous system tumors,Mississippi,107,15669603,0.68
+IV Sympathetic nervous system tumors,Missouri,304,36266473,0.8400000000000001
+IV Sympathetic nervous system tumors,Montana,46,5846055,0.79
+IV Sympathetic nervous system tumors,Nebraska,110,11903430,0.9199999999999999
+IV Sympathetic nervous system tumors,Nevada,94,16014625,0.5900000000000001
+IV Sympathetic nervous system tumors,New Hampshire,61,7453487,0.82
+IV Sympathetic nervous system tumors,New Jersey,453,52654520,0.86
+IV Sympathetic nervous system tumors,New Mexico,81,12904509,0.63
+IV Sympathetic nervous system tumors,New York,1027,113517852,0.9
+IV Sympathetic nervous system tumors,North Carolina,471,56649928,0.8300000000000001
+IV Sympathetic nervous system tumors,North Dakota,32,4266274,0.75
+IV Sympathetic nervous system tumors,Ohio,658,70366333,0.9400000000000001
+IV Sympathetic nervous system tumors,Oklahoma,194,23756620,0.82
+IV Sympathetic nervous system tumors,Oregon,168,22097759,0.76
+IV Sympathetic nervous system tumors,Pennsylvania,776,72683727,1.07
+IV Sympathetic nervous system tumors,Rhode Island,51,6082080,0.8400000000000001
+IV Sympathetic nervous system tumors,South Carolina,216,27583495,0.78
+IV Sympathetic nervous system tumors,South Dakota,30,4834317,0.6200000000000001
+IV Sympathetic nervous system tumors,Tennessee,310,37884392,0.82
+IV Sympathetic nervous system tumors,Texas,1457,172599550,0.8400000000000001
+IV Sympathetic nervous system tumors,Utah,191,21588203,0.8800000000000001
+IV Sympathetic nervous system tumors,Vermont,30,3490801,0.86
+IV Sympathetic nervous system tumors,Virginia,408,47413830,0.86
+IV Sympathetic nervous system tumors,Washington,368,40520105,0.91
+IV Sympathetic nervous system tumors,West Virginia,83,9950567,0.8300000000000001
+IV Sympathetic nervous system tumors,Wisconsin,308,34329682,0.9
+IV Sympathetic nervous system tumors,Wyoming,29,3396153,0.8500000000000001
+IV(a) Neuroblastoma and ganglioneuroblastoma,Alabama,227,28877079,0.79
+IV(a) Neuroblastoma and ganglioneuroblastoma,Alaska,41,4720625,0.87
+IV(a) Neuroblastoma and ganglioneuroblastoma,Arizona,305,39775657,0.77
+IV(a) Neuroblastoma and ganglioneuroblastoma,Arkansas,153,17898158,0.8500000000000001
+IV(a) Neuroblastoma and ganglioneuroblastoma,California,1590,236070538,0.67
+IV(a) Neuroblastoma and ganglioneuroblastoma,Colorado,252,30887289,0.82
+IV(a) Neuroblastoma and ganglioneuroblastoma,Connecticut,184,20830240,0.8800000000000001
+IV(a) Neuroblastoma and ganglioneuroblastoma,Delaware,52,5268436,0.9900000000000001
+IV(a) Neuroblastoma and ganglioneuroblastoma,District of Columbia,32,3083338,1.04
+IV(a) Neuroblastoma and ganglioneuroblastoma,Florida,985,102863635,0.96
+IV(a) Neuroblastoma and ganglioneuroblastoma,Georgia,525,62011319,0.8500000000000001
+IV(a) Neuroblastoma and ganglioneuroblastoma,Hawaii,59,7747695,0.76
+IV(a) Neuroblastoma and ganglioneuroblastoma,Idaho,79,10734756,0.7400000000000001
+IV(a) Neuroblastoma and ganglioneuroblastoma,Illinois,674,79093866,0.8500000000000001
+IV(a) Neuroblastoma and ganglioneuroblastoma,Indiana,363,37414578,0.97
+IV(a) Neuroblastoma and ganglioneuroblastoma,Iowa,148,18924991,0.78
+IV(a) Neuroblastoma and ganglioneuroblastoma,Kansas,155,18406535,0.8400000000000001
+IV(a) Neuroblastoma and ganglioneuroblastoma,Kentucky,245,25974328,0.9400000000000001
+IV(a) Neuroblastoma and ganglioneuroblastoma,Louisiana,217,29086064,0.75
+IV(a) Neuroblastoma and ganglioneuroblastoma,Maine,72,7144119,1.01
+IV(a) Neuroblastoma and ganglioneuroblastoma,Maryland,269,34984232,0.77
+IV(a) Neuroblastoma and ganglioneuroblastoma,Massachusetts,408,37580693,1.09
+IV(a) Neuroblastoma and ganglioneuroblastoma,Michigan,625,61154757,1.02
+IV(a) Neuroblastoma and ganglioneuroblastoma,Minnesota,316,33142582,0.9500000000000001
+IV(a) Neuroblastoma and ganglioneuroblastoma,Mississippi,101,15669603,0.6400000000000001
+IV(a) Neuroblastoma and ganglioneuroblastoma,Missouri,292,36266473,0.81
+IV(a) Neuroblastoma and ganglioneuroblastoma,Montana,46,5846055,0.79
+IV(a) Neuroblastoma and ganglioneuroblastoma,Nebraska,108,11903430,0.91
+IV(a) Neuroblastoma and ganglioneuroblastoma,Nevada,90,16014625,0.5599999999999999
+IV(a) Neuroblastoma and ganglioneuroblastoma,New Hampshire,60,7453487,0.8
+IV(a) Neuroblastoma and ganglioneuroblastoma,New Jersey,435,52654520,0.8300000000000001
+IV(a) Neuroblastoma and ganglioneuroblastoma,New Mexico,79,12904509,0.61
+IV(a) Neuroblastoma and ganglioneuroblastoma,New York,991,113517852,0.87
+IV(a) Neuroblastoma and ganglioneuroblastoma,North Carolina,458,56649928,0.81
+IV(a) Neuroblastoma and ganglioneuroblastoma,North Dakota,31,4266274,0.73
+IV(a) Neuroblastoma and ganglioneuroblastoma,Ohio,635,70366333,0.9
+IV(a) Neuroblastoma and ganglioneuroblastoma,Oklahoma,190,23756620,0.8
+IV(a) Neuroblastoma and ganglioneuroblastoma,Oregon,165,22097759,0.75
+IV(a) Neuroblastoma and ganglioneuroblastoma,Pennsylvania,752,72683727,1.03
+IV(a) Neuroblastoma and ganglioneuroblastoma,Rhode Island,50,6082080,0.82
+IV(a) Neuroblastoma and ganglioneuroblastoma,South Carolina,215,27583495,0.78
+IV(a) Neuroblastoma and ganglioneuroblastoma,South Dakota,30,4834317,0.6200000000000001
+IV(a) Neuroblastoma and ganglioneuroblastoma,Tennessee,306,37884392,0.81
+IV(a) Neuroblastoma and ganglioneuroblastoma,Texas,1396,172599550,0.81
+IV(a) Neuroblastoma and ganglioneuroblastoma,Utah,179,21588203,0.8300000000000001
+IV(a) Neuroblastoma and ganglioneuroblastoma,Vermont,29,3490801,0.8300000000000001
+IV(a) Neuroblastoma and ganglioneuroblastoma,Virginia,402,47413830,0.8500000000000001
+IV(a) Neuroblastoma and ganglioneuroblastoma,Washington,355,40520105,0.8800000000000001
+IV(a) Neuroblastoma and ganglioneuroblastoma,West Virginia,82,9950567,0.82
+IV(a) Neuroblastoma and ganglioneuroblastoma,Wisconsin,292,34329682,0.8500000000000001
+IV(a) Neuroblastoma and ganglioneuroblastoma,Wyoming,28,3396153,0.82
+IV(b) Other peripheral nervous cell tumors,California,47,236070538,0.020000000000000004
+IV(b) Other peripheral nervous cell tumors,Delaware,0,5268436,0
+IV(b) Other peripheral nervous cell tumors,District of Columbia,0,3083338,0
+IV(b) Other peripheral nervous cell tumors,Florida,44,102863635,0.04000000000000001
+IV(b) Other peripheral nervous cell tumors,Georgia,24,62011319,0.04000000000000001
+IV(b) Other peripheral nervous cell tumors,Illinois,20,79093866,0.03
+IV(b) Other peripheral nervous cell tumors,Montana,0,5846055,0
+IV(b) Other peripheral nervous cell tumors,New Jersey,18,52654520,0.03
+IV(b) Other peripheral nervous cell tumors,New York,36,113517852,0.03
+IV(b) Other peripheral nervous cell tumors,Ohio,23,70366333,0.03
+IV(b) Other peripheral nervous cell tumors,Pennsylvania,24,72683727,0.03
+IV(b) Other peripheral nervous cell tumors,South Dakota,0,4834317,0
+IV(b) Other peripheral nervous cell tumors,Texas,61,172599550,0.04000000000000001
+IV(b) Other peripheral nervous cell tumors,Wisconsin,16,34329682,0.05
+V Retinoblastoma,Alabama,65,28877079,0.22999999999999998
+V Retinoblastoma,Arizona,144,39775657,0.36000000000000004
+V Retinoblastoma,Arkansas,48,17898158,0.27
+V Retinoblastoma,California,751,236070538,0.32000000000000006
+V Retinoblastoma,Colorado,107,30887289,0.35000000000000003
+V Retinoblastoma,Connecticut,70,20830240,0.34
+V Retinoblastoma,Delaware,22,5268436,0.42000000000000004
+V Retinoblastoma,District of Columbia,18,3083338,0.58
+V Retinoblastoma,Florida,347,102863635,0.34
+V Retinoblastoma,Georgia,235,62011319,0.38
+V Retinoblastoma,Hawaii,17,7747695,0.22000000000000003
+V Retinoblastoma,Idaho,28,10734756,0.26
+V Retinoblastoma,Illinois,235,79093866,0.30000000000000004
+V Retinoblastoma,Indiana,95,37414578,0.25
+V Retinoblastoma,Iowa,56,18924991,0.30000000000000004
+V Retinoblastoma,Kansas,47,18406535,0.26
+V Retinoblastoma,Kentucky,95,25974328,0.37000000000000005
+V Retinoblastoma,Louisiana,78,29086064,0.27
+V Retinoblastoma,Maryland,92,34984232,0.26
+V Retinoblastoma,Massachusetts,99,37580693,0.26
+V Retinoblastoma,Michigan,210,61154757,0.34
+V Retinoblastoma,Minnesota,85,33142582,0.26
+V Retinoblastoma,Mississippi,47,15669603,0.30000000000000004
+V Retinoblastoma,Missouri,95,36266473,0.26
+V Retinoblastoma,Nebraska,40,11903430,0.34
+V Retinoblastoma,Nevada,42,16014625,0.26
+V Retinoblastoma,New Jersey,152,52654520,0.29
+V Retinoblastoma,New Mexico,36,12904509,0.27999999999999997
+V Retinoblastoma,New York,429,113517852,0.38
+V Retinoblastoma,North Carolina,176,56649928,0.31000000000000005
+V Retinoblastoma,Ohio,220,70366333,0.31000000000000005
+V Retinoblastoma,Oklahoma,77,23756620,0.32000000000000006
+V Retinoblastoma,Oregon,61,22097759,0.27999999999999997
+V Retinoblastoma,Pennsylvania,229,72683727,0.32000000000000006
+V Retinoblastoma,Rhode Island,20,6082080,0.33
+V Retinoblastoma,South Carolina,75,27583495,0.27
+V Retinoblastoma,Tennessee,127,37884392,0.34
+V Retinoblastoma,Texas,610,172599550,0.35000000000000003
+V Retinoblastoma,Utah,71,21588203,0.33
+V Retinoblastoma,Virginia,113,47413830,0.24
+V Retinoblastoma,Washington,129,40520105,0.32000000000000006
+V Retinoblastoma,West Virginia,38,9950567,0.38
+V Retinoblastoma,Wisconsin,95,34329682,0.27999999999999997
+VI Renal tumors,Alabama,212,28877079,0.73
+VI Renal tumors,Alaska,37,4720625,0.78
+VI Renal tumors,Arizona,244,39775657,0.61
+VI Renal tumors,Arkansas,115,17898158,0.6400000000000001
+VI Renal tumors,California,1396,236070538,0.5900000000000001
+VI Renal tumors,Colorado,220,30887289,0.71
+VI Renal tumors,Connecticut,128,20830240,0.61
+VI Renal tumors,Delaware,39,5268436,0.7400000000000001
+VI Renal tumors,District of Columbia,21,3083338,0.68
+VI Renal tumors,Florida,753,102863635,0.73
+VI Renal tumors,Georgia,469,62011319,0.76
+VI Renal tumors,Hawaii,33,7747695,0.43
+VI Renal tumors,Idaho,76,10734756,0.71
+VI Renal tumors,Illinois,496,79093866,0.63
+VI Renal tumors,Indiana,281,37414578,0.75
+VI Renal tumors,Iowa,124,18924991,0.66
+VI Renal tumors,Kansas,125,18406535,0.68
+VI Renal tumors,Kentucky,172,25974328,0.66
+VI Renal tumors,Louisiana,213,29086064,0.73
+VI Renal tumors,Maine,36,7144119,0.5
+VI Renal tumors,Maryland,266,34984232,0.76
+VI Renal tumors,Massachusetts,251,37580693,0.67
+VI Renal tumors,Michigan,456,61154757,0.75
+VI Renal tumors,Minnesota,277,33142582,0.8400000000000001
+VI Renal tumors,Mississippi,106,15669603,0.68
+VI Renal tumors,Missouri,244,36266473,0.67
+VI Renal tumors,Montana,52,5846055,0.8900000000000001
+VI Renal tumors,Nebraska,83,11903430,0.7000000000000001
+VI Renal tumors,Nevada,107,16014625,0.67
+VI Renal tumors,New Hampshire,48,7453487,0.6400000000000001
+VI Renal tumors,New Jersey,400,52654520,0.76
+VI Renal tumors,New Mexico,56,12904509,0.43
+VI Renal tumors,New York,829,113517852,0.73
+VI Renal tumors,North Carolina,428,56649928,0.76
+VI Renal tumors,North Dakota,22,4266274,0.52
+VI Renal tumors,Ohio,479,70366333,0.68
+VI Renal tumors,Oklahoma,195,23756620,0.82
+VI Renal tumors,Oregon,164,22097759,0.7400000000000001
+VI Renal tumors,Pennsylvania,499,72683727,0.6900000000000001
+VI Renal tumors,Rhode Island,43,6082080,0.71
+VI Renal tumors,South Carolina,215,27583495,0.78
+VI Renal tumors,South Dakota,31,4834317,0.6400000000000001
+VI Renal tumors,Tennessee,286,37884392,0.75
+VI Renal tumors,Texas,1131,172599550,0.66
+VI Renal tumors,Utah,130,21588203,0.6000000000000001
+VI Renal tumors,Vermont,20,3490801,0.5700000000000001
+VI Renal tumors,Virginia,311,47413830,0.66
+VI Renal tumors,Washington,296,40520105,0.73
+VI Renal tumors,West Virginia,81,9950567,0.81
+VI Renal tumors,Wisconsin,228,34329682,0.66
+VI Renal tumors,Wyoming,26,3396153,0.77
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Alabama,177,28877079,0.61
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Alaska,36,4720625,0.76
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Arizona,222,39775657,0.5599999999999999
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Arkansas,104,17898158,0.58
+VI(a) Nephroblastoma and other nonepithelial renal tumors,California,1283,236070538,0.54
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Colorado,201,30887289,0.65
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Connecticut,107,20830240,0.51
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Delaware,34,5268436,0.65
+VI(a) Nephroblastoma and other nonepithelial renal tumors,District of Columbia,19,3083338,0.6200000000000001
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Florida,668,102863635,0.65
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Georgia,418,62011319,0.67
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Hawaii,28,7747695,0.36000000000000004
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Idaho,70,10734756,0.65
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Illinois,448,79093866,0.5700000000000001
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Indiana,245,37414578,0.65
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Iowa,118,18924991,0.6200000000000001
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Kansas,115,18406535,0.6200000000000001
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Kentucky,156,25974328,0.6000000000000001
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Louisiana,183,29086064,0.63
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Maine,34,7144119,0.48
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Maryland,227,34984232,0.65
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Massachusetts,220,37580693,0.5900000000000001
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Michigan,404,61154757,0.66
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Minnesota,260,33142582,0.78
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Mississippi,92,15669603,0.5900000000000001
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Missouri,218,36266473,0.6000000000000001
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Montana,47,5846055,0.8
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Nebraska,77,11903430,0.65
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Nevada,102,16014625,0.6400000000000001
+VI(a) Nephroblastoma and other nonepithelial renal tumors,New Hampshire,46,7453487,0.6200000000000001
+VI(a) Nephroblastoma and other nonepithelial renal tumors,New Jersey,355,52654520,0.67
+VI(a) Nephroblastoma and other nonepithelial renal tumors,New Mexico,52,12904509,0.4
+VI(a) Nephroblastoma and other nonepithelial renal tumors,New York,738,113517852,0.65
+VI(a) Nephroblastoma and other nonepithelial renal tumors,North Carolina,379,56649928,0.67
+VI(a) Nephroblastoma and other nonepithelial renal tumors,North Dakota,20,4266274,0.47000000000000003
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Ohio,436,70366333,0.6200000000000001
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Oklahoma,182,23756620,0.77
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Oregon,149,22097759,0.67
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Pennsylvania,455,72683727,0.63
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Rhode Island,40,6082080,0.66
+VI(a) Nephroblastoma and other nonepithelial renal tumors,South Carolina,186,27583495,0.67
+VI(a) Nephroblastoma and other nonepithelial renal tumors,South Dakota,26,4834317,0.54
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Tennessee,250,37884392,0.66
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Texas,1000,172599550,0.58
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Utah,120,21588203,0.5599999999999999
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Vermont,18,3490801,0.52
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Virginia,287,47413830,0.61
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Washington,262,40520105,0.65
+VI(a) Nephroblastoma and other nonepithelial renal tumors,West Virginia,75,9950567,0.75
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Wisconsin,205,34329682,0.6000000000000001
+VI(a) Nephroblastoma and other nonepithelial renal tumors,Wyoming,25,3396153,0.7400000000000001
+VI(b) Renal carcinomas,Alabama,21,28877079,0.06999999999999999
+VI(b) Renal carcinomas,Arizona,20,39775657,0.05
+VI(b) Renal carcinomas,California,108,236070538,0.05
+VI(b) Renal carcinomas,Colorado,17,30887289,0.06
+VI(b) Renal carcinomas,Connecticut,21,20830240,0.1
+VI(b) Renal carcinomas,Florida,82,102863635,0.08000000000000002
+VI(b) Renal carcinomas,Georgia,51,62011319,0.08000000000000002
+VI(b) Renal carcinomas,Illinois,46,79093866,0.06
+VI(b) Renal carcinomas,Indiana,36,37414578,0.1
+VI(b) Renal carcinomas,Louisiana,26,29086064,0.09000000000000001
+VI(b) Renal carcinomas,Maryland,35,34984232,0.1
+VI(b) Renal carcinomas,Massachusetts,31,37580693,0.08000000000000002
+VI(b) Renal carcinomas,Michigan,50,61154757,0.08000000000000002
+VI(b) Renal carcinomas,Minnesota,17,33142582,0.05
+VI(b) Renal carcinomas,Missouri,26,36266473,0.06999999999999999
+VI(b) Renal carcinomas,New Jersey,45,52654520,0.09000000000000001
+VI(b) Renal carcinomas,New York,91,113517852,0.08000000000000002
+VI(b) Renal carcinomas,North Carolina,48,56649928,0.08000000000000002
+VI(b) Renal carcinomas,Ohio,41,70366333,0.06
+VI(b) Renal carcinomas,Pennsylvania,43,72683727,0.06
+VI(b) Renal carcinomas,South Carolina,26,27583495,0.09000000000000001
+VI(b) Renal carcinomas,Tennessee,35,37884392,0.09000000000000001
+VI(b) Renal carcinomas,Texas,119,172599550,0.06999999999999999
+VI(b) Renal carcinomas,Virginia,24,47413830,0.05
+VI(b) Renal carcinomas,Washington,33,40520105,0.08000000000000002
+VI(b) Renal carcinomas,Wisconsin,22,34329682,0.06
+VI(c) Unspecified malignant renal tumors,Alaska,0,4720625,0
+VI(c) Unspecified malignant renal tumors,Connecticut,0,20830240,0
+VI(c) Unspecified malignant renal tumors,Delaware,0,5268436,0
+VI(c) Unspecified malignant renal tumors,District of Columbia,0,3083338,0
+VI(c) Unspecified malignant renal tumors,Georgia,0,62011319,0
+VI(c) Unspecified malignant renal tumors,Hawaii,0,7747695,0
+VI(c) Unspecified malignant renal tumors,Idaho,0,10734756,0
+VI(c) Unspecified malignant renal tumors,Indiana,0,37414578,0
+VI(c) Unspecified malignant renal tumors,Iowa,0,18924991,0
+VI(c) Unspecified malignant renal tumors,Kansas,0,18406535,0
+VI(c) Unspecified malignant renal tumors,Maine,0,7144119,0
+VI(c) Unspecified malignant renal tumors,Massachusetts,0,37580693,0
+VI(c) Unspecified malignant renal tumors,Minnesota,0,33142582,0
+VI(c) Unspecified malignant renal tumors,Mississippi,0,15669603,0
+VI(c) Unspecified malignant renal tumors,Missouri,0,36266473,0
+VI(c) Unspecified malignant renal tumors,Montana,0,5846055,0
+VI(c) Unspecified malignant renal tumors,Nebraska,0,11903430,0
+VI(c) Unspecified malignant renal tumors,Nevada,0,16014625,0
+VI(c) Unspecified malignant renal tumors,New Jersey,0,52654520,0
+VI(c) Unspecified malignant renal tumors,New Mexico,0,12904509,0
+VI(c) Unspecified malignant renal tumors,New York,0,113517852,0
+VI(c) Unspecified malignant renal tumors,North Dakota,0,4266274,0
+VI(c) Unspecified malignant renal tumors,Oregon,0,22097759,0
+VI(c) Unspecified malignant renal tumors,Rhode Island,0,6082080,0
+VI(c) Unspecified malignant renal tumors,South Dakota,0,4834317,0
+VI(c) Unspecified malignant renal tumors,Vermont,0,3490801,0
+VI(c) Unspecified malignant renal tumors,Virginia,0,47413830,0
+VI(c) Unspecified malignant renal tumors,Wyoming,0,3396153,0
+VII Hepatic tumor,Alabama,65,28877079,0.22999999999999998
+VII Hepatic tumor,Alaska,16,4720625,0.34
+VII Hepatic tumor,Arizona,107,39775657,0.27
+VII Hepatic tumor,Arkansas,34,17898158,0.19
+VII Hepatic tumor,California,668,236070538,0.27999999999999997
+VII Hepatic tumor,Colorado,72,30887289,0.22999999999999998
+VII Hepatic tumor,Connecticut,59,20830240,0.27999999999999997
+VII Hepatic tumor,Florida,265,102863635,0.26
+VII Hepatic tumor,Georgia,128,62011319,0.21000000000000002
+VII Hepatic tumor,Hawaii,21,7747695,0.27
+VII Hepatic tumor,Idaho,24,10734756,0.22000000000000003
+VII Hepatic tumor,Illinois,184,79093866,0.22999999999999998
+VII Hepatic tumor,Indiana,95,37414578,0.25
+VII Hepatic tumor,Iowa,56,18924991,0.30000000000000004
+VII Hepatic tumor,Kansas,51,18406535,0.27999999999999997
+VII Hepatic tumor,Kentucky,82,25974328,0.32000000000000006
+VII Hepatic tumor,Louisiana,78,29086064,0.27
+VII Hepatic tumor,Maryland,83,34984232,0.24
+VII Hepatic tumor,Massachusetts,98,37580693,0.26
+VII Hepatic tumor,Michigan,140,61154757,0.22999999999999998
+VII Hepatic tumor,Minnesota,101,33142582,0.30000000000000004
+VII Hepatic tumor,Mississippi,28,15669603,0.18000000000000002
+VII Hepatic tumor,Missouri,91,36266473,0.25
+VII Hepatic tumor,Montana,18,5846055,0.31000000000000005
+VII Hepatic tumor,Nebraska,22,11903430,0.18000000000000002
+VII Hepatic tumor,Nevada,54,16014625,0.34
+VII Hepatic tumor,New Hampshire,18,7453487,0.24
+VII Hepatic tumor,New Jersey,113,52654520,0.21000000000000002
+VII Hepatic tumor,New Mexico,33,12904509,0.26
+VII Hepatic tumor,New York,315,113517852,0.27999999999999997
+VII Hepatic tumor,North Carolina,135,56649928,0.24
+VII Hepatic tumor,Ohio,188,70366333,0.27
+VII Hepatic tumor,Oklahoma,75,23756620,0.32000000000000006
+VII Hepatic tumor,Oregon,52,22097759,0.24
+VII Hepatic tumor,Pennsylvania,176,72683727,0.24
+VII Hepatic tumor,Rhode Island,22,6082080,0.36000000000000004
+VII Hepatic tumor,South Carolina,65,27583495,0.24
+VII Hepatic tumor,Tennessee,85,37884392,0.22000000000000003
+VII Hepatic tumor,Texas,487,172599550,0.27999999999999997
+VII Hepatic tumor,Utah,63,21588203,0.29
+VII Hepatic tumor,Virginia,105,47413830,0.22000000000000003
+VII Hepatic tumor,Washington,116,40520105,0.29
+VII Hepatic tumor,West Virginia,22,9950567,0.22000000000000003
+VII Hepatic tumor,Wisconsin,72,34329682,0.21000000000000002
+VII(a) Hepatoblastoma,Alabama,44,28877079,0.15000000000000002
+VII(a) Hepatoblastoma,Arizona,89,39775657,0.22000000000000003
+VII(a) Hepatoblastoma,Arkansas,28,17898158,0.16000000000000003
+VII(a) Hepatoblastoma,California,525,236070538,0.22000000000000003
+VII(a) Hepatoblastoma,Colorado,53,30887289,0.17
+VII(a) Hepatoblastoma,Connecticut,41,20830240,0.2
+VII(a) Hepatoblastoma,Florida,199,102863635,0.19
+VII(a) Hepatoblastoma,Georgia,100,62011319,0.16000000000000003
+VII(a) Hepatoblastoma,Hawaii,18,7747695,0.22999999999999998
+VII(a) Hepatoblastoma,Idaho,17,10734756,0.16000000000000003
+VII(a) Hepatoblastoma,Illinois,146,79093866,0.18000000000000002
+VII(a) Hepatoblastoma,Indiana,77,37414578,0.21000000000000002
+VII(a) Hepatoblastoma,Iowa,47,18924991,0.25
+VII(a) Hepatoblastoma,Kansas,44,18406535,0.24
+VII(a) Hepatoblastoma,Kentucky,58,25974328,0.22000000000000003
+VII(a) Hepatoblastoma,Louisiana,56,29086064,0.19
+VII(a) Hepatoblastoma,Maryland,65,34984232,0.19
+VII(a) Hepatoblastoma,Massachusetts,78,37580693,0.21000000000000002
+VII(a) Hepatoblastoma,Michigan,99,61154757,0.16000000000000003
+VII(a) Hepatoblastoma,Minnesota,73,33142582,0.22000000000000003
+VII(a) Hepatoblastoma,Mississippi,22,15669603,0.13999999999999999
+VII(a) Hepatoblastoma,Missouri,67,36266473,0.18000000000000002
+VII(a) Hepatoblastoma,Nebraska,19,11903430,0.16000000000000003
+VII(a) Hepatoblastoma,Nevada,36,16014625,0.22000000000000003
+VII(a) Hepatoblastoma,New Jersey,80,52654520,0.15000000000000002
+VII(a) Hepatoblastoma,New Mexico,24,12904509,0.19
+VII(a) Hepatoblastoma,New York,232,113517852,0.2
+VII(a) Hepatoblastoma,North Carolina,99,56649928,0.17
+VII(a) Hepatoblastoma,Ohio,129,70366333,0.18000000000000002
+VII(a) Hepatoblastoma,Oklahoma,54,23756620,0.22999999999999998
+VII(a) Hepatoblastoma,Oregon,44,22097759,0.2
+VII(a) Hepatoblastoma,Pennsylvania,133,72683727,0.18000000000000002
+VII(a) Hepatoblastoma,South Carolina,49,27583495,0.18000000000000002
+VII(a) Hepatoblastoma,Tennessee,65,37884392,0.17
+VII(a) Hepatoblastoma,Texas,367,172599550,0.21000000000000002
+VII(a) Hepatoblastoma,Utah,51,21588203,0.24
+VII(a) Hepatoblastoma,Virginia,84,47413830,0.18000000000000002
+VII(a) Hepatoblastoma,Washington,88,40520105,0.22000000000000003
+VII(a) Hepatoblastoma,West Virginia,18,9950567,0.18000000000000002
+VII(a) Hepatoblastoma,Wisconsin,52,34329682,0.15000000000000002
+VII(b) Hepatic carcinomas,Arizona,18,39775657,0.05
+VII(b) Hepatic carcinomas,California,140,236070538,0.06
+VII(b) Hepatic carcinomas,Colorado,18,30887289,0.06
+VII(b) Hepatic carcinomas,Connecticut,17,20830240,0.08000000000000002
+VII(b) Hepatic carcinomas,Florida,65,102863635,0.06
+VII(b) Hepatic carcinomas,Georgia,28,62011319,0.05
+VII(b) Hepatic carcinomas,Illinois,38,79093866,0.05
+VII(b) Hepatic carcinomas,Indiana,18,37414578,0.05
+VII(b) Hepatic carcinomas,Kentucky,24,25974328,0.09000000000000001
+VII(b) Hepatic carcinomas,Louisiana,22,29086064,0.08000000000000002
+VII(b) Hepatic carcinomas,Maryland,18,34984232,0.05
+VII(b) Hepatic carcinomas,Massachusetts,19,37580693,0.05
+VII(b) Hepatic carcinomas,Michigan,40,61154757,0.06999999999999999
+VII(b) Hepatic carcinomas,Minnesota,28,33142582,0.08000000000000002
+VII(b) Hepatic carcinomas,Missouri,22,36266473,0.06
+VII(b) Hepatic carcinomas,New Jersey,33,52654520,0.06
+VII(b) Hepatic carcinomas,New York,81,113517852,0.06999999999999999
+VII(b) Hepatic carcinomas,North Carolina,34,56649928,0.06
+VII(b) Hepatic carcinomas,Ohio,56,70366333,0.08000000000000002
+VII(b) Hepatic carcinomas,Oklahoma,20,23756620,0.08000000000000002
+VII(b) Hepatic carcinomas,Pennsylvania,41,72683727,0.06
+VII(b) Hepatic carcinomas,Tennessee,18,37884392,0.05
+VII(b) Hepatic carcinomas,Texas,109,172599550,0.06
+VII(b) Hepatic carcinomas,Virginia,20,47413830,0.04000000000000001
+VII(b) Hepatic carcinomas,Washington,28,40520105,0.06999999999999999
+VII(b) Hepatic carcinomas,Wisconsin,19,34329682,0.06
+VII(b) Hepatic carcinomas,Wyoming,0,3396153,0
+VII(c) Unspecified malignant hepatic tumors,Alaska,0,4720625,0
+VII(c) Unspecified malignant hepatic tumors,Arizona,0,39775657,0
+VII(c) Unspecified malignant hepatic tumors,Arkansas,0,17898158,0
+VII(c) Unspecified malignant hepatic tumors,Delaware,0,5268436,0
+VII(c) Unspecified malignant hepatic tumors,Georgia,0,62011319,0
+VII(c) Unspecified malignant hepatic tumors,Hawaii,0,7747695,0
+VII(c) Unspecified malignant hepatic tumors,Idaho,0,10734756,0
+VII(c) Unspecified malignant hepatic tumors,Illinois,0,79093866,0
+VII(c) Unspecified malignant hepatic tumors,Indiana,0,37414578,0
+VII(c) Unspecified malignant hepatic tumors,Iowa,0,18924991,0
+VII(c) Unspecified malignant hepatic tumors,Kentucky,0,25974328,0
+VII(c) Unspecified malignant hepatic tumors,Louisiana,0,29086064,0
+VII(c) Unspecified malignant hepatic tumors,Maine,0,7144119,0
+VII(c) Unspecified malignant hepatic tumors,Maryland,0,34984232,0
+VII(c) Unspecified malignant hepatic tumors,Minnesota,0,33142582,0
+VII(c) Unspecified malignant hepatic tumors,Mississippi,0,15669603,0
+VII(c) Unspecified malignant hepatic tumors,Montana,0,5846055,0
+VII(c) Unspecified malignant hepatic tumors,Nebraska,0,11903430,0
+VII(c) Unspecified malignant hepatic tumors,New Hampshire,0,7453487,0
+VII(c) Unspecified malignant hepatic tumors,New Jersey,0,52654520,0
+VII(c) Unspecified malignant hepatic tumors,New Mexico,0,12904509,0
+VII(c) Unspecified malignant hepatic tumors,North Dakota,0,4266274,0
+VII(c) Unspecified malignant hepatic tumors,Oregon,0,22097759,0
+VII(c) Unspecified malignant hepatic tumors,Rhode Island,0,6082080,0
+VII(c) Unspecified malignant hepatic tumors,South Dakota,0,4834317,0
+VII(c) Unspecified malignant hepatic tumors,Utah,0,21588203,0
+VII(c) Unspecified malignant hepatic tumors,Vermont,0,3490801,0
+VII(c) Unspecified malignant hepatic tumors,Washington,0,40520105,0
+VII(c) Unspecified malignant hepatic tumors,West Virginia,0,9950567,0
+VII(c) Unspecified malignant hepatic tumors,Wyoming,0,3396153,0
+VIII Malignant bone tumors,Alabama,211,28877079,0.73
+VIII Malignant bone tumors,Alaska,35,4720625,0.7400000000000001
+VIII Malignant bone tumors,Arizona,384,39775657,0.97
+VIII Malignant bone tumors,Arkansas,138,17898158,0.77
+VIII Malignant bone tumors,California,2115,236070538,0.9
+VIII Malignant bone tumors,Colorado,291,30887289,0.9400000000000001
+VIII Malignant bone tumors,Connecticut,198,20830240,0.9500000000000001
+VIII Malignant bone tumors,Delaware,49,5268436,0.9300000000000002
+VIII Malignant bone tumors,District of Columbia,28,3083338,0.91
+VIII Malignant bone tumors,Florida,1136,102863635,1.1
+VIII Malignant bone tumors,Georgia,529,62011319,0.8500000000000001
+VIII Malignant bone tumors,Hawaii,72,7747695,0.9300000000000002
+VIII Malignant bone tumors,Idaho,95,10734756,0.8800000000000001
+VIII Malignant bone tumors,Illinois,677,79093866,0.86
+VIII Malignant bone tumors,Indiana,356,37414578,0.9500000000000001
+VIII Malignant bone tumors,Iowa,212,18924991,1.1199999999999999
+VIII Malignant bone tumors,Kansas,179,18406535,0.97
+VIII Malignant bone tumors,Kentucky,231,25974328,0.8900000000000001
+VIII Malignant bone tumors,Louisiana,246,29086064,0.8500000000000001
+VIII Malignant bone tumors,Maine,79,7144119,1.11
+VIII Malignant bone tumors,Maryland,316,34984232,0.9
+VIII Malignant bone tumors,Massachusetts,325,37580693,0.86
+VIII Malignant bone tumors,Michigan,533,61154757,0.87
+VIII Malignant bone tumors,Minnesota,292,33142582,0.8800000000000001
+VIII Malignant bone tumors,Mississippi,120,15669603,0.77
+VIII Malignant bone tumors,Missouri,274,36266473,0.76
+VIII Malignant bone tumors,Montana,59,5846055,1.01
+VIII Malignant bone tumors,Nebraska,113,11903430,0.9500000000000001
+VIII Malignant bone tumors,Nevada,124,16014625,0.77
+VIII Malignant bone tumors,New Hampshire,83,7453487,1.11
+VIII Malignant bone tumors,New Jersey,530,52654520,1.01
+VIII Malignant bone tumors,New Mexico,103,12904509,0.8
+VIII Malignant bone tumors,New York,1177,113517852,1.04
+VIII Malignant bone tumors,North Carolina,492,56649928,0.87
+VIII Malignant bone tumors,North Dakota,27,4266274,0.63
+VIII Malignant bone tumors,Ohio,623,70366333,0.8900000000000001
+VIII Malignant bone tumors,Oklahoma,203,23756620,0.8500000000000001
+VIII Malignant bone tumors,Oregon,210,22097759,0.9500000000000001
+VIII Malignant bone tumors,Pennsylvania,643,72683727,0.8800000000000001
+VIII Malignant bone tumors,Rhode Island,57,6082080,0.9400000000000001
+VIII Malignant bone tumors,South Carolina,218,27583495,0.79
+VIII Malignant bone tumors,South Dakota,42,4834317,0.87
+VIII Malignant bone tumors,Tennessee,321,37884392,0.8500000000000001
+VIII Malignant bone tumors,Texas,1626,172599550,0.9400000000000001
+VIII Malignant bone tumors,Utah,203,21588203,0.9400000000000001
+VIII Malignant bone tumors,Vermont,34,3490801,0.97
+VIII Malignant bone tumors,Virginia,415,47413830,0.8800000000000001
+VIII Malignant bone tumors,Washington,342,40520105,0.8400000000000001
+VIII Malignant bone tumors,West Virginia,87,9950567,0.87
+VIII Malignant bone tumors,Wisconsin,292,34329682,0.8500000000000001
+VIII Malignant bone tumors,Wyoming,32,3396153,0.9400000000000001
+VIII(a) Osteosarcomas,Alabama,114,28877079,0.39
+VIII(a) Osteosarcomas,Alaska,16,4720625,0.34
+VIII(a) Osteosarcomas,Arizona,205,39775657,0.52
+VIII(a) Osteosarcomas,Arkansas,67,17898158,0.37000000000000005
+VIII(a) Osteosarcomas,California,1281,236070538,0.54
+VIII(a) Osteosarcomas,Colorado,156,30887289,0.51
+VIII(a) Osteosarcomas,Connecticut,106,20830240,0.51
+VIII(a) Osteosarcomas,Delaware,28,5268436,0.53
+VIII(a) Osteosarcomas,District of Columbia,21,3083338,0.68
+VIII(a) Osteosarcomas,Florida,625,102863635,0.61
+VIII(a) Osteosarcomas,Georgia,308,62011319,0.5
+VIII(a) Osteosarcomas,Hawaii,43,7747695,0.5599999999999999
+VIII(a) Osteosarcomas,Idaho,60,10734756,0.5599999999999999
+VIII(a) Osteosarcomas,Illinois,412,79093866,0.52
+VIII(a) Osteosarcomas,Indiana,187,37414578,0.5
+VIII(a) Osteosarcomas,Iowa,101,18924991,0.53
+VIII(a) Osteosarcomas,Kansas,94,18406535,0.51
+VIII(a) Osteosarcomas,Kentucky,129,25974328,0.5
+VIII(a) Osteosarcomas,Louisiana,154,29086064,0.53
+VIII(a) Osteosarcomas,Maine,39,7144119,0.55
+VIII(a) Osteosarcomas,Maryland,167,34984232,0.48
+VIII(a) Osteosarcomas,Massachusetts,189,37580693,0.5
+VIII(a) Osteosarcomas,Michigan,319,61154757,0.52
+VIII(a) Osteosarcomas,Minnesota,163,33142582,0.49000000000000005
+VIII(a) Osteosarcomas,Mississippi,74,15669603,0.47000000000000003
+VIII(a) Osteosarcomas,Missouri,155,36266473,0.43
+VIII(a) Osteosarcomas,Montana,33,5846055,0.5599999999999999
+VIII(a) Osteosarcomas,Nebraska,64,11903430,0.54
+VIII(a) Osteosarcomas,Nevada,74,16014625,0.45999999999999996
+VIII(a) Osteosarcomas,New Hampshire,47,7453487,0.63
+VIII(a) Osteosarcomas,New Jersey,277,52654520,0.53
+VIII(a) Osteosarcomas,New Mexico,58,12904509,0.45
+VIII(a) Osteosarcomas,New York,630,113517852,0.55
+VIII(a) Osteosarcomas,North Carolina,263,56649928,0.45999999999999996
+VIII(a) Osteosarcomas,Ohio,348,70366333,0.49000000000000005
+VIII(a) Osteosarcomas,Oklahoma,101,23756620,0.43
+VIII(a) Osteosarcomas,Oregon,119,22097759,0.54
+VIII(a) Osteosarcomas,Pennsylvania,322,72683727,0.44000000000000006
+VIII(a) Osteosarcomas,Rhode Island,34,6082080,0.5599999999999999
+VIII(a) Osteosarcomas,South Carolina,122,27583495,0.44000000000000006
+VIII(a) Osteosarcomas,South Dakota,21,4834317,0.43
+VIII(a) Osteosarcomas,Tennessee,187,37884392,0.49000000000000005
+VIII(a) Osteosarcomas,Texas,905,172599550,0.52
+VIII(a) Osteosarcomas,Utah,104,21588203,0.48
+VIII(a) Osteosarcomas,Vermont,23,3490801,0.66
+VIII(a) Osteosarcomas,Virginia,234,47413830,0.49000000000000005
+VIII(a) Osteosarcomas,Washington,202,40520105,0.5
+VIII(a) Osteosarcomas,West Virginia,46,9950567,0.45999999999999996
+VIII(a) Osteosarcomas,Wisconsin,143,34329682,0.42000000000000004
+VIII(a) Osteosarcomas,Wyoming,16,3396153,0.47000000000000003
+VIII(b) Chondrosarcomas,Alaska,0,4720625,0
+VIII(b) Chondrosarcomas,California,78,236070538,0.03
+VIII(b) Chondrosarcomas,District of Columbia,0,3083338,0
+VIII(b) Chondrosarcomas,Florida,37,102863635,0.04000000000000001
+VIII(b) Chondrosarcomas,Georgia,17,62011319,0.03
+VIII(b) Chondrosarcomas,Louisiana,16,29086064,0.06
+VIII(b) Chondrosarcomas,Michigan,21,61154757,0.03
+VIII(b) Chondrosarcomas,Minnesota,22,33142582,0.06999999999999999
+VIII(b) Chondrosarcomas,Montana,0,5846055,0
+VIII(b) Chondrosarcomas,New Jersey,27,52654520,0.05
+VIII(b) Chondrosarcomas,New York,71,113517852,0.06
+VIII(b) Chondrosarcomas,North Carolina,25,56649928,0.04000000000000001
+VIII(b) Chondrosarcomas,Ohio,28,70366333,0.04000000000000001
+VIII(b) Chondrosarcomas,Pennsylvania,33,72683727,0.05
+VIII(b) Chondrosarcomas,Rhode Island,0,6082080,0
+VIII(b) Chondrosarcomas,South Dakota,0,4834317,0
+VIII(b) Chondrosarcomas,Texas,63,172599550,0.04000000000000001
+VIII(b) Chondrosarcomas,Vermont,0,3490801,0
+VIII(b) Chondrosarcomas,Washington,17,40520105,0.04000000000000001
+VIII(c) Ewing tumor and related sarcomas of bone,Alabama,54,28877079,0.19
+VIII(c) Ewing tumor and related sarcomas of bone,Arizona,139,39775657,0.35000000000000003
+VIII(c) Ewing tumor and related sarcomas of bone,Arkansas,54,17898158,0.30000000000000004
+VIII(c) Ewing tumor and related sarcomas of bone,California,615,236070538,0.26
+VIII(c) Ewing tumor and related sarcomas of bone,Colorado,108,30887289,0.35000000000000003
+VIII(c) Ewing tumor and related sarcomas of bone,Connecticut,61,20830240,0.29
+VIII(c) Ewing tumor and related sarcomas of bone,Delaware,18,5268436,0.34
+VIII(c) Ewing tumor and related sarcomas of bone,Florida,389,102863635,0.38
+VIII(c) Ewing tumor and related sarcomas of bone,Georgia,171,62011319,0.27999999999999997
+VIII(c) Ewing tumor and related sarcomas of bone,Hawaii,19,7747695,0.25
+VIII(c) Ewing tumor and related sarcomas of bone,Idaho,25,10734756,0.22999999999999998
+VIII(c) Ewing tumor and related sarcomas of bone,Illinois,214,79093866,0.27
+VIII(c) Ewing tumor and related sarcomas of bone,Indiana,135,37414578,0.36000000000000004
+VIII(c) Ewing tumor and related sarcomas of bone,Iowa,91,18924991,0.48
+VIII(c) Ewing tumor and related sarcomas of bone,Kansas,73,18406535,0.4
+VIII(c) Ewing tumor and related sarcomas of bone,Kentucky,80,25974328,0.31000000000000005
+VIII(c) Ewing tumor and related sarcomas of bone,Louisiana,61,29086064,0.21000000000000002
+VIII(c) Ewing tumor and related sarcomas of bone,Maine,32,7144119,0.45
+VIII(c) Ewing tumor and related sarcomas of bone,Maryland,101,34984232,0.29
+VIII(c) Ewing tumor and related sarcomas of bone,Massachusetts,108,37580693,0.29
+VIII(c) Ewing tumor and related sarcomas of bone,Michigan,160,61154757,0.26
+VIII(c) Ewing tumor and related sarcomas of bone,Minnesota,95,33142582,0.29
+VIII(c) Ewing tumor and related sarcomas of bone,Mississippi,29,15669603,0.19
+VIII(c) Ewing tumor and related sarcomas of bone,Missouri,93,36266473,0.26
+VIII(c) Ewing tumor and related sarcomas of bone,Montana,23,5846055,0.39
+VIII(c) Ewing tumor and related sarcomas of bone,Nebraska,37,11903430,0.31000000000000005
+VIII(c) Ewing tumor and related sarcomas of bone,Nevada,39,16014625,0.24
+VIII(c) Ewing tumor and related sarcomas of bone,New Hampshire,28,7453487,0.38
+VIII(c) Ewing tumor and related sarcomas of bone,New Jersey,177,52654520,0.34
+VIII(c) Ewing tumor and related sarcomas of bone,New Mexico,34,12904509,0.26
+VIII(c) Ewing tumor and related sarcomas of bone,New York,378,113517852,0.33
+VIII(c) Ewing tumor and related sarcomas of bone,North Carolina,163,56649928,0.29
+VIII(c) Ewing tumor and related sarcomas of bone,Ohio,198,70366333,0.27999999999999997
+VIII(c) Ewing tumor and related sarcomas of bone,Oklahoma,72,23756620,0.30000000000000004
+VIII(c) Ewing tumor and related sarcomas of bone,Oregon,78,22097759,0.35000000000000003
+VIII(c) Ewing tumor and related sarcomas of bone,Pennsylvania,244,72683727,0.34
+VIII(c) Ewing tumor and related sarcomas of bone,Rhode Island,19,6082080,0.31000000000000005
+VIII(c) Ewing tumor and related sarcomas of bone,South Carolina,68,27583495,0.25
+VIII(c) Ewing tumor and related sarcomas of bone,South Dakota,17,4834317,0.35000000000000003
+VIII(c) Ewing tumor and related sarcomas of bone,Tennessee,100,37884392,0.26
+VIII(c) Ewing tumor and related sarcomas of bone,Texas,497,172599550,0.29
+VIII(c) Ewing tumor and related sarcomas of bone,Utah,80,21588203,0.37000000000000005
+VIII(c) Ewing tumor and related sarcomas of bone,Virginia,136,47413830,0.29
+VIII(c) Ewing tumor and related sarcomas of bone,Washington,109,40520105,0.27
+VIII(c) Ewing tumor and related sarcomas of bone,West Virginia,34,9950567,0.34
+VIII(c) Ewing tumor and related sarcomas of bone,Wisconsin,121,34329682,0.35000000000000003
+VIII(d) Other specified malignant bone tumors,Arizona,24,39775657,0.06
+VIII(d) Other specified malignant bone tumors,California,103,236070538,0.04000000000000001
+VIII(d) Other specified malignant bone tumors,Connecticut,18,20830240,0.09000000000000001
+VIII(d) Other specified malignant bone tumors,Florida,56,102863635,0.05
+VIII(d) Other specified malignant bone tumors,Georgia,18,62011319,0.03
+VIII(d) Other specified malignant bone tumors,Illinois,30,79093866,0.04000000000000001
+VIII(d) Other specified malignant bone tumors,Massachusetts,16,37580693,0.04000000000000001
+VIII(d) Other specified malignant bone tumors,Michigan,23,61154757,0.04000000000000001
+VIII(d) Other specified malignant bone tumors,New Jersey,35,52654520,0.06999999999999999
+VIII(d) Other specified malignant bone tumors,New York,75,113517852,0.06999999999999999
+VIII(d) Other specified malignant bone tumors,North Carolina,32,56649928,0.06
+VIII(d) Other specified malignant bone tumors,Ohio,42,70366333,0.06
+VIII(d) Other specified malignant bone tumors,Oklahoma,18,23756620,0.08000000000000002
+VIII(d) Other specified malignant bone tumors,Pennsylvania,36,72683727,0.05
+VIII(d) Other specified malignant bone tumors,Texas,94,172599550,0.05
+VIII(d) Other specified malignant bone tumors,Virginia,25,47413830,0.05
+VIII(e) Unspecified malignant bone tumors,Alabama,21,28877079,0.06999999999999999
+VIII(e) Unspecified malignant bone tumors,California,38,236070538,0.020000000000000004
+VIII(e) Unspecified malignant bone tumors,Delaware,0,5268436,0
+VIII(e) Unspecified malignant bone tumors,District of Columbia,0,3083338,0
+VIII(e) Unspecified malignant bone tumors,Florida,29,102863635,0.03
+VIII(e) Unspecified malignant bone tumors,Hawaii,0,7747695,0
+VIII(e) Unspecified malignant bone tumors,Iowa,0,18924991,0
+VIII(e) Unspecified malignant bone tumors,Maine,0,7144119,0
+VIII(e) Unspecified malignant bone tumors,Maryland,26,34984232,0.06999999999999999
+VIII(e) Unspecified malignant bone tumors,Minnesota,0,33142582,0
+VIII(e) Unspecified malignant bone tumors,New York,23,113517852,0.020000000000000004
+VIII(e) Unspecified malignant bone tumors,Texas,67,172599550,0.04000000000000001
+VIII(e) Unspecified malignant bone tumors,West Virginia,0,9950567,0
+VIII(e) Unspecified malignant bone tumors,Wyoming,0,3396153,0
+IX Soft-tissue sarcomas,Alabama,349,28877079,1.21
+IX Soft-tissue sarcomas,Alaska,56,4720625,1.1900000000000002
+IX Soft-tissue sarcomas,Arizona,414,39775657,1.04
+IX Soft-tissue sarcomas,Arkansas,206,17898158,1.1500000000000001
+IX Soft-tissue sarcomas,California,2797,236070538,1.1800000000000002
+IX Soft-tissue sarcomas,Colorado,340,30887289,1.1
+IX Soft-tissue sarcomas,Connecticut,262,20830240,1.26
+IX Soft-tissue sarcomas,Delaware,62,5268436,1.1800000000000002
+IX Soft-tissue sarcomas,District of Columbia,40,3083338,1.3
+IX Soft-tissue sarcomas,Florida,1467,102863635,1.4300000000000002
+IX Soft-tissue sarcomas,Georgia,780,62011319,1.26
+IX Soft-tissue sarcomas,Hawaii,83,7747695,1.07
+IX Soft-tissue sarcomas,Idaho,130,10734756,1.21
+IX Soft-tissue sarcomas,Illinois,931,79093866,1.1800000000000002
+IX Soft-tissue sarcomas,Indiana,444,37414578,1.1900000000000002
+IX Soft-tissue sarcomas,Iowa,241,18924991,1.27
+IX Soft-tissue sarcomas,Kansas,211,18406535,1.1500000000000001
+IX Soft-tissue sarcomas,Kentucky,281,25974328,1.08
+IX Soft-tissue sarcomas,Louisiana,343,29086064,1.1800000000000002
+IX Soft-tissue sarcomas,Maine,92,7144119,1.29
+IX Soft-tissue sarcomas,Maryland,405,34984232,1.16
+IX Soft-tissue sarcomas,Massachusetts,479,37580693,1.27
+IX Soft-tissue sarcomas,Michigan,792,61154757,1.3
+IX Soft-tissue sarcomas,Minnesota,411,33142582,1.2400000000000002
+IX Soft-tissue sarcomas,Mississippi,156,15669603,1
+IX Soft-tissue sarcomas,Missouri,408,36266473,1.1300000000000001
+IX Soft-tissue sarcomas,Montana,72,5846055,1.2300000000000002
+IX Soft-tissue sarcomas,Nebraska,130,11903430,1.09
+IX Soft-tissue sarcomas,Nevada,168,16014625,1.05
+IX Soft-tissue sarcomas,New Hampshire,89,7453487,1.1900000000000002
+IX Soft-tissue sarcomas,New Jersey,662,52654520,1.26
+IX Soft-tissue sarcomas,New Mexico,149,12904509,1.1500000000000001
+IX Soft-tissue sarcomas,New York,1517,113517852,1.34
+IX Soft-tissue sarcomas,North Carolina,657,56649928,1.16
+IX Soft-tissue sarcomas,North Dakota,45,4266274,1.05
+IX Soft-tissue sarcomas,Ohio,843,70366333,1.2000000000000002
+IX Soft-tissue sarcomas,Oklahoma,247,23756620,1.04
+IX Soft-tissue sarcomas,Oregon,230,22097759,1.04
+IX Soft-tissue sarcomas,Pennsylvania,875,72683727,1.2000000000000002
+IX Soft-tissue sarcomas,Rhode Island,78,6082080,1.2800000000000002
+IX Soft-tissue sarcomas,South Carolina,264,27583495,0.96
+IX Soft-tissue sarcomas,South Dakota,45,4834317,0.9300000000000002
+IX Soft-tissue sarcomas,Tennessee,441,37884392,1.16
+IX Soft-tissue sarcomas,Texas,2033,172599550,1.1800000000000002
+IX Soft-tissue sarcomas,Utah,284,21588203,1.32
+IX Soft-tissue sarcomas,Vermont,43,3490801,1.2300000000000002
+IX Soft-tissue sarcomas,Virginia,513,47413830,1.08
+IX Soft-tissue sarcomas,Washington,485,40520105,1.2000000000000002
+IX Soft-tissue sarcomas,West Virginia,121,9950567,1.22
+IX Soft-tissue sarcomas,Wisconsin,413,34329682,1.2000000000000002
+IX Soft-tissue sarcomas,Wyoming,39,3396153,1.1500000000000001
+IX(a) Rhabdomyosarcomas,Alabama,131,28877079,0.45
+IX(a) Rhabdomyosarcomas,Alaska,27,4720625,0.5700000000000001
+IX(a) Rhabdomyosarcomas,Arizona,152,39775657,0.38
+IX(a) Rhabdomyosarcomas,Arkansas,74,17898158,0.41
+IX(a) Rhabdomyosarcomas,California,1043,236070538,0.44000000000000006
+IX(a) Rhabdomyosarcomas,Colorado,134,30887289,0.43
+IX(a) Rhabdomyosarcomas,Connecticut,95,20830240,0.45999999999999996
+IX(a) Rhabdomyosarcomas,Delaware,31,5268436,0.5900000000000001
+IX(a) Rhabdomyosarcomas,District of Columbia,17,3083338,0.55
+IX(a) Rhabdomyosarcomas,Florida,603,102863635,0.5900000000000001
+IX(a) Rhabdomyosarcomas,Georgia,291,62011319,0.47000000000000003
+IX(a) Rhabdomyosarcomas,Hawaii,30,7747695,0.39
+IX(a) Rhabdomyosarcomas,Idaho,48,10734756,0.45
+IX(a) Rhabdomyosarcomas,Illinois,349,79093866,0.44000000000000006
+IX(a) Rhabdomyosarcomas,Indiana,185,37414578,0.49000000000000005
+IX(a) Rhabdomyosarcomas,Iowa,81,18924991,0.43
+IX(a) Rhabdomyosarcomas,Kansas,85,18406535,0.45999999999999996
+IX(a) Rhabdomyosarcomas,Kentucky,102,25974328,0.39
+IX(a) Rhabdomyosarcomas,Louisiana,141,29086064,0.48
+IX(a) Rhabdomyosarcomas,Maine,38,7144119,0.53
+IX(a) Rhabdomyosarcomas,Maryland,161,34984232,0.45999999999999996
+IX(a) Rhabdomyosarcomas,Massachusetts,175,37580693,0.47000000000000003
+IX(a) Rhabdomyosarcomas,Michigan,298,61154757,0.49000000000000005
+IX(a) Rhabdomyosarcomas,Minnesota,148,33142582,0.45
+IX(a) Rhabdomyosarcomas,Mississippi,64,15669603,0.41
+IX(a) Rhabdomyosarcomas,Missouri,188,36266473,0.52
+IX(a) Rhabdomyosarcomas,Montana,30,5846055,0.51
+IX(a) Rhabdomyosarcomas,Nebraska,55,11903430,0.45999999999999996
+IX(a) Rhabdomyosarcomas,Nevada,56,16014625,0.35000000000000003
+IX(a) Rhabdomyosarcomas,New Hampshire,23,7453487,0.31000000000000005
+IX(a) Rhabdomyosarcomas,New Jersey,254,52654520,0.48
+IX(a) Rhabdomyosarcomas,New Mexico,41,12904509,0.32000000000000006
+IX(a) Rhabdomyosarcomas,New York,570,113517852,0.5
+IX(a) Rhabdomyosarcomas,North Carolina,259,56649928,0.45999999999999996
+IX(a) Rhabdomyosarcomas,North Dakota,17,4266274,0.4
+IX(a) Rhabdomyosarcomas,Ohio,333,70366333,0.47000000000000003
+IX(a) Rhabdomyosarcomas,Oklahoma,90,23756620,0.38
+IX(a) Rhabdomyosarcomas,Oregon,98,22097759,0.44000000000000006
+IX(a) Rhabdomyosarcomas,Pennsylvania,339,72683727,0.47000000000000003
+IX(a) Rhabdomyosarcomas,Rhode Island,28,6082080,0.45999999999999996
+IX(a) Rhabdomyosarcomas,South Carolina,108,27583495,0.39
+IX(a) Rhabdomyosarcomas,South Dakota,19,4834317,0.39
+IX(a) Rhabdomyosarcomas,Tennessee,190,37884392,0.5
+IX(a) Rhabdomyosarcomas,Texas,781,172599550,0.45
+IX(a) Rhabdomyosarcomas,Utah,97,21588203,0.45
+IX(a) Rhabdomyosarcomas,Virginia,205,47413830,0.43
+IX(a) Rhabdomyosarcomas,Washington,171,40520105,0.42000000000000004
+IX(a) Rhabdomyosarcomas,West Virginia,44,9950567,0.44000000000000006
+IX(a) Rhabdomyosarcomas,Wisconsin,154,34329682,0.45
+IX(a) Rhabdomyosarcomas,Wyoming,19,3396153,0.5599999999999999
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Alabama,27,28877079,0.09000000000000001
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Arizona,37,39775657,0.09000000000000001
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Arkansas,21,17898158,0.12
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",California,297,236070538,0.13
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Colorado,42,30887289,0.13999999999999999
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Connecticut,28,20830240,0.13
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Florida,167,102863635,0.16000000000000003
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Georgia,66,62011319,0.11000000000000001
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Illinois,82,79093866,0.1
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Indiana,60,37414578,0.16000000000000003
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Iowa,34,18924991,0.18000000000000002
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Kansas,25,18406535,0.13999999999999999
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Kentucky,30,25974328,0.12
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Louisiana,35,29086064,0.12
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Maryland,35,34984232,0.1
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Massachusetts,43,37580693,0.11000000000000001
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Michigan,92,61154757,0.15000000000000002
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Minnesota,52,33142582,0.16000000000000003
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Mississippi,16,15669603,0.1
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Missouri,44,36266473,0.12
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Nevada,22,16014625,0.13999999999999999
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",New Jersey,65,52654520,0.12
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",New York,157,113517852,0.13999999999999999
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",North Carolina,62,56649928,0.11000000000000001
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Ohio,102,70366333,0.13999999999999999
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Oklahoma,32,23756620,0.13
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Oregon,22,22097759,0.1
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Pennsylvania,97,72683727,0.13
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",South Carolina,32,27583495,0.12
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Tennessee,55,37884392,0.15000000000000002
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Texas,209,172599550,0.12
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Utah,37,21588203,0.17
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Virginia,38,47413830,0.08000000000000002
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Washington,47,40520105,0.12
+"IX(b) Fibrosarcomas, peripheral nerve & other fibrous",Wisconsin,55,34329682,0.16000000000000003
+IX(c) Kaposi sarcoma,Alaska,0,4720625,0
+IX(c) Kaposi sarcoma,Arizona,0,39775657,0
+IX(c) Kaposi sarcoma,Colorado,0,30887289,0
+IX(c) Kaposi sarcoma,Connecticut,0,20830240,0
+IX(c) Kaposi sarcoma,Hawaii,0,7747695,0
+IX(c) Kaposi sarcoma,Idaho,0,10734756,0
+IX(c) Kaposi sarcoma,Indiana,0,37414578,0
+IX(c) Kaposi sarcoma,Iowa,0,18924991,0
+IX(c) Kaposi sarcoma,Kansas,0,18406535,0
+IX(c) Kaposi sarcoma,Kentucky,0,25974328,0
+IX(c) Kaposi sarcoma,Maine,0,7144119,0
+IX(c) Kaposi sarcoma,Montana,0,5846055,0
+IX(c) Kaposi sarcoma,Nevada,0,16014625,0
+IX(c) Kaposi sarcoma,New Mexico,0,12904509,0
+IX(c) Kaposi sarcoma,North Carolina,0,56649928,0
+IX(c) Kaposi sarcoma,North Dakota,0,4266274,0
+IX(c) Kaposi sarcoma,Ohio,0,70366333,0
+IX(c) Kaposi sarcoma,Oklahoma,0,23756620,0
+IX(c) Kaposi sarcoma,Oregon,0,22097759,0
+IX(c) Kaposi sarcoma,Rhode Island,0,6082080,0
+IX(c) Kaposi sarcoma,South Carolina,0,27583495,0
+IX(c) Kaposi sarcoma,South Dakota,0,4834317,0
+IX(c) Kaposi sarcoma,Vermont,0,3490801,0
+IX(c) Kaposi sarcoma,West Virginia,0,9950567,0
+IX(c) Kaposi sarcoma,Wisconsin,0,34329682,0
+IX(c) Kaposi sarcoma,Wyoming,0,3396153,0
+IX(d) Other specified soft tissue sarcomas,Alabama,137,28877079,0.47000000000000003
+IX(d) Other specified soft tissue sarcomas,Alaska,18,4720625,0.38
+IX(d) Other specified soft tissue sarcomas,Arizona,176,39775657,0.44000000000000006
+IX(d) Other specified soft tissue sarcomas,Arkansas,82,17898158,0.45999999999999996
+IX(d) Other specified soft tissue sarcomas,California,1175,236070538,0.5
+IX(d) Other specified soft tissue sarcomas,Colorado,136,30887289,0.44000000000000006
+IX(d) Other specified soft tissue sarcomas,Connecticut,108,20830240,0.52
+IX(d) Other specified soft tissue sarcomas,Delaware,17,5268436,0.32000000000000006
+IX(d) Other specified soft tissue sarcomas,Florida,521,102863635,0.51
+IX(d) Other specified soft tissue sarcomas,Georgia,302,62011319,0.49000000000000005
+IX(d) Other specified soft tissue sarcomas,Hawaii,31,7747695,0.4
+IX(d) Other specified soft tissue sarcomas,Idaho,44,10734756,0.41
+IX(d) Other specified soft tissue sarcomas,Illinois,368,79093866,0.47000000000000003
+IX(d) Other specified soft tissue sarcomas,Indiana,151,37414578,0.4
+IX(d) Other specified soft tissue sarcomas,Iowa,98,18924991,0.52
+IX(d) Other specified soft tissue sarcomas,Kansas,77,18406535,0.42000000000000004
+IX(d) Other specified soft tissue sarcomas,Kentucky,117,25974328,0.45
+IX(d) Other specified soft tissue sarcomas,Louisiana,131,29086064,0.45
+IX(d) Other specified soft tissue sarcomas,Maine,36,7144119,0.5
+IX(d) Other specified soft tissue sarcomas,Maryland,161,34984232,0.45999999999999996
+IX(d) Other specified soft tissue sarcomas,Massachusetts,206,37580693,0.55
+IX(d) Other specified soft tissue sarcomas,Michigan,304,61154757,0.5
+IX(d) Other specified soft tissue sarcomas,Minnesota,183,33142582,0.55
+IX(d) Other specified soft tissue sarcomas,Mississippi,60,15669603,0.38
+IX(d) Other specified soft tissue sarcomas,Missouri,145,36266473,0.4
+IX(d) Other specified soft tissue sarcomas,Montana,31,5846055,0.53
+IX(d) Other specified soft tissue sarcomas,Nebraska,49,11903430,0.41
+IX(d) Other specified soft tissue sarcomas,Nevada,71,16014625,0.44000000000000006
+IX(d) Other specified soft tissue sarcomas,New Hampshire,43,7453487,0.58
+IX(d) Other specified soft tissue sarcomas,New Jersey,276,52654520,0.52
+IX(d) Other specified soft tissue sarcomas,New Mexico,82,12904509,0.6400000000000001
+IX(d) Other specified soft tissue sarcomas,New York,585,113517852,0.52
+IX(d) Other specified soft tissue sarcomas,North Carolina,259,56649928,0.45999999999999996
+IX(d) Other specified soft tissue sarcomas,North Dakota,16,4266274,0.38
+IX(d) Other specified soft tissue sarcomas,Ohio,322,70366333,0.45999999999999996
+IX(d) Other specified soft tissue sarcomas,Oklahoma,98,23756620,0.41
+IX(d) Other specified soft tissue sarcomas,Oregon,79,22097759,0.36000000000000004
+IX(d) Other specified soft tissue sarcomas,Pennsylvania,339,72683727,0.47000000000000003
+IX(d) Other specified soft tissue sarcomas,Rhode Island,31,6082080,0.51
+IX(d) Other specified soft tissue sarcomas,South Carolina,87,27583495,0.32000000000000006
+IX(d) Other specified soft tissue sarcomas,South Dakota,22,4834317,0.45999999999999996
+IX(d) Other specified soft tissue sarcomas,Tennessee,137,37884392,0.36000000000000004
+IX(d) Other specified soft tissue sarcomas,Texas,757,172599550,0.44000000000000006
+IX(d) Other specified soft tissue sarcomas,Utah,114,21588203,0.53
+IX(d) Other specified soft tissue sarcomas,Vermont,18,3490801,0.52
+IX(d) Other specified soft tissue sarcomas,Virginia,203,47413830,0.43
+IX(d) Other specified soft tissue sarcomas,Washington,208,40520105,0.51
+IX(d) Other specified soft tissue sarcomas,West Virginia,55,9950567,0.55
+IX(d) Other specified soft tissue sarcomas,Wisconsin,143,34329682,0.42000000000000004
+IX(e) Unspecified soft tissue sarcomas,Alabama,52,28877079,0.18000000000000002
+IX(e) Unspecified soft tissue sarcomas,Arizona,49,39775657,0.12
+IX(e) Unspecified soft tissue sarcomas,Arkansas,28,17898158,0.16000000000000003
+IX(e) Unspecified soft tissue sarcomas,California,274,236070538,0.12
+IX(e) Unspecified soft tissue sarcomas,Colorado,28,30887289,0.09000000000000001
+IX(e) Unspecified soft tissue sarcomas,Connecticut,31,20830240,0.15000000000000002
+IX(e) Unspecified soft tissue sarcomas,Florida,168,102863635,0.16000000000000003
+IX(e) Unspecified soft tissue sarcomas,Georgia,111,62011319,0.18000000000000002
+IX(e) Unspecified soft tissue sarcomas,Idaho,25,10734756,0.22999999999999998
+IX(e) Unspecified soft tissue sarcomas,Illinois,126,79093866,0.16000000000000003
+IX(e) Unspecified soft tissue sarcomas,Indiana,48,37414578,0.13
+IX(e) Unspecified soft tissue sarcomas,Iowa,28,18924991,0.15000000000000002
+IX(e) Unspecified soft tissue sarcomas,Kansas,24,18406535,0.13
+IX(e) Unspecified soft tissue sarcomas,Kentucky,32,25974328,0.12
+IX(e) Unspecified soft tissue sarcomas,Louisiana,35,29086064,0.12
+IX(e) Unspecified soft tissue sarcomas,Maryland,46,34984232,0.13
+IX(e) Unspecified soft tissue sarcomas,Massachusetts,53,37580693,0.13999999999999999
+IX(e) Unspecified soft tissue sarcomas,Michigan,97,61154757,0.16000000000000003
+IX(e) Unspecified soft tissue sarcomas,Minnesota,27,33142582,0.08000000000000002
+IX(e) Unspecified soft tissue sarcomas,Missouri,30,36266473,0.08000000000000002
+IX(e) Unspecified soft tissue sarcomas,Nevada,19,16014625,0.12
+IX(e) Unspecified soft tissue sarcomas,New Jersey,65,52654520,0.12
+IX(e) Unspecified soft tissue sarcomas,New York,196,113517852,0.17
+IX(e) Unspecified soft tissue sarcomas,North Carolina,77,56649928,0.13999999999999999
+IX(e) Unspecified soft tissue sarcomas,Ohio,86,70366333,0.12
+IX(e) Unspecified soft tissue sarcomas,Oklahoma,27,23756620,0.11000000000000001
+IX(e) Unspecified soft tissue sarcomas,Oregon,31,22097759,0.13999999999999999
+IX(e) Unspecified soft tissue sarcomas,Pennsylvania,94,72683727,0.13
+IX(e) Unspecified soft tissue sarcomas,South Carolina,37,27583495,0.13
+IX(e) Unspecified soft tissue sarcomas,Tennessee,56,37884392,0.15000000000000002
+IX(e) Unspecified soft tissue sarcomas,Texas,277,172599550,0.16000000000000003
+IX(e) Unspecified soft tissue sarcomas,Utah,35,21588203,0.16000000000000003
+IX(e) Unspecified soft tissue sarcomas,Virginia,63,47413830,0.13
+IX(e) Unspecified soft tissue sarcomas,Washington,56,40520105,0.13999999999999999
+IX(e) Unspecified soft tissue sarcomas,Wisconsin,61,34329682,0.18000000000000002
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Alabama,255,28877079,0.8800000000000001
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Alaska,43,4720625,0.91
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Arizona,487,39775657,1.22
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Arkansas,154,17898158,0.86
+"X Germ-cell, trophoblastic and other gonadal neoplasms",California,3160,236070538,1.34
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Colorado,358,30887289,1.16
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Connecticut,194,20830240,0.9300000000000002
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Delaware,62,5268436,1.1800000000000002
+"X Germ-cell, trophoblastic and other gonadal neoplasms",District of Columbia,23,3083338,0.75
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Florida,1085,102863635,1.05
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Georgia,585,62011319,0.9400000000000001
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Hawaii,110,7747695,1.42
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Idaho,122,10734756,1.1400000000000001
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Illinois,974,79093866,1.2300000000000002
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Indiana,386,37414578,1.03
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Iowa,226,18924991,1.1900000000000002
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Kansas,213,18406535,1.16
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Kentucky,285,25974328,1.1
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Louisiana,268,29086064,0.9199999999999999
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Maine,67,7144119,0.9400000000000001
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Maryland,293,34984232,0.8400000000000001
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Massachusetts,389,37580693,1.04
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Michigan,666,61154757,1.09
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Minnesota,423,33142582,1.2800000000000002
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Mississippi,135,15669603,0.86
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Missouri,365,36266473,1.01
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Montana,67,5846055,1.1500000000000001
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Nebraska,124,11903430,1.04
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Nevada,202,16014625,1.26
+"X Germ-cell, trophoblastic and other gonadal neoplasms",New Hampshire,84,7453487,1.1300000000000001
+"X Germ-cell, trophoblastic and other gonadal neoplasms",New Jersey,616,52654520,1.17
+"X Germ-cell, trophoblastic and other gonadal neoplasms",New Mexico,165,12904509,1.2800000000000002
+"X Germ-cell, trophoblastic and other gonadal neoplasms",New York,1312,113517852,1.16
+"X Germ-cell, trophoblastic and other gonadal neoplasms",North Carolina,572,56649928,1.01
+"X Germ-cell, trophoblastic and other gonadal neoplasms",North Dakota,38,4266274,0.8900000000000001
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Ohio,681,70366333,0.97
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Oklahoma,221,23756620,0.9300000000000002
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Oregon,278,22097759,1.26
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Pennsylvania,769,72683727,1.06
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Rhode Island,74,6082080,1.22
+"X Germ-cell, trophoblastic and other gonadal neoplasms",South Carolina,233,27583495,0.8400000000000001
+"X Germ-cell, trophoblastic and other gonadal neoplasms",South Dakota,51,4834317,1.05
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Tennessee,352,37884392,0.9300000000000002
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Texas,2236,172599550,1.3
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Utah,294,21588203,1.36
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Vermont,40,3490801,1.1500000000000001
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Virginia,410,47413830,0.86
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Washington,412,40520105,1.02
+"X Germ-cell, trophoblastic and other gonadal neoplasms",West Virginia,87,9950567,0.87
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Wisconsin,396,34329682,1.1500000000000001
+"X Germ-cell, trophoblastic and other gonadal neoplasms",Wyoming,36,3396153,1.06
+X(a) Intracranial & intraspinal germ cell tumors,Alabama,35,28877079,0.12
+X(a) Intracranial & intraspinal germ cell tumors,Arizona,83,39775657,0.21000000000000002
+X(a) Intracranial & intraspinal germ cell tumors,Arkansas,25,17898158,0.13999999999999999
+X(a) Intracranial & intraspinal germ cell tumors,California,520,236070538,0.22000000000000003
+X(a) Intracranial & intraspinal germ cell tumors,Colorado,63,30887289,0.2
+X(a) Intracranial & intraspinal germ cell tumors,Connecticut,31,20830240,0.15000000000000002
+X(a) Intracranial & intraspinal germ cell tumors,Florida,172,102863635,0.17
+X(a) Intracranial & intraspinal germ cell tumors,Georgia,86,62011319,0.13999999999999999
+X(a) Intracranial & intraspinal germ cell tumors,Hawaii,26,7747695,0.34
+X(a) Intracranial & intraspinal germ cell tumors,Illinois,153,79093866,0.19
+X(a) Intracranial & intraspinal germ cell tumors,Indiana,62,37414578,0.17
+X(a) Intracranial & intraspinal germ cell tumors,Iowa,26,18924991,0.13999999999999999
+X(a) Intracranial & intraspinal germ cell tumors,Kansas,23,18406535,0.12
+X(a) Intracranial & intraspinal germ cell tumors,Kentucky,42,25974328,0.16000000000000003
+X(a) Intracranial & intraspinal germ cell tumors,Louisiana,47,29086064,0.16000000000000003
+X(a) Intracranial & intraspinal germ cell tumors,Maine,18,7144119,0.25
+X(a) Intracranial & intraspinal germ cell tumors,Maryland,51,34984232,0.15000000000000002
+X(a) Intracranial & intraspinal germ cell tumors,Massachusetts,62,37580693,0.16000000000000003
+X(a) Intracranial & intraspinal germ cell tumors,Michigan,93,61154757,0.15000000000000002
+X(a) Intracranial & intraspinal germ cell tumors,Minnesota,56,33142582,0.17
+X(a) Intracranial & intraspinal germ cell tumors,Mississippi,19,15669603,0.12
+X(a) Intracranial & intraspinal germ cell tumors,Missouri,47,36266473,0.13
+X(a) Intracranial & intraspinal germ cell tumors,Nebraska,22,11903430,0.18000000000000002
+X(a) Intracranial & intraspinal germ cell tumors,Nevada,24,16014625,0.15000000000000002
+X(a) Intracranial & intraspinal germ cell tumors,New Hampshire,16,7453487,0.21000000000000002
+X(a) Intracranial & intraspinal germ cell tumors,New Jersey,90,52654520,0.17
+X(a) Intracranial & intraspinal germ cell tumors,New York,212,113517852,0.19
+X(a) Intracranial & intraspinal germ cell tumors,North Carolina,88,56649928,0.16000000000000003
+X(a) Intracranial & intraspinal germ cell tumors,Ohio,101,70366333,0.13999999999999999
+X(a) Intracranial & intraspinal germ cell tumors,Oklahoma,47,23756620,0.2
+X(a) Intracranial & intraspinal germ cell tumors,Oregon,39,22097759,0.18000000000000002
+X(a) Intracranial & intraspinal germ cell tumors,Pennsylvania,124,72683727,0.17
+X(a) Intracranial & intraspinal germ cell tumors,South Carolina,33,27583495,0.12
+X(a) Intracranial & intraspinal germ cell tumors,Tennessee,57,37884392,0.15000000000000002
+X(a) Intracranial & intraspinal germ cell tumors,Texas,313,172599550,0.18000000000000002
+X(a) Intracranial & intraspinal germ cell tumors,Utah,40,21588203,0.19
+X(a) Intracranial & intraspinal germ cell tumors,Virginia,81,47413830,0.17
+X(a) Intracranial & intraspinal germ cell tumors,Washington,54,40520105,0.13
+X(a) Intracranial & intraspinal germ cell tumors,Wisconsin,45,34329682,0.13
+X(b) Extracranial & extragonadal germ cell tumors,Alabama,37,28877079,0.13
+X(b) Extracranial & extragonadal germ cell tumors,Arizona,73,39775657,0.18000000000000002
+X(b) Extracranial & extragonadal germ cell tumors,Arkansas,20,17898158,0.11000000000000001
+X(b) Extracranial & extragonadal germ cell tumors,California,356,236070538,0.15000000000000002
+X(b) Extracranial & extragonadal germ cell tumors,Colorado,47,30887289,0.15000000000000002
+X(b) Extracranial & extragonadal germ cell tumors,Connecticut,21,20830240,0.1
+X(b) Extracranial & extragonadal germ cell tumors,Florida,144,102863635,0.13999999999999999
+X(b) Extracranial & extragonadal germ cell tumors,Georgia,89,62011319,0.13999999999999999
+X(b) Extracranial & extragonadal germ cell tumors,Hawaii,16,7747695,0.21000000000000002
+X(b) Extracranial & extragonadal germ cell tumors,Illinois,110,79093866,0.13999999999999999
+X(b) Extracranial & extragonadal germ cell tumors,Indiana,67,37414578,0.18000000000000002
+X(b) Extracranial & extragonadal germ cell tumors,Iowa,31,18924991,0.16000000000000003
+X(b) Extracranial & extragonadal germ cell tumors,Kansas,28,18406535,0.15000000000000002
+X(b) Extracranial & extragonadal germ cell tumors,Kentucky,43,25974328,0.17
+X(b) Extracranial & extragonadal germ cell tumors,Louisiana,52,29086064,0.18000000000000002
+X(b) Extracranial & extragonadal germ cell tumors,Maryland,39,34984232,0.11000000000000001
+X(b) Extracranial & extragonadal germ cell tumors,Massachusetts,51,37580693,0.13999999999999999
+X(b) Extracranial & extragonadal germ cell tumors,Michigan,83,61154757,0.13999999999999999
+X(b) Extracranial & extragonadal germ cell tumors,Minnesota,57,33142582,0.17
+X(b) Extracranial & extragonadal germ cell tumors,Mississippi,25,15669603,0.16000000000000003
+X(b) Extracranial & extragonadal germ cell tumors,Missouri,48,36266473,0.13
+X(b) Extracranial & extragonadal germ cell tumors,Nevada,23,16014625,0.13999999999999999
+X(b) Extracranial & extragonadal germ cell tumors,New Jersey,79,52654520,0.15000000000000002
+X(b) Extracranial & extragonadal germ cell tumors,New Mexico,21,12904509,0.16000000000000003
+X(b) Extracranial & extragonadal germ cell tumors,New York,171,113517852,0.15000000000000002
+X(b) Extracranial & extragonadal germ cell tumors,North Carolina,74,56649928,0.13
+X(b) Extracranial & extragonadal germ cell tumors,Ohio,79,70366333,0.11000000000000001
+X(b) Extracranial & extragonadal germ cell tumors,Oklahoma,32,23756620,0.13
+X(b) Extracranial & extragonadal germ cell tumors,Oregon,31,22097759,0.13999999999999999
+X(b) Extracranial & extragonadal germ cell tumors,Pennsylvania,88,72683727,0.12
+X(b) Extracranial & extragonadal germ cell tumors,South Carolina,31,27583495,0.11000000000000001
+X(b) Extracranial & extragonadal germ cell tumors,Tennessee,37,37884392,0.1
+X(b) Extracranial & extragonadal germ cell tumors,Texas,275,172599550,0.16000000000000003
+X(b) Extracranial & extragonadal germ cell tumors,Utah,50,21588203,0.22999999999999998
+X(b) Extracranial & extragonadal germ cell tumors,Virginia,44,47413830,0.09000000000000001
+X(b) Extracranial & extragonadal germ cell tumors,Washington,68,40520105,0.17
+X(b) Extracranial & extragonadal germ cell tumors,West Virginia,19,9950567,0.19
+X(b) Extracranial & extragonadal germ cell tumors,Wisconsin,42,34329682,0.12
+X(c) Malignant gonadal germ cell tumors,Alabama,144,28877079,0.5
+X(c) Malignant gonadal germ cell tumors,Alaska,25,4720625,0.53
+X(c) Malignant gonadal germ cell tumors,Arizona,303,39775657,0.76
+X(c) Malignant gonadal germ cell tumors,Arkansas,96,17898158,0.54
+X(c) Malignant gonadal germ cell tumors,California,2114,236070538,0.9
+X(c) Malignant gonadal germ cell tumors,Colorado,226,30887289,0.73
+X(c) Malignant gonadal germ cell tumors,Connecticut,131,20830240,0.63
+X(c) Malignant gonadal germ cell tumors,Delaware,35,5268436,0.66
+X(c) Malignant gonadal germ cell tumors,Florida,687,102863635,0.67
+X(c) Malignant gonadal germ cell tumors,Georgia,368,62011319,0.5900000000000001
+X(c) Malignant gonadal germ cell tumors,Hawaii,60,7747695,0.77
+X(c) Malignant gonadal germ cell tumors,Idaho,87,10734756,0.81
+X(c) Malignant gonadal germ cell tumors,Illinois,660,79093866,0.8300000000000001
+X(c) Malignant gonadal germ cell tumors,Indiana,234,37414578,0.63
+X(c) Malignant gonadal germ cell tumors,Iowa,157,18924991,0.8300000000000001
+X(c) Malignant gonadal germ cell tumors,Kansas,140,18406535,0.76
+X(c) Malignant gonadal germ cell tumors,Kentucky,179,25974328,0.6900000000000001
+X(c) Malignant gonadal germ cell tumors,Louisiana,150,29086064,0.52
+X(c) Malignant gonadal germ cell tumors,Maine,37,7144119,0.52
+X(c) Malignant gonadal germ cell tumors,Maryland,183,34984232,0.52
+X(c) Malignant gonadal germ cell tumors,Massachusetts,236,37580693,0.63
+X(c) Malignant gonadal germ cell tumors,Michigan,436,61154757,0.71
+X(c) Malignant gonadal germ cell tumors,Minnesota,289,33142582,0.87
+X(c) Malignant gonadal germ cell tumors,Mississippi,83,15669603,0.53
+X(c) Malignant gonadal germ cell tumors,Missouri,246,36266473,0.68
+X(c) Malignant gonadal germ cell tumors,Montana,47,5846055,0.8
+X(c) Malignant gonadal germ cell tumors,Nebraska,80,11903430,0.67
+X(c) Malignant gonadal germ cell tumors,Nevada,139,16014625,0.87
+X(c) Malignant gonadal germ cell tumors,New Hampshire,51,7453487,0.68
+X(c) Malignant gonadal germ cell tumors,New Jersey,404,52654520,0.77
+X(c) Malignant gonadal germ cell tumors,New Mexico,116,12904509,0.9
+X(c) Malignant gonadal germ cell tumors,New York,839,113517852,0.7400000000000001
+X(c) Malignant gonadal germ cell tumors,North Carolina,375,56649928,0.66
+X(c) Malignant gonadal germ cell tumors,North Dakota,25,4266274,0.5900000000000001
+X(c) Malignant gonadal germ cell tumors,Ohio,440,70366333,0.63
+X(c) Malignant gonadal germ cell tumors,Oklahoma,124,23756620,0.52
+X(c) Malignant gonadal germ cell tumors,Oregon,194,22097759,0.8800000000000001
+X(c) Malignant gonadal germ cell tumors,Pennsylvania,497,72683727,0.68
+X(c) Malignant gonadal germ cell tumors,Rhode Island,49,6082080,0.81
+X(c) Malignant gonadal germ cell tumors,South Carolina,149,27583495,0.54
+X(c) Malignant gonadal germ cell tumors,South Dakota,33,4834317,0.68
+X(c) Malignant gonadal germ cell tumors,Tennessee,234,37884392,0.6200000000000001
+X(c) Malignant gonadal germ cell tumors,Texas,1468,172599550,0.8500000000000001
+X(c) Malignant gonadal germ cell tumors,Utah,187,21588203,0.87
+X(c) Malignant gonadal germ cell tumors,Vermont,27,3490801,0.77
+X(c) Malignant gonadal germ cell tumors,Virginia,248,47413830,0.52
+X(c) Malignant gonadal germ cell tumors,Washington,270,40520105,0.67
+X(c) Malignant gonadal germ cell tumors,West Virginia,46,9950567,0.45999999999999996
+X(c) Malignant gonadal germ cell tumors,Wisconsin,273,34329682,0.8
+X(c) Malignant gonadal germ cell tumors,Wyoming,27,3396153,0.8
+X(d) Gonadal carcinomas,Alabama,19,28877079,0.06999999999999999
+X(d) Gonadal carcinomas,Arizona,16,39775657,0.04000000000000001
+X(d) Gonadal carcinomas,California,108,236070538,0.05
+X(d) Gonadal carcinomas,Florida,44,102863635,0.04000000000000001
+X(d) Gonadal carcinomas,Georgia,23,62011319,0.04000000000000001
+X(d) Gonadal carcinomas,Illinois,34,79093866,0.04000000000000001
+X(d) Gonadal carcinomas,Massachusetts,20,37580693,0.05
+X(d) Gonadal carcinomas,Michigan,29,61154757,0.05
+X(d) Gonadal carcinomas,Missouri,19,36266473,0.05
+X(d) Gonadal carcinomas,New Jersey,25,52654520,0.05
+X(d) Gonadal carcinomas,New York,57,113517852,0.05
+X(d) Gonadal carcinomas,North Carolina,20,56649928,0.04000000000000001
+X(d) Gonadal carcinomas,Ohio,30,70366333,0.04000000000000001
+X(d) Gonadal carcinomas,Pennsylvania,37,72683727,0.05
+X(d) Gonadal carcinomas,Texas,79,172599550,0.05
+X(d) Gonadal carcinomas,Vermont,0,3490801,0
+X(d) Gonadal carcinomas,Virginia,20,47413830,0.04000000000000001
+X(d) Gonadal carcinomas,Wisconsin,21,34329682,0.06
+X(e) Other and unspecified malignant gonadal tumors,Alabama,20,28877079,0.06999999999999999
+X(e) Other and unspecified malignant gonadal tumors,California,62,236070538,0.03
+X(e) Other and unspecified malignant gonadal tumors,Colorado,17,30887289,0.06
+X(e) Other and unspecified malignant gonadal tumors,Florida,38,102863635,0.04000000000000001
+X(e) Other and unspecified malignant gonadal tumors,Georgia,19,62011319,0.03
+X(e) Other and unspecified malignant gonadal tumors,Illinois,17,79093866,0.020000000000000004
+X(e) Other and unspecified malignant gonadal tumors,Massachusetts,20,37580693,0.05
+X(e) Other and unspecified malignant gonadal tumors,Michigan,25,61154757,0.04000000000000001
+X(e) Other and unspecified malignant gonadal tumors,New Jersey,18,52654520,0.03
+X(e) Other and unspecified malignant gonadal tumors,New York,33,113517852,0.03
+X(e) Other and unspecified malignant gonadal tumors,North Dakota,0,4266274,0
+X(e) Other and unspecified malignant gonadal tumors,Ohio,31,70366333,0.04000000000000001
+X(e) Other and unspecified malignant gonadal tumors,Pennsylvania,23,72683727,0.03
+X(e) Other and unspecified malignant gonadal tumors,Texas,101,172599550,0.06
+X(e) Other and unspecified malignant gonadal tumors,Virginia,17,47413830,0.04000000000000001
+X(e) Other and unspecified malignant gonadal tumors,Wyoming,0,3396153,0
+XI Carcinomas and other malignant epithelial neoplasms,Alabama,514,28877079,1.7800000000000002
+XI Carcinomas and other malignant epithelial neoplasms,Alaska,82,4720625,1.74
+XI Carcinomas and other malignant epithelial neoplasms,Arizona,762,39775657,1.92
+XI Carcinomas and other malignant epithelial neoplasms,Arkansas,295,17898158,1.6500000000000001
+XI Carcinomas and other malignant epithelial neoplasms,California,4275,236070538,1.8100000000000003
+XI Carcinomas and other malignant epithelial neoplasms,Colorado,619,30887289,2
+XI Carcinomas and other malignant epithelial neoplasms,Connecticut,509,20830240,2.44
+XI Carcinomas and other malignant epithelial neoplasms,Delaware,113,5268436,2.14
+XI Carcinomas and other malignant epithelial neoplasms,District of Columbia,50,3083338,1.62
+XI Carcinomas and other malignant epithelial neoplasms,Florida,2021,102863635,1.9600000000000002
+XI Carcinomas and other malignant epithelial neoplasms,Georgia,1063,62011319,1.7100000000000002
+XI Carcinomas and other malignant epithelial neoplasms,Hawaii,126,7747695,1.6300000000000001
+XI Carcinomas and other malignant epithelial neoplasms,Idaho,244,10734756,2.27
+XI Carcinomas and other malignant epithelial neoplasms,Illinois,1642,79093866,2.08
+XI Carcinomas and other malignant epithelial neoplasms,Indiana,639,37414578,1.7100000000000002
+XI Carcinomas and other malignant epithelial neoplasms,Iowa,446,18924991,2.3600000000000003
+XI Carcinomas and other malignant epithelial neoplasms,Kansas,415,18406535,2.25
+XI Carcinomas and other malignant epithelial neoplasms,Kentucky,576,25974328,2.22
+XI Carcinomas and other malignant epithelial neoplasms,Louisiana,499,29086064,1.72
+XI Carcinomas and other malignant epithelial neoplasms,Maine,196,7144119,2.74
+XI Carcinomas and other malignant epithelial neoplasms,Maryland,688,34984232,1.97
+XI Carcinomas and other malignant epithelial neoplasms,Massachusetts,771,37580693,2.0500000000000003
+XI Carcinomas and other malignant epithelial neoplasms,Michigan,1355,61154757,2.22
+XI Carcinomas and other malignant epithelial neoplasms,Minnesota,678,33142582,2.0500000000000003
+XI Carcinomas and other malignant epithelial neoplasms,Mississippi,261,15669603,1.67
+XI Carcinomas and other malignant epithelial neoplasms,Missouri,661,36266473,1.82
+XI Carcinomas and other malignant epithelial neoplasms,Montana,127,5846055,2.17
+XI Carcinomas and other malignant epithelial neoplasms,Nebraska,276,11903430,2.32
+XI Carcinomas and other malignant epithelial neoplasms,Nevada,270,16014625,1.69
+XI Carcinomas and other malignant epithelial neoplasms,New Hampshire,208,7453487,2.79
+XI Carcinomas and other malignant epithelial neoplasms,New Jersey,1253,52654520,2.3800000000000003
+XI Carcinomas and other malignant epithelial neoplasms,New Mexico,244,12904509,1.89
+XI Carcinomas and other malignant epithelial neoplasms,New York,2610,113517852,2.3000000000000003
+XI Carcinomas and other malignant epithelial neoplasms,North Carolina,1052,56649928,1.8600000000000003
+XI Carcinomas and other malignant epithelial neoplasms,North Dakota,92,4266274,2.16
+XI Carcinomas and other malignant epithelial neoplasms,Ohio,1437,70366333,2.04
+XI Carcinomas and other malignant epithelial neoplasms,Oklahoma,429,23756620,1.8100000000000003
+XI Carcinomas and other malignant epithelial neoplasms,Oregon,456,22097759,2.06
+XI Carcinomas and other malignant epithelial neoplasms,Pennsylvania,1751,72683727,2.41
+XI Carcinomas and other malignant epithelial neoplasms,Rhode Island,129,6082080,2.12
+XI Carcinomas and other malignant epithelial neoplasms,South Carolina,423,27583495,1.5300000000000002
+XI Carcinomas and other malignant epithelial neoplasms,South Dakota,81,4834317,1.6800000000000002
+XI Carcinomas and other malignant epithelial neoplasms,Tennessee,692,37884392,1.83
+XI Carcinomas and other malignant epithelial neoplasms,Texas,3129,172599550,1.8100000000000003
+XI Carcinomas and other malignant epithelial neoplasms,Utah,499,21588203,2.31
+XI Carcinomas and other malignant epithelial neoplasms,Vermont,86,3490801,2.4600000000000004
+XI Carcinomas and other malignant epithelial neoplasms,Virginia,792,47413830,1.67
+XI Carcinomas and other malignant epithelial neoplasms,Washington,932,40520105,2.3000000000000003
+XI Carcinomas and other malignant epithelial neoplasms,West Virginia,255,9950567,2.5600000000000005
+XI Carcinomas and other malignant epithelial neoplasms,Wisconsin,664,34329682,1.9300000000000002
+XI Carcinomas and other malignant epithelial neoplasms,Wyoming,72,3396153,2.12
+XI(a) Adrenocortical carcinomas,California,55,236070538,0.020000000000000004
+XI(a) Adrenocortical carcinomas,Delaware,0,5268436,0
+XI(a) Adrenocortical carcinomas,Florida,20,102863635,0.020000000000000004
+XI(a) Adrenocortical carcinomas,Georgia,18,62011319,0.03
+XI(a) Adrenocortical carcinomas,Michigan,18,61154757,0.03
+XI(a) Adrenocortical carcinomas,New York,22,113517852,0.020000000000000004
+XI(a) Adrenocortical carcinomas,Ohio,16,70366333,0.020000000000000004
+XI(a) Adrenocortical carcinomas,Pennsylvania,25,72683727,0.03
+XI(a) Adrenocortical carcinomas,Rhode Island,0,6082080,0
+XI(a) Adrenocortical carcinomas,Texas,42,172599550,0.020000000000000004
+XI(a) Adrenocortical carcinomas,Wyoming,0,3396153,0
+XI(b) Thyroid carcinomas,Alabama,187,28877079,0.65
+XI(b) Thyroid carcinomas,Alaska,42,4720625,0.8900000000000001
+XI(b) Thyroid carcinomas,Arizona,351,39775657,0.8800000000000001
+XI(b) Thyroid carcinomas,Arkansas,134,17898158,0.75
+XI(b) Thyroid carcinomas,California,1940,236070538,0.82
+XI(b) Thyroid carcinomas,Colorado,252,30887289,0.82
+XI(b) Thyroid carcinomas,Connecticut,228,20830240,1.09
+XI(b) Thyroid carcinomas,Delaware,43,5268436,0.82
+XI(b) Thyroid carcinomas,District of Columbia,23,3083338,0.75
+XI(b) Thyroid carcinomas,Florida,877,102863635,0.8500000000000001
+XI(b) Thyroid carcinomas,Georgia,427,62011319,0.6900000000000001
+XI(b) Thyroid carcinomas,Hawaii,44,7747695,0.5700000000000001
+XI(b) Thyroid carcinomas,Idaho,106,10734756,0.9900000000000001
+XI(b) Thyroid carcinomas,Illinois,780,79093866,0.9900000000000001
+XI(b) Thyroid carcinomas,Indiana,277,37414578,0.7400000000000001
+XI(b) Thyroid carcinomas,Iowa,176,18924991,0.9300000000000002
+XI(b) Thyroid carcinomas,Kansas,177,18406535,0.96
+XI(b) Thyroid carcinomas,Kentucky,267,25974328,1.03
+XI(b) Thyroid carcinomas,Louisiana,181,29086064,0.6200000000000001
+XI(b) Thyroid carcinomas,Maine,100,7144119,1.4000000000000001
+XI(b) Thyroid carcinomas,Maryland,276,34984232,0.79
+XI(b) Thyroid carcinomas,Massachusetts,359,37580693,0.96
+XI(b) Thyroid carcinomas,Michigan,535,61154757,0.87
+XI(b) Thyroid carcinomas,Minnesota,275,33142582,0.8300000000000001
+XI(b) Thyroid carcinomas,Mississippi,95,15669603,0.61
+XI(b) Thyroid carcinomas,Missouri,267,36266473,0.7400000000000001
+XI(b) Thyroid carcinomas,Montana,56,5846055,0.96
+XI(b) Thyroid carcinomas,Nebraska,125,11903430,1.05
+XI(b) Thyroid carcinomas,Nevada,138,16014625,0.86
+XI(b) Thyroid carcinomas,New Hampshire,75,7453487,1.01
+XI(b) Thyroid carcinomas,New Jersey,637,52654520,1.21
+XI(b) Thyroid carcinomas,New Mexico,131,12904509,1.02
+XI(b) Thyroid carcinomas,New York,1299,113517852,1.1400000000000001
+XI(b) Thyroid carcinomas,North Carolina,421,56649928,0.7400000000000001
+XI(b) Thyroid carcinomas,North Dakota,33,4266274,0.77
+XI(b) Thyroid carcinomas,Ohio,590,70366333,0.8400000000000001
+XI(b) Thyroid carcinomas,Oklahoma,175,23756620,0.7400000000000001
+XI(b) Thyroid carcinomas,Oregon,191,22097759,0.86
+XI(b) Thyroid carcinomas,Pennsylvania,829,72683727,1.1400000000000001
+XI(b) Thyroid carcinomas,Rhode Island,71,6082080,1.17
+XI(b) Thyroid carcinomas,South Carolina,148,27583495,0.54
+XI(b) Thyroid carcinomas,South Dakota,33,4834317,0.68
+XI(b) Thyroid carcinomas,Tennessee,295,37884392,0.78
+XI(b) Thyroid carcinomas,Texas,1364,172599550,0.79
+XI(b) Thyroid carcinomas,Utah,202,21588203,0.9400000000000001
+XI(b) Thyroid carcinomas,Vermont,39,3490801,1.1199999999999999
+XI(b) Thyroid carcinomas,Virginia,371,47413830,0.78
+XI(b) Thyroid carcinomas,Washington,371,40520105,0.9199999999999999
+XI(b) Thyroid carcinomas,West Virginia,111,9950567,1.1199999999999999
+XI(b) Thyroid carcinomas,Wisconsin,311,34329682,0.91
+XI(b) Thyroid carcinomas,Wyoming,28,3396153,0.82
+XI(c) Nasopharyngeal carcinomas,Alabama,30,28877079,0.1
+XI(c) Nasopharyngeal carcinomas,California,118,236070538,0.05
+XI(c) Nasopharyngeal carcinomas,Florida,69,102863635,0.06999999999999999
+XI(c) Nasopharyngeal carcinomas,Georgia,45,62011319,0.06999999999999999
+XI(c) Nasopharyngeal carcinomas,Illinois,38,79093866,0.05
+XI(c) Nasopharyngeal carcinomas,Kentucky,16,25974328,0.06
+XI(c) Nasopharyngeal carcinomas,Louisiana,22,29086064,0.08000000000000002
+XI(c) Nasopharyngeal carcinomas,Maryland,29,34984232,0.08000000000000002
+XI(c) Nasopharyngeal carcinomas,Michigan,27,61154757,0.04000000000000001
+XI(c) Nasopharyngeal carcinomas,Minnesota,16,33142582,0.05
+XI(c) Nasopharyngeal carcinomas,Missouri,25,36266473,0.06999999999999999
+XI(c) Nasopharyngeal carcinomas,New Jersey,27,52654520,0.05
+XI(c) Nasopharyngeal carcinomas,New York,77,113517852,0.06999999999999999
+XI(c) Nasopharyngeal carcinomas,North Carolina,35,56649928,0.06
+XI(c) Nasopharyngeal carcinomas,Ohio,31,70366333,0.04000000000000001
+XI(c) Nasopharyngeal carcinomas,Oklahoma,19,23756620,0.08000000000000002
+XI(c) Nasopharyngeal carcinomas,Pennsylvania,42,72683727,0.06
+XI(c) Nasopharyngeal carcinomas,Rhode Island,0,6082080,0
+XI(c) Nasopharyngeal carcinomas,South Carolina,19,27583495,0.06999999999999999
+XI(c) Nasopharyngeal carcinomas,Tennessee,22,37884392,0.06
+XI(c) Nasopharyngeal carcinomas,Texas,84,172599550,0.05
+XI(c) Nasopharyngeal carcinomas,Virginia,18,47413830,0.04000000000000001
+XI(c) Nasopharyngeal carcinomas,Wyoming,0,3396153,0
+XI(d) Malignant melanomas,Alabama,127,28877079,0.44000000000000006
+XI(d) Malignant melanomas,Arizona,189,39775657,0.48
+XI(d) Malignant melanomas,Arkansas,61,17898158,0.34
+XI(d) Malignant melanomas,California,955,236070538,0.4
+XI(d) Malignant melanomas,Colorado,156,30887289,0.51
+XI(d) Malignant melanomas,Connecticut,106,20830240,0.51
+XI(d) Malignant melanomas,Delaware,33,5268436,0.63
+XI(d) Malignant melanomas,Florida,497,102863635,0.48
+XI(d) Malignant melanomas,Georgia,241,62011319,0.39
+XI(d) Malignant melanomas,Hawaii,30,7747695,0.39
+XI(d) Malignant melanomas,Idaho,67,10734756,0.6200000000000001
+XI(d) Malignant melanomas,Illinois,330,79093866,0.42000000000000004
+XI(d) Malignant melanomas,Indiana,160,37414578,0.43
+XI(d) Malignant melanomas,Iowa,135,18924991,0.71
+XI(d) Malignant melanomas,Kansas,117,18406535,0.6400000000000001
+XI(d) Malignant melanomas,Kentucky,120,25974328,0.45999999999999996
+XI(d) Malignant melanomas,Louisiana,138,29086064,0.47000000000000003
+XI(d) Malignant melanomas,Maine,34,7144119,0.48
+XI(d) Malignant melanomas,Maryland,180,34984232,0.51
+XI(d) Malignant melanomas,Massachusetts,174,37580693,0.45999999999999996
+XI(d) Malignant melanomas,Michigan,361,61154757,0.5900000000000001
+XI(d) Malignant melanomas,Minnesota,170,33142582,0.51
+XI(d) Malignant melanomas,Mississippi,67,15669603,0.43
+XI(d) Malignant melanomas,Missouri,156,36266473,0.43
+XI(d) Malignant melanomas,Montana,30,5846055,0.51
+XI(d) Malignant melanomas,Nebraska,56,11903430,0.47000000000000003
+XI(d) Malignant melanomas,Nevada,57,16014625,0.36000000000000004
+XI(d) Malignant melanomas,New Hampshire,70,7453487,0.9400000000000001
+XI(d) Malignant melanomas,New Jersey,243,52654520,0.45999999999999996
+XI(d) Malignant melanomas,New Mexico,36,12904509,0.27999999999999997
+XI(d) Malignant melanomas,New York,422,113517852,0.37000000000000005
+XI(d) Malignant melanomas,North Carolina,254,56649928,0.45
+XI(d) Malignant melanomas,North Dakota,28,4266274,0.66
+XI(d) Malignant melanomas,Ohio,425,70366333,0.6000000000000001
+XI(d) Malignant melanomas,Oklahoma,115,23756620,0.48
+XI(d) Malignant melanomas,Oregon,134,22097759,0.61
+XI(d) Malignant melanomas,Pennsylvania,424,72683727,0.58
+XI(d) Malignant melanomas,Rhode Island,23,6082080,0.38
+XI(d) Malignant melanomas,South Carolina,104,27583495,0.38
+XI(d) Malignant melanomas,South Dakota,17,4834317,0.35000000000000003
+XI(d) Malignant melanomas,Tennessee,157,37884392,0.41
+XI(d) Malignant melanomas,Texas,646,172599550,0.37000000000000005
+XI(d) Malignant melanomas,Utah,160,21588203,0.7400000000000001
+XI(d) Malignant melanomas,Vermont,22,3490801,0.63
+XI(d) Malignant melanomas,Virginia,169,47413830,0.36000000000000004
+XI(d) Malignant melanomas,Washington,261,40520105,0.6400000000000001
+XI(d) Malignant melanomas,West Virginia,60,9950567,0.6000000000000001
+XI(d) Malignant melanomas,Wisconsin,155,34329682,0.45
+XI(d) Malignant melanomas,Wyoming,25,3396153,0.7400000000000001
+XI(e) Skin carcinomas,Alaska,0,4720625,0
+XI(e) Skin carcinomas,California,24,236070538,0.010000000000000002
+XI(e) Skin carcinomas,Mississippi,0,15669603,0
+XI(e) Skin carcinomas,Montana,0,5846055,0
+XI(e) Skin carcinomas,New Hampshire,0,7453487,0
+XI(e) Skin carcinomas,Rhode Island,0,6082080,0
+XI(e) Skin carcinomas,South Dakota,0,4834317,0
+XI(e) Skin carcinomas,Vermont,0,3490801,0
+XI(e) Skin carcinomas,Wyoming,0,3396153,0
+XI(f) Other and unspecified carcinomas,Alabama,161,28877079,0.5599999999999999
+XI(f) Other and unspecified carcinomas,Alaska,28,4720625,0.5900000000000001
+XI(f) Other and unspecified carcinomas,Arizona,194,39775657,0.49000000000000005
+XI(f) Other and unspecified carcinomas,Arkansas,81,17898158,0.45
+XI(f) Other and unspecified carcinomas,California,1183,236070538,0.5
+XI(f) Other and unspecified carcinomas,Colorado,181,30887289,0.5900000000000001
+XI(f) Other and unspecified carcinomas,Connecticut,164,20830240,0.79
+XI(f) Other and unspecified carcinomas,Delaware,31,5268436,0.5900000000000001
+XI(f) Other and unspecified carcinomas,District of Columbia,17,3083338,0.55
+XI(f) Other and unspecified carcinomas,Florida,550,102863635,0.53
+XI(f) Other and unspecified carcinomas,Georgia,329,62011319,0.53
+XI(f) Other and unspecified carcinomas,Hawaii,46,7747695,0.5900000000000001
+XI(f) Other and unspecified carcinomas,Idaho,64,10734756,0.6000000000000001
+XI(f) Other and unspecified carcinomas,Illinois,476,79093866,0.6000000000000001
+XI(f) Other and unspecified carcinomas,Indiana,174,37414578,0.47000000000000003
+XI(f) Other and unspecified carcinomas,Iowa,120,18924991,0.63
+XI(f) Other and unspecified carcinomas,Kansas,106,18406535,0.58
+XI(f) Other and unspecified carcinomas,Kentucky,165,25974328,0.6400000000000001
+XI(f) Other and unspecified carcinomas,Louisiana,148,29086064,0.51
+XI(f) Other and unspecified carcinomas,Maine,56,7144119,0.78
+XI(f) Other and unspecified carcinomas,Maryland,194,34984232,0.55
+XI(f) Other and unspecified carcinomas,Massachusetts,218,37580693,0.58
+XI(f) Other and unspecified carcinomas,Michigan,408,61154757,0.67
+XI(f) Other and unspecified carcinomas,Minnesota,204,33142582,0.6200000000000001
+XI(f) Other and unspecified carcinomas,Mississippi,85,15669603,0.54
+XI(f) Other and unspecified carcinomas,Missouri,201,36266473,0.55
+XI(f) Other and unspecified carcinomas,Montana,37,5846055,0.63
+XI(f) Other and unspecified carcinomas,Nebraska,80,11903430,0.67
+XI(f) Other and unspecified carcinomas,Nevada,63,16014625,0.39
+XI(f) Other and unspecified carcinomas,New Hampshire,61,7453487,0.82
+XI(f) Other and unspecified carcinomas,New Jersey,324,52654520,0.6200000000000001
+XI(f) Other and unspecified carcinomas,New Mexico,67,12904509,0.52
+XI(f) Other and unspecified carcinomas,New York,781,113517852,0.6900000000000001
+XI(f) Other and unspecified carcinomas,North Carolina,320,56649928,0.5599999999999999
+XI(f) Other and unspecified carcinomas,North Dakota,27,4266274,0.63
+XI(f) Other and unspecified carcinomas,Ohio,369,70366333,0.52
+XI(f) Other and unspecified carcinomas,Oklahoma,107,23756620,0.45
+XI(f) Other and unspecified carcinomas,Oregon,119,22097759,0.54
+XI(f) Other and unspecified carcinomas,Pennsylvania,424,72683727,0.58
+XI(f) Other and unspecified carcinomas,Rhode Island,35,6082080,0.58
+XI(f) Other and unspecified carcinomas,South Carolina,146,27583495,0.53
+XI(f) Other and unspecified carcinomas,South Dakota,26,4834317,0.54
+XI(f) Other and unspecified carcinomas,Tennessee,204,37884392,0.54
+XI(f) Other and unspecified carcinomas,Texas,979,172599550,0.5700000000000001
+XI(f) Other and unspecified carcinomas,Utah,132,21588203,0.61
+XI(f) Other and unspecified carcinomas,Vermont,22,3490801,0.63
+XI(f) Other and unspecified carcinomas,Virginia,219,47413830,0.45999999999999996
+XI(f) Other and unspecified carcinomas,Washington,280,40520105,0.6900000000000001
+XI(f) Other and unspecified carcinomas,West Virginia,75,9950567,0.75
+XI(f) Other and unspecified carcinomas,Wisconsin,177,34329682,0.52
+XI(f) Other and unspecified carcinomas,Wyoming,19,3396153,0.5599999999999999
+XII Other and unspecified malignant neoplasms,Alabama,103,28877079,0.36000000000000004
+XII Other and unspecified malignant neoplasms,Arizona,42,39775657,0.11000000000000001
+XII Other and unspecified malignant neoplasms,California,154,236070538,0.06999999999999999
+XII Other and unspecified malignant neoplasms,Colorado,29,30887289,0.09000000000000001
+XII Other and unspecified malignant neoplasms,Connecticut,17,20830240,0.08000000000000002
+XII Other and unspecified malignant neoplasms,Florida,128,102863635,0.12
+XII Other and unspecified malignant neoplasms,Georgia,48,62011319,0.08000000000000002
+XII Other and unspecified malignant neoplasms,Illinois,54,79093866,0.06999999999999999
+XII Other and unspecified malignant neoplasms,Indiana,29,37414578,0.08000000000000002
+XII Other and unspecified malignant neoplasms,Kentucky,17,25974328,0.06999999999999999
+XII Other and unspecified malignant neoplasms,Louisiana,22,29086064,0.08000000000000002
+XII Other and unspecified malignant neoplasms,Maryland,57,34984232,0.16000000000000003
+XII Other and unspecified malignant neoplasms,Massachusetts,24,37580693,0.06
+XII Other and unspecified malignant neoplasms,Michigan,42,61154757,0.06999999999999999
+XII Other and unspecified malignant neoplasms,Minnesota,25,33142582,0.08000000000000002
+XII Other and unspecified malignant neoplasms,Missouri,39,36266473,0.11000000000000001
+XII Other and unspecified malignant neoplasms,Nevada,21,16014625,0.13
+XII Other and unspecified malignant neoplasms,New Jersey,58,52654520,0.11000000000000001
+XII Other and unspecified malignant neoplasms,New York,98,113517852,0.09000000000000001
+XII Other and unspecified malignant neoplasms,North Carolina,49,56649928,0.09000000000000001
+XII Other and unspecified malignant neoplasms,Ohio,40,70366333,0.06
+XII Other and unspecified malignant neoplasms,Oklahoma,33,23756620,0.13999999999999999
+XII Other and unspecified malignant neoplasms,Pennsylvania,62,72683727,0.09000000000000001
+XII Other and unspecified malignant neoplasms,South Carolina,32,27583495,0.12
+XII Other and unspecified malignant neoplasms,Tennessee,43,37884392,0.11000000000000001
+XII Other and unspecified malignant neoplasms,Texas,262,172599550,0.15000000000000002
+XII Other and unspecified malignant neoplasms,Utah,16,21588203,0.06999999999999999
+XII Other and unspecified malignant neoplasms,Virginia,39,47413830,0.08000000000000002
+XII Other and unspecified malignant neoplasms,Washington,41,40520105,0.1
+XII Other and unspecified malignant neoplasms,Wisconsin,24,34329682,0.06999999999999999
+XII(a) Other specified malignant tumors,Arizona,22,39775657,0.06
+XII(a) Other specified malignant tumors,California,101,236070538,0.04000000000000001
+XII(a) Other specified malignant tumors,Colorado,22,30887289,0.06999999999999999
+XII(a) Other specified malignant tumors,Delaware,0,5268436,0
+XII(a) Other specified malignant tumors,District of Columbia,0,3083338,0
+XII(a) Other specified malignant tumors,Florida,64,102863635,0.06
+XII(a) Other specified malignant tumors,Georgia,29,62011319,0.05
+XII(a) Other specified malignant tumors,Illinois,38,79093866,0.05
+XII(a) Other specified malignant tumors,Indiana,21,37414578,0.06
+XII(a) Other specified malignant tumors,Massachusetts,19,37580693,0.05
+XII(a) Other specified malignant tumors,Michigan,20,61154757,0.03
+XII(a) Other specified malignant tumors,Minnesota,22,33142582,0.06999999999999999
+XII(a) Other specified malignant tumors,Missouri,23,36266473,0.06
+XII(a) Other specified malignant tumors,New Jersey,34,52654520,0.06
+XII(a) Other specified malignant tumors,New York,56,113517852,0.05
+XII(a) Other specified malignant tumors,North Carolina,35,56649928,0.06
+XII(a) Other specified malignant tumors,Ohio,31,70366333,0.04000000000000001
+XII(a) Other specified malignant tumors,Pennsylvania,35,72683727,0.05
+XII(a) Other specified malignant tumors,South Dakota,0,4834317,0
+XII(a) Other specified malignant tumors,Tennessee,22,37884392,0.06
+XII(a) Other specified malignant tumors,Texas,66,172599550,0.04000000000000001
+XII(a) Other specified malignant tumors,Virginia,18,47413830,0.04000000000000001
+XII(a) Other specified malignant tumors,Washington,29,40520105,0.06999999999999999
+XII(b) Other unspecified malignant tumors,Alabama,94,28877079,0.33
+XII(b) Other unspecified malignant tumors,Arizona,20,39775657,0.05
+XII(b) Other unspecified malignant tumors,California,53,236070538,0.020000000000000004
+XII(b) Other unspecified malignant tumors,Florida,64,102863635,0.06
+XII(b) Other unspecified malignant tumors,Georgia,19,62011319,0.03
+XII(b) Other unspecified malignant tumors,Illinois,16,79093866,0.020000000000000004
+XII(b) Other unspecified malignant tumors,Maryland,42,34984232,0.12
+XII(b) Other unspecified malignant tumors,Michigan,22,61154757,0.04000000000000001
+XII(b) Other unspecified malignant tumors,Missouri,16,36266473,0.04000000000000001
+XII(b) Other unspecified malignant tumors,New Jersey,24,52654520,0.05
+XII(b) Other unspecified malignant tumors,New York,42,113517852,0.04000000000000001
+XII(b) Other unspecified malignant tumors,North Dakota,0,4266274,0
+XII(b) Other unspecified malignant tumors,Oklahoma,26,23756620,0.11000000000000001
+XII(b) Other unspecified malignant tumors,Pennsylvania,27,72683727,0.04000000000000001
+XII(b) Other unspecified malignant tumors,South Carolina,22,27583495,0.08000000000000002
+XII(b) Other unspecified malignant tumors,Tennessee,21,37884392,0.06
+XII(b) Other unspecified malignant tumors,Texas,196,172599550,0.11000000000000001
+XII(b) Other unspecified malignant tumors,Virginia,21,47413830,0.04000000000000001
+XII(b) Other unspecified malignant tumors,Wisconsin,17,34329682,0.05
+XII(b) Other unspecified malignant tumors,Wyoming,0,3396153,0
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA

@@ -1,0 +1,238 @@
+state,race,count,population,crude_rate_100k
+Alabama,Asian or Pacific Islander,56,417985,13.4
+Alabama,Black or African American,1208,9217521,13.11
+Alabama,White,3295,19025293,17.32
+Alaska,American Indian or Alaska Native,237,1083929,21.86
+Alaska,Asian or Pacific Islander,61,366079,16.66
+Alaska,Black or African American,26,284491,9.14
+Alaska,White,469,2986126,15.71
+Arizona,American Indian or Alaska Native,400,3065260,13.05
+Arizona,Asian or Pacific Islander,174,1395618,12.47
+Arizona,Black or African American,267,2546135,10.490000000000002
+Arizona,White,6029,32768644,18.400000000000002
+Arkansas,American Indian or Alaska Native,19,205524,9.24
+Arkansas,Asian or Pacific Islander,50,339321,14.740000000000002
+Arkansas,Black or African American,503,3652900,13.77
+Arkansas,White,2296,13700413,16.76
+California,American Indian or Alaska Native,301,5183908,5.8100000000000005
+California,Asian or Pacific Islander,4531,31725786,14.280000000000001
+California,Black or African American,2416,19398956,12.450000000000001
+California,White,33990,179761888,18.91
+Colorado,American Indian or Alaska Native,76,692729,10.97
+Colorado,Asian or Pacific Islander,200,1171389,17.07
+Colorado,Black or African American,265,1970818,13.450000000000001
+Colorado,White,4784,27052353,17.680000000000003
+Connecticut,Asian or Pacific Islander,121,964711,12.540000000000001
+Connecticut,Black or African American,414,3071924,13.480000000000002
+Connecticut,White,3247,16641391,19.51
+Delaware,Asian or Pacific Islander,36,199792,18.02
+Delaware,Black or African American,234,1512908,15.469999999999999
+Delaware,White,713,3514381,20.290000000000003
+District of Columbia,Black or African American,275,2007292,13.700000000000001
+District of Columbia,White,214,953964,22.430000000000003
+Florida,American Indian or Alaska Native,41,645687,6.3500000000000005
+Florida,Asian or Pacific Islander,394,3171045,12.420000000000002
+Florida,Black or African American,3422,24029920,14.240000000000002
+Florida,White,15260,75016983,20.340000000000003
+Georgia,American Indian or Alaska Native,25,369322,6.7700000000000005
+Georgia,Asian or Pacific Islander,356,2360324,15.080000000000002
+Georgia,Black or African American,3124,22529761,13.87
+Georgia,White,6980,36751912,18.990000000000002
+Hawaii,Asian or Pacific Islander,910,6202650,14.67
+Hawaii,Black or African American,30,292524,10.26
+Hawaii,White,273,1220277,22.37
+Idaho,American Indian or Alaska Native,24,250979,9.56
+Idaho,Asian or Pacific Islander,28,180493,15.51
+Idaho,White,1780,10137013,17.56
+Illinois,Asian or Pacific Islander,612,3895866,15.71
+Illinois,Black or African American,1844,14728640,12.520000000000001
+Illinois,White,11268,59895851,18.81
+Indiana,Asian or Pacific Islander,113,763377,14.8
+Indiana,Black or African American,595,4779016,12.450000000000001
+Indiana,White,5807,31693184,18.32
+Iowa,American Indian or Alaska Native,16,141175,11.33
+Iowa,Asian or Pacific Islander,59,472741,12.48
+Iowa,Black or African American,153,1098633,13.930000000000001
+Iowa,White,3194,17212442,18.56
+Kansas,Asian or Pacific Islander,82,545740,15.030000000000001
+Kansas,Black or African American,220,1649790,13.340000000000002
+Kansas,White,2780,15894920,17.490000000000002
+Kentucky,Asian or Pacific Islander,62,419686,14.77
+Kentucky,Black or African American,388,2804327,13.840000000000002
+Kentucky,White,4317,22674574,19.040000000000003
+Louisiana,Asian or Pacific Islander,81,505961,16.01
+Louisiana,Black or African American,1478,11543105,12.8
+Louisiana,White,3130,16775164,18.66
+Maine,Asian or Pacific Islander,19,109563,17.34
+Maine,Black or African American,26,207082,12.56
+Maine,White,1350,6754135,19.990000000000002
+Maryland,Asian or Pacific Islander,260,2166285,12
+Maryland,Black or African American,1494,12210065,12.240000000000002
+Maryland,White,3572,20360249,17.540000000000003
+Massachusetts,Asian or Pacific Islander,355,2484464,14.290000000000001
+Massachusetts,Black or African American,508,4224511,12.030000000000001
+Massachusetts,White,5664,30627662,18.490000000000002
+Michigan,American Indian or Alaska Native,69,650777,10.600000000000001
+Michigan,Asian or Pacific Islander,262,1932169,13.56
+Michigan,Black or African American,1559,11444855,13.62
+Michigan,White,8931,47126956,18.95
+Minnesota,American Indian or Alaska Native,125,716790,17.44
+Minnesota,Asian or Pacific Islander,353,1981671,17.81
+Minnesota,Black or African American,439,3078697,14.26
+Minnesota,White,5161,27365424,18.86
+Mississippi,Asian or Pacific Islander,19,169076,11.240000000000002
+Mississippi,Black or African American,875,6965525,12.56
+Mississippi,White,1445,8417311,17.169999999999998
+Missouri,American Indian or Alaska Native,17,275016,6.18
+Missouri,Asian or Pacific Islander,93,778976,11.940000000000001
+Missouri,Black or African American,754,5704477,13.219999999999999
+Missouri,White,5025,29508004,17.03
+Montana,American Indian or Alaska Native,111,651369,17.040000000000003
+Montana,White,916,5058810,18.11
+Nebraska,American Indian or Alaska Native,31,266793,11.620000000000001
+Nebraska,Asian or Pacific Islander,46,301471,15.26
+Nebraska,Black or African American,134,887463,15.100000000000001
+Nebraska,White,1957,10447703,18.73
+Nevada,American Indian or Alaska Native,32,365577,8.75
+Nevada,Asian or Pacific Islander,175,1263321,13.850000000000001
+Nevada,Black or African American,219,1975209,11.090000000000002
+Nevada,White,2289,12410518,18.44
+New Hampshire,Asian or Pacific Islander,32,217151,14.740000000000002
+New Hampshire,Black or African American,19,182651,10.4
+New Hampshire,White,1373,7022899,19.55
+New Jersey,Asian or Pacific Islander,782,4791109,16.32
+New Jersey,Black or African American,1409,9538590,14.77
+New Jersey,White,7906,37929271,20.840000000000003
+New Mexico,American Indian or Alaska Native,221,1840670,12.01
+New Mexico,Asian or Pacific Islander,37,229580,16.12
+New Mexico,Black or African American,43,464000,9.270000000000001
+New Mexico,White,1771,10370259,17.080000000000002
+New York,Asian or Pacific Islander,1505,8856478,16.990000000000002
+New York,Black or African American,3497,24459612,14.3
+New York,White,16443,78765905,20.880000000000003
+North Carolina,American Indian or Alaska Native,95,1137596,8.35
+North Carolina,Asian or Pacific Islander,265,1773910,14.940000000000001
+North Carolina,Black or African American,1981,15140211,13.080000000000002
+North Carolina,White,7091,38598211,18.37
+North Dakota,American Indian or Alaska Native,57,384045,14.840000000000002
+North Dakota,White,605,3681530,16.430000000000003
+Ohio,American Indian or Alaska Native,18,260525,6.91
+Ohio,Asian or Pacific Islander,216,1532116,14.100000000000001
+Ohio,Black or African American,1525,11949599,12.76
+Ohio,White,10302,56624093,18.19
+Oklahoma,American Indian or Alaska Native,654,3339110,19.590000000000003
+Oklahoma,Asian or Pacific Islander,77,556328,13.840000000000002
+Oklahoma,Black or African American,336,2651779,12.670000000000002
+Oklahoma,White,2798,17209403,16.26
+Oregon,American Indian or Alaska Native,72,621810,11.58
+Oregon,Asian or Pacific Islander,189,1176085,16.07
+Oregon,Black or African American,95,817737,11.620000000000001
+Oregon,White,3684,19482127,18.91
+Pennsylvania,American Indian or Alaska Native,18,354319,5.08
+Pennsylvania,Asian or Pacific Islander,371,2549407,14.55
+Pennsylvania,Black or African American,1577,11459106,13.76
+Pennsylvania,White,11091,58320895,19.02
+Rhode Island,Asian or Pacific Islander,26,252797,10.280000000000001
+Rhode Island,Black or African American,76,706745,10.75
+Rhode Island,White,951,5028318,18.91
+South Carolina,Asian or Pacific Islander,47,474088,9.91
+South Carolina,Black or African American,1161,9497442,12.22
+South Carolina,White,2951,17437445,16.919999999999998
+South Dakota,American Indian or Alaska Native,95,724961,13.100000000000001
+South Dakota,Black or African American,17,150303,11.31
+South Dakota,White,641,3887781,16.490000000000002
+Tennessee,Asian or Pacific Islander,118,743664,15.87
+Tennessee,Black or African American,1107,8259622,13.4
+Tennessee,White,5027,28691984,17.52
+Texas,American Indian or Alaska Native,131,1918285,6.83
+Texas,Asian or Pacific Islander,1191,7410766,16.07
+Texas,Black or African American,3273,23942793,13.67
+Texas,White,27651,139327706,19.85
+Utah,American Indian or Alaska Native,48,421758,11.38
+Utah,Asian or Pacific Islander,114,743441,15.330000000000002
+Utah,Black or African American,61,431232,14.15
+Utah,White,3843,19991772,19.22
+Vermont,American Indian or Alaska Native,0,19053,0
+Vermont,White,624,3323345,18.78
+Virginia,Asian or Pacific Islander,368,3068301,11.990000000000002
+Virginia,Black or African American,1326,11369825,11.66
+Virginia,White,5424,32693975,16.59
+Washington,American Indian or Alaska Native,190,1246178,15.25
+Washington,Asian or Pacific Islander,641,3757745,17.06
+Washington,Black or African American,352,2671343,13.180000000000001
+Washington,White,6171,32844839,18.790000000000003
+West Virginia,American Indian or Alaska Native,0,20909,0
+West Virginia,Black or African American,63,498025,12.65
+West Virginia,White,1701,9347922,18.2
+Wisconsin,American Indian or Alaska Native,91,582395,15.630000000000003
+Wisconsin,Asian or Pacific Islander,185,1242538,14.89
+Wisconsin,Black or African American,451,3529759,12.780000000000001
+Wisconsin,White,5317,28974990,18.35
+Wyoming,American Indian or Alaska Native,27,143532,18.81
+Wyoming,White,507,3151041,16.09
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA

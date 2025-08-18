@@ -1,0 +1,2841 @@
+state,race,year,count,population,crude_rate_100k
+Alabama,Asian or Pacific Islander,1999,0,9895,0
+Alabama,Black or African American,1999,54,412140,13.100000000000001
+Alabama,White,1999,101,826438,12.22
+Alaska,Asian or Pacific Islander,1999,0,10277,0
+Arizona,Asian or Pacific Islander,1999,0,32484,0
+Arizona,White,1999,192,1259350,15.25
+Arkansas,Black or African American,1999,17,163532,10.4
+Arkansas,White,1999,84,585995,14.330000000000002
+California,Asian or Pacific Islander,1999,151,1167055,12.940000000000001
+California,Black or African American,1999,101,889456,11.36
+California,White,1999,1340,7935171,16.89
+Colorado,White,1999,172,1085235,15.850000000000001
+Connecticut,American Indian or Alaska Native,1999,0,4016,0
+Connecticut,Asian or Pacific Islander,1999,0,26878,0
+Connecticut,White,1999,127,760972,16.69
+Delaware,American Indian or Alaska Native,1999,0,902,0
+Delaware,Asian or Pacific Islander,1999,0,4860,0
+Delaware,White,1999,26,155079,16.77
+District of Columbia,American Indian or Alaska Native,1999,0,506,0
+Florida,Black or African American,1999,113,905949,12.47
+Florida,White,1999,525,2993407,17.540000000000003
+Georgia,American Indian or Alaska Native,1999,0,6527,0
+Georgia,Black or African American,1999,86,837942,10.26
+Georgia,White,1999,230,1475946,15.580000000000002
+Hawaii,American Indian or Alaska Native,1999,0,1287,0
+Hawaii,Asian or Pacific Islander,1999,38,258057,14.730000000000002
+Idaho,White,1999,66,396388,16.650000000000002
+Illinois,American Indian or Alaska Native,1999,0,14171,0
+Illinois,Asian or Pacific Islander,1999,17,125562,13.540000000000001
+Illinois,Black or African American,1999,85,703113,12.090000000000002
+Illinois,White,1999,483,2756264,17.52
+Indiana,American Indian or Alaska Native,1999,0,5459,0
+Indiana,Black or African American,1999,20,195039,10.25
+Indiana,White,1999,268,1536530,17.44
+Iowa,American Indian or Alaska Native,1999,0,3514,0
+Iowa,White,1999,114,783305,14.55
+Kansas,American Indian or Alaska Native,1999,0,10859,0
+Kansas,White,1999,100,706710,14.15
+Kentucky,American Indian or Alaska Native,1999,0,1982,0
+Kentucky,White,1999,155,997780,15.530000000000001
+Louisiana,Black or African American,1999,67,553594,12.100000000000001
+Louisiana,White,1999,136,794914,17.11
+Maine,American Indian or Alaska Native,1999,0,2811,0
+Maine,Asian or Pacific Islander,1999,0,3467,0
+Maine,Black or African American,1999,0,3595,0
+Maine,White,1999,63,326523,19.290000000000003
+Maryland,Black or African American,1999,77,497349,15.480000000000002
+Maryland,White,1999,162,918182,17.64
+Massachusetts,American Indian or Alaska Native,1999,0,6963,0
+Massachusetts,White,1999,227,1431454,15.86
+Michigan,Black or African American,1999,60,527468,11.38
+Michigan,White,1999,366,2268151,16.14
+Minnesota,White,1999,200,1260557,15.87
+Missouri,American Indian or Alaska Native,1999,0,9019,0
+Missouri,Black or African American,1999,24,238106,10.08
+Missouri,White,1999,194,1327209,14.62
+Montana,Asian or Pacific Islander,1999,0,1703,0
+Montana,Black or African American,1999,0,1472,0
+Montana,White,1999,39,229449,17
+Nebraska,American Indian or Alaska Native,1999,0,7033,0
+Nebraska,White,1999,79,461031,17.14
+Nevada,White,1999,64,451046,14.190000000000001
+New Hampshire,American Indian or Alaska Native,1999,0,1093,0
+New Hampshire,Asian or Pacific Islander,1999,0,4794,0
+New Hampshire,White,1999,46,332049,13.850000000000001
+New Jersey,American Indian or Alaska Native,1999,0,8993,0
+New Jersey,Asian or Pacific Islander,1999,23,143674,16.01
+New Jersey,Black or African American,1999,62,413903,14.980000000000002
+New Jersey,White,1999,311,1697134,18.330000000000002
+New Mexico,Asian or Pacific Islander,1999,0,7445,0
+New Mexico,White,1999,82,467657,17.53
+New York,Asian or Pacific Islander,1999,37,299412,12.36
+New York,Black or African American,1999,135,1152862,11.71
+New York,White,1999,664,3694385,17.97
+North Carolina,Black or African American,1999,76,592803,12.82
+North Carolina,White,1999,246,1492937,16.48
+North Dakota,Asian or Pacific Islander,1999,0,1216,0
+North Dakota,White,1999,20,167966,11.91
+Ohio,Black or African American,1999,62,490733,12.63
+Ohio,White,1999,457,2681483,17.040000000000003
+Oklahoma,American Indian or Alaska Native,1999,21,125288,16.76
+Oklahoma,White,1999,112,756931,14.8
+Oregon,White,1999,158,857035,18.44
+Pennsylvania,American Indian or Alaska Native,1999,0,6952,0
+Pennsylvania,Black or African American,1999,50,451645,11.07
+Pennsylvania,White,1999,467,2747188,17
+Rhode Island,American Indian or Alaska Native,1999,0,2493,0
+Rhode Island,White,1999,34,243783,13.950000000000001
+South Carolina,American Indian or Alaska Native,1999,0,4373,0
+South Carolina,Black or African American,1999,40,422151,9.48
+South Carolina,White,1999,101,694577,14.540000000000001
+Tennessee,Black or African American,1999,26,337821,7.7
+Tennessee,White,1999,143,1188999,12.030000000000001
+Texas,Asian or Pacific Islander,1999,26,182030,14.280000000000001
+Texas,Black or African American,1999,111,879068,12.63
+Texas,White,1999,960,5379121,17.85
+Utah,Black or African American,1999,0,9765,0
+Utah,White,1999,123,762830,16.12
+Vermont,American Indian or Alaska Native,1999,0,754,0
+Vermont,Asian or Pacific Islander,1999,0,1880,0
+Vermont,Black or African American,1999,0,1675,0
+Vermont,White,1999,34,161937,21
+Virginia,Black or African American,1999,45,474357,9.49
+Virginia,White,1999,215,1361420,15.790000000000001
+Washington,White,1999,239,1431997,16.69
+West Virginia,American Indian or Alaska Native,1999,0,628,0
+West Virginia,Asian or Pacific Islander,1999,0,2592,0
+West Virginia,White,1999,76,438388,17.34
+Wisconsin,White,1999,217,1331706,16.290000000000003
+Wyoming,American Indian or Alaska Native,1999,0,5114,0
+Wyoming,Asian or Pacific Islander,1999,0,937,0
+Wyoming,White,1999,23,139660,16.47
+Alabama,American Indian or Alaska Native,2000,0,8244,0
+Alabama,Black or African American,2000,52,410249,12.68
+Alabama,White,2000,144,826353,17.430000000000003
+Alaska,White,2000,20,139369,14.350000000000001
+Arizona,American Indian or Alaska Native,2000,16,121273,13.190000000000001
+Arizona,White,2000,215,1299252,16.55
+Arkansas,Asian or Pacific Islander,2000,0,7519,0
+Arkansas,White,2000,103,584635,17.62
+California,Asian or Pacific Islander,2000,133,1182252,11.25
+California,Black or African American,2000,94,889607,10.57
+California,White,2000,1352,8005474,16.89
+Colorado,American Indian or Alaska Native,2000,0,20791,0
+Colorado,White,2000,195,1105757,17.630000000000003
+Connecticut,Black or African American,2000,19,128031,14.840000000000002
+Connecticut,White,2000,152,765634,19.85
+Delaware,American Indian or Alaska Native,2000,0,1025,0
+Delaware,Asian or Pacific Islander,2000,0,5045,0
+Delaware,White,2000,27,156191,17.290000000000003
+District of Columbia,American Indian or Alaska Native,2000,0,553,0
+District of Columbia,Asian or Pacific Islander,2000,0,3062,0
+Florida,American Indian or Alaska Native,2000,0,20027,0
+Florida,Black or African American,2000,133,917971,14.490000000000002
+Florida,White,2000,566,3031459,18.669999999999998
+Georgia,Black or African American,2000,84,855670,9.82
+Georgia,White,2000,278,1501567,18.51
+Hawaii,American Indian or Alaska Native,2000,0,1127,0
+Hawaii,Asian or Pacific Islander,2000,27,259183,10.420000000000002
+Hawaii,Black or African American,2000,0,11364,0
+Idaho,Asian or Pacific Islander,2000,0,4743,0
+Idaho,Black or African American,2000,0,3622,0
+Idaho,White,2000,61,398943,15.290000000000001
+Illinois,Black or African American,2000,77,702616,10.96
+Illinois,White,2000,448,2759098,16.240000000000002
+Indiana,American Indian or Alaska Native,2000,0,6306,0
+Indiana,Black or African American,2000,19,198718,9.56
+Indiana,White,2000,254,1539489,16.5
+Iowa,American Indian or Alaska Native,2000,0,4218,0
+Iowa,Asian or Pacific Islander,2000,0,13484,0
+Iowa,White,2000,142,779282,18.22
+Kansas,White,2000,101,705516,14.32
+Kentucky,American Indian or Alaska Native,2000,0,2671,0
+Kentucky,Asian or Pacific Islander,2000,0,9862,0
+Kentucky,Black or African American,2000,16,108333,14.77
+Kentucky,White,2000,174,993278,17.52
+Louisiana,American Indian or Alaska Native,2000,0,10245,0
+Louisiana,Black or African American,2000,50,550721,9.08
+Louisiana,White,2000,137,786130,17.430000000000003
+Maine,American Indian or Alaska Native,2000,0,3046,0
+Maine,Asian or Pacific Islander,2000,0,3672,0
+Maine,White,2000,48,324734,14.780000000000001
+Maryland,Asian or Pacific Islander,2000,16,64379,24.85
+Maryland,Black or African American,2000,59,504123,11.700000000000001
+Maryland,White,2000,141,919114,15.340000000000002
+Massachusetts,American Indian or Alaska Native,2000,0,7372,0
+Massachusetts,Black or African American,2000,22,155998,14.100000000000001
+Massachusetts,White,2000,246,1434063,17.150000000000002
+Michigan,Black or African American,2000,63,530243,11.88
+Michigan,White,2000,415,2264865,18.32
+Minnesota,White,2000,231,1258767,18.35
+Missouri,Black or African American,2000,29,240192,12.07
+Missouri,White,2000,223,1323788,16.85
+Montana,Asian or Pacific Islander,2000,0,1906,0
+Montana,Black or African American,2000,0,1992,0
+Montana,White,2000,54,227373,23.75
+Nebraska,White,2000,68,458025,14.850000000000001
+Nevada,White,2000,82,469777,17.46
+New Hampshire,American Indian or Alaska Native,2000,0,1209,0
+New Hampshire,Asian or Pacific Islander,2000,0,5372,0
+New Hampshire,Black or African American,2000,0,4659,0
+New Hampshire,White,2000,54,333762,16.180000000000003
+New Jersey,American Indian or Alaska Native,2000,0,9597,0
+New Jersey,Asian or Pacific Islander,2000,33,149992,22
+New Jersey,Black or African American,2000,42,417083,10.07
+New Jersey,White,2000,335,1708740,19.61
+New Mexico,Asian or Pacific Islander,2000,0,7729,0
+New Mexico,Black or African American,2000,0,16711,0
+New Mexico,White,2000,77,463368,16.62
+New York,Asian or Pacific Islander,2000,37,308788,11.98
+New York,Black or African American,2000,140,1158804,12.08
+New York,White,2000,703,3695438,19.02
+North Carolina,Black or African American,2000,72,599208,12.020000000000001
+North Carolina,White,2000,257,1518578,16.919999999999998
+North Dakota,Asian or Pacific Islander,2000,0,1327,0
+North Dakota,Black or African American,2000,0,2308,0
+North Dakota,White,2000,22,164506,13.37
+Ohio,American Indian or Alaska Native,2000,0,10022,0
+Ohio,Black or African American,2000,53,494505,10.72
+Ohio,White,2000,414,2667477,15.52
+Oklahoma,American Indian or Alaska Native,2000,21,126837,16.56
+Oklahoma,White,2000,121,751507,16.1
+Oregon,White,2000,136,858250,15.850000000000001
+Pennsylvania,American Indian or Alaska Native,2000,0,7781,0
+Pennsylvania,Asian or Pacific Islander,2000,24,72621,33.050000000000004
+Pennsylvania,Black or African American,2000,65,456656,14.230000000000002
+Pennsylvania,White,2000,456,2730146,16.7
+Rhode Island,Asian or Pacific Islander,2000,0,10022,0
+Rhode Island,White,2000,56,243991,22.950000000000003
+South Carolina,American Indian or Alaska Native,2000,0,4968,0
+South Carolina,Black or African American,2000,46,421973,10.9
+South Carolina,White,2000,110,698593,15.75
+Tennessee,American Indian or Alaska Native,2000,0,4803,0
+Tennessee,Black or African American,2000,31,340498,9.1
+Tennessee,White,2000,179,1197741,14.940000000000001
+Texas,Asian or Pacific Islander,2000,25,190878,13.100000000000001
+Texas,Black or African American,2000,109,881565,12.36
+Texas,White,2000,992,5442151,18.23
+Utah,Black or African American,2000,0,10787,0
+Utah,White,2000,141,766953,18.380000000000003
+Vermont,American Indian or Alaska Native,2000,0,985,0
+Vermont,Asian or Pacific Islander,2000,0,1999,0
+Vermont,Black or African American,2000,0,1971,0
+Vermont,White,2000,25,161358,15.490000000000002
+Virginia,American Indian or Alaska Native,2000,0,7562,0
+Virginia,Asian or Pacific Islander,2000,18,81806,22
+Virginia,Black or African American,2000,41,479159,8.56
+Virginia,White,2000,230,1371727,16.77
+Washington,White,2000,248,1435097,17.28
+West Virginia,American Indian or Alaska Native,2000,0,954,0
+West Virginia,White,2000,66,430244,15.340000000000002
+Wisconsin,Black or African American,2000,18,139038,12.950000000000001
+Wisconsin,White,2000,230,1329556,17.3
+Wyoming,Asian or Pacific Islander,2000,0,995,0
+Wyoming,Black or African American,2000,0,1944,0
+Wyoming,White,2000,20,137268,14.57
+Alabama,American Indian or Alaska Native,2001,0,8385,0
+Alabama,Black or African American,2001,49,408308,12
+Alabama,White,2001,125,821836,15.21
+Alaska,White,2001,19,138489,13.719999999999999
+Arizona,American Indian or Alaska Native,2001,17,121829,13.950000000000001
+Arizona,White,2001,236,1314450,17.95
+Arkansas,Black or African American,2001,18,161183,11.170000000000002
+Arkansas,White,2001,104,580687,17.91
+California,American Indian or Alaska Native,2001,16,182822,8.75
+California,Asian or Pacific Islander,2001,172,1200741,14.32
+California,Black or African American,2001,102,889488,11.47
+California,White,2001,1425,8040829,17.72
+Colorado,White,2001,189,1126091,16.78
+Connecticut,American Indian or Alaska Native,2001,0,4664,0
+Connecticut,Black or African American,2001,17,129284,13.15
+Connecticut,White,2001,156,771130,20.230000000000004
+Delaware,American Indian or Alaska Native,2001,0,1129,0
+Delaware,Asian or Pacific Islander,2001,0,5489,0
+Delaware,White,2001,32,155698,20.55
+District of Columbia,American Indian or Alaska Native,2001,0,585,0
+District of Columbia,Asian or Pacific Islander,2001,0,3134,0
+Florida,American Indian or Alaska Native,2001,0,22242,0
+Florida,Black or African American,2001,130,937453,13.87
+Florida,White,2001,607,3067817,19.790000000000003
+Georgia,American Indian or Alaska Native,2001,0,9231,0
+Georgia,Black or African American,2001,93,869655,10.690000000000001
+Georgia,White,2001,288,1519547,18.95
+Hawaii,American Indian or Alaska Native,2001,0,1361,0
+Hawaii,Asian or Pacific Islander,2001,42,258282,16.26
+Hawaii,White,2001,17,54851,30.99
+Idaho,Asian or Pacific Islander,2001,0,4941,0
+Idaho,Black or African American,2001,0,4125,0
+Idaho,White,2001,83,401448,20.680000000000003
+Illinois,Asian or Pacific Islander,2001,21,132941,15.8
+Illinois,Black or African American,2001,90,697771,12.9
+Illinois,White,2001,473,2755454,17.169999999999998
+Indiana,American Indian or Alaska Native,2001,0,6621,0
+Indiana,Black or African American,2001,33,202273,16.31
+Indiana,White,2001,271,1536785,17.630000000000003
+Iowa,American Indian or Alaska Native,2001,0,4455,0
+Iowa,Asian or Pacific Islander,2001,0,13980,0
+Iowa,White,2001,138,774127,17.830000000000002
+Kansas,White,2001,117,703463,16.630000000000003
+Kentucky,American Indian or Alaska Native,2001,0,2792,0
+Kentucky,White,2001,193,986419,19.57
+Louisiana,American Indian or Alaska Native,2001,0,10362,0
+Louisiana,Black or African American,2001,63,545962,11.540000000000001
+Louisiana,White,2001,133,773703,17.19
+Maine,American Indian or Alaska Native,2001,0,3087,0
+Maine,Asian or Pacific Islander,2001,0,3910,0
+Maine,White,2001,60,323709,18.540000000000003
+Maryland,American Indian or Alaska Native,2001,0,6669,0
+Maryland,Black or African American,2001,34,510427,6.66
+Maryland,White,2001,129,921501,14
+Massachusetts,Black or African American,2001,19,159942,11.88
+Massachusetts,White,2001,232,1433176,16.19
+Michigan,Black or African American,2001,59,531653,11.100000000000001
+Michigan,White,2001,454,2255509,20.130000000000003
+Minnesota,White,2001,243,1257088,19.330000000000002
+Missouri,American Indian or Alaska Native,2001,0,10460,0
+Missouri,Black or African American,2001,21,242148,8.67
+Missouri,White,2001,197,1318090,14.950000000000001
+Montana,Asian or Pacific Islander,2001,0,2046,0
+Montana,Black or African American,2001,0,2244,0
+Montana,White,2001,37,225590,16.400000000000002
+Nebraska,American Indian or Alaska Native,2001,0,7885,0
+Nebraska,White,2001,82,456868,17.95
+Nevada,American Indian or Alaska Native,2001,0,11871,0
+Nevada,White,2001,97,481008,20.17
+New Hampshire,American Indian or Alaska Native,2001,0,1258,0
+New Hampshire,Asian or Pacific Islander,2001,0,6022,0
+New Hampshire,Black or African American,2001,0,5191,0
+New Hampshire,White,2001,62,335340,18.490000000000002
+New Jersey,American Indian or Alaska Native,2001,0,10365,0
+New Jersey,Asian or Pacific Islander,2001,30,158210,18.96
+New Jersey,Black or African American,2001,59,418955,14.080000000000002
+New Jersey,White,2001,371,1715718,21.62
+New Mexico,White,2001,87,458255,18.990000000000002
+New York,Asian or Pacific Islander,2001,54,316491,17.06
+New York,Black or African American,2001,145,1147878,12.63
+New York,White,2001,707,3683623,19.19
+North Carolina,Black or African American,2001,78,608234,12.82
+North Carolina,White,2001,248,1547924,16.02
+North Dakota,Asian or Pacific Islander,2001,0,1420,0
+North Dakota,White,2001,27,162111,16.66
+Ohio,Black or African American,2001,59,498838,11.83
+Ohio,White,2001,426,2646531,16.1
+Oklahoma,American Indian or Alaska Native,2001,22,128032,17.180000000000003
+Oklahoma,White,2001,123,744489,16.52
+Oregon,White,2001,146,857357,17.03
+Pennsylvania,American Indian or Alaska Native,2001,0,8584,0
+Pennsylvania,Black or African American,2001,65,460867,14.100000000000001
+Pennsylvania,White,2001,485,2712040,17.880000000000003
+Rhode Island,American Indian or Alaska Native,2001,0,2853,0
+Rhode Island,Black or African American,2001,0,26614,0
+Rhode Island,White,2001,56,243476,23
+South Carolina,American Indian or Alaska Native,2001,0,5270,0
+South Carolina,Black or African American,2001,40,421288,9.49
+South Carolina,White,2001,118,701177,16.830000000000002
+South Dakota,Asian or Pacific Islander,2001,0,1822,0
+South Dakota,Black or African American,2001,0,3313,0
+South Dakota,White,2001,26,189230,13.740000000000002
+Tennessee,American Indian or Alaska Native,2001,0,5176,0
+Tennessee,Black or African American,2001,51,342781,14.880000000000003
+Tennessee,White,2001,189,1197121,15.790000000000001
+Texas,Asian or Pacific Islander,2001,32,200631,15.950000000000001
+Texas,Black or African American,2001,102,893979,11.41
+Texas,White,2001,1099,5499808,19.980000000000004
+Utah,White,2001,129,769844,16.76
+Vermont,American Indian or Alaska Native,2001,0,1002,0
+Vermont,Asian or Pacific Islander,2001,0,2119,0
+Vermont,Black or African American,2001,0,2153,0
+Vermont,White,2001,32,160983,19.880000000000003
+Virginia,American Indian or Alaska Native,2001,0,8210,0
+Virginia,Black or African American,2001,39,481246,8.1
+Virginia,White,2001,200,1384834,14.440000000000001
+Washington,Asian or Pacific Islander,2001,19,119734,15.87
+Washington,White,2001,268,1431163,18.73
+West Virginia,American Indian or Alaska Native,2001,0,933,0
+West Virginia,White,2001,71,423098,16.78
+Wisconsin,White,2001,242,1326934,18.240000000000002
+Wyoming,Asian or Pacific Islander,2001,0,1073,0
+Wyoming,Black or African American,2001,0,2067,0
+Wyoming,White,2001,20,134494,14.87
+Alabama,Asian or Pacific Islander,2002,0,11619,0
+Alabama,Black or African American,2002,47,405826,11.58
+Alabama,White,2002,142,818492,17.35
+Alaska,White,2002,27,137906,19.580000000000002
+Arizona,White,2002,246,1336197,18.41
+Arkansas,American Indian or Alaska Native,2002,0,7172,0
+Arkansas,White,2002,77,579773,13.280000000000001
+California,American Indian or Alaska Native,2002,19,186816,10.170000000000002
+California,Asian or Pacific Islander,2002,167,1219460,13.690000000000001
+California,Black or African American,2002,110,888060,12.39
+California,White,2002,1476,8060567,18.31
+Colorado,White,2002,185,1135052,16.3
+Connecticut,American Indian or Alaska Native,2002,0,4874,0
+Connecticut,Black or African American,2002,18,130899,13.75
+Connecticut,White,2002,148,773597,19.130000000000003
+Delaware,American Indian or Alaska Native,2002,0,1207,0
+Delaware,White,2002,25,155646,16.06
+District of Columbia,American Indian or Alaska Native,2002,0,621,0
+District of Columbia,Asian or Pacific Islander,2002,0,3283,0
+Florida,Black or African American,2002,134,954485,14.040000000000001
+Florida,White,2002,622,3112490,19.980000000000004
+Georgia,American Indian or Alaska Native,2002,0,10212,0
+Georgia,Black or African American,2002,109,882394,12.350000000000001
+Georgia,White,2002,278,1535153,18.11
+Hawaii,American Indian or Alaska Native,2002,0,1462,0
+Hawaii,Asian or Pacific Islander,2002,29,258197,11.23
+Idaho,Black or African American,2002,0,4552,0
+Idaho,White,2002,82,403179,20.340000000000003
+Illinois,Asian or Pacific Islander,2002,21,136511,15.380000000000003
+Illinois,Black or African American,2002,83,693025,11.98
+Illinois,White,2002,470,2746403,17.11
+Indiana,American Indian or Alaska Native,2002,0,6943,0
+Indiana,Black or African American,2002,22,205523,10.700000000000001
+Indiana,White,2002,295,1529048,19.290000000000003
+Iowa,American Indian or Alaska Native,2002,0,4635,0
+Iowa,White,2002,146,765119,19.080000000000002
+Kansas,American Indian or Alaska Native,2002,0,12244,0
+Kansas,White,2002,126,699350,18.02
+Kentucky,American Indian or Alaska Native,2002,0,2856,0
+Kentucky,White,2002,173,984205,17.580000000000002
+Louisiana,American Indian or Alaska Native,2002,0,10569,0
+Louisiana,Black or African American,2002,67,542957,12.340000000000002
+Louisiana,White,2002,128,765616,16.72
+Maine,American Indian or Alaska Native,2002,0,3152,0
+Maine,Asian or Pacific Islander,2002,0,4083,0
+Maine,White,2002,62,321785,19.27
+Maryland,American Indian or Alaska Native,2002,0,7189,0
+Maryland,Black or African American,2002,54,516947,10.450000000000001
+Maryland,White,2002,156,924725,16.87
+Massachusetts,Black or African American,2002,17,163062,10.43
+Massachusetts,White,2002,235,1427485,16.46
+Michigan,Black or African American,2002,68,531654,12.790000000000001
+Michigan,White,2002,455,2241795,20.3
+Minnesota,White,2002,219,1246164,17.57
+Missouri,American Indian or Alaska Native,2002,0,10485,0
+Missouri,Black or African American,2002,28,243248,11.51
+Missouri,White,2002,211,1312490,16.080000000000002
+Montana,Black or African American,2002,0,2441,0
+Montana,White,2002,42,222423,18.880000000000003
+Nebraska,Asian or Pacific Islander,2002,0,8968,0
+Nebraska,White,2002,76,454830,16.71
+Nevada,White,2002,75,492824,15.219999999999999
+New Hampshire,American Indian or Alaska Native,2002,0,1276,0
+New Hampshire,Asian or Pacific Islander,2002,0,6572,0
+New Hampshire,White,2002,55,335476,16.39
+New Jersey,American Indian or Alaska Native,2002,0,11208,0
+New Jersey,Asian or Pacific Islander,2002,24,165565,14.5
+New Jersey,Black or African American,2002,58,420338,13.8
+New Jersey,White,2002,333,1721643,19.340000000000003
+New Mexico,White,2002,91,457296,19.900000000000002
+New York,Asian or Pacific Islander,2002,50,323640,15.450000000000001
+New York,Black or African American,2002,148,1136307,13.02
+New York,White,2002,695,3669582,18.94
+North Carolina,Black or African American,2002,63,615607,10.23
+North Carolina,White,2002,266,1570635,16.94
+North Dakota,Asian or Pacific Islander,2002,0,1492,0
+North Dakota,Black or African American,2002,0,2787,0
+North Dakota,White,2002,19,158428,11.990000000000002
+Ohio,American Indian or Alaska Native,2002,0,10225,0
+Ohio,Black or African American,2002,50,502004,9.96
+Ohio,White,2002,449,2623365,17.12
+Oklahoma,American Indian or Alaska Native,2002,26,129591,20.060000000000002
+Oklahoma,Black or African American,2002,16,107693,14.86
+Oklahoma,White,2002,108,740520,14.580000000000002
+Oregon,White,2002,158,856849,18.44
+Pennsylvania,American Indian or Alaska Native,2002,0,9326,0
+Pennsylvania,Asian or Pacific Islander,2002,16,78574,20.36
+Pennsylvania,Black or African American,2002,64,465402,13.75
+Pennsylvania,White,2002,512,2694087,19
+Rhode Island,American Indian or Alaska Native,2002,0,3046,0
+Rhode Island,White,2002,40,243358,16.44
+South Carolina,American Indian or Alaska Native,2002,0,5563,0
+South Carolina,Black or African American,2002,49,418735,11.700000000000001
+South Carolina,White,2002,125,707324,17.669999999999998
+South Dakota,Black or African American,2002,0,3702,0
+South Dakota,White,2002,33,186201,17.72
+Tennessee,American Indian or Alaska Native,2002,0,5427,0
+Tennessee,Black or African American,2002,37,345446,10.71
+Tennessee,White,2002,186,1198391,15.52
+Texas,Asian or Pacific Islander,2002,24,210630,11.39
+Texas,Black or African American,2002,99,905530,10.93
+Texas,White,2002,1028,5556033,18.5
+Utah,White,2002,140,772707,18.12
+Vermont,American Indian or Alaska Native,2002,0,962,0
+Vermont,Asian or Pacific Islander,2002,0,2228,0
+Vermont,White,2002,41,159829,25.650000000000002
+Virginia,Black or African American,2002,55,484195,11.36
+Virginia,White,2002,233,1396146,16.69
+Washington,Asian or Pacific Islander,2002,16,122884,13.02
+Washington,White,2002,281,1425504,19.71
+West Virginia,American Indian or Alaska Native,2002,0,912,0
+West Virginia,Asian or Pacific Islander,2002,0,3022,0
+West Virginia,White,2002,76,419951,18.1
+Wisconsin,American Indian or Alaska Native,2002,0,22055,0
+Wisconsin,White,2002,231,1320417,17.490000000000002
+Wyoming,American Indian or Alaska Native,2002,0,5305,0
+Wyoming,Asian or Pacific Islander,2002,0,1110,0
+Alabama,Asian or Pacific Islander,2003,0,12259,0
+Alabama,Black or African American,2003,48,403603,11.89
+Alabama,White,2003,122,818042,14.91
+Alaska,Black or African American,2003,0,11733,0
+Alaska,White,2003,28,136365,20.53
+Arizona,American Indian or Alaska Native,2003,20,125297,15.96
+Arizona,White,2003,204,1358737,15.01
+Arkansas,American Indian or Alaska Native,2003,0,7324,0
+Arkansas,Black or African American,2003,34,159507,21.32
+Arkansas,White,2003,103,580862,17.73
+California,Asian or Pacific Islander,2003,160,1242327,12.880000000000003
+California,Black or African American,2003,107,887303,12.06
+California,White,2003,1331,8085205,16.46
+Colorado,White,2003,222,1139112,19.490000000000002
+Connecticut,American Indian or Alaska Native,2003,0,5251,0
+Connecticut,Black or African American,2003,16,132475,12.08
+Connecticut,White,2003,163,773100,21.080000000000002
+Delaware,American Indian or Alaska Native,2003,0,1316,0
+Delaware,White,2003,32,155546,20.57
+District of Columbia,American Indian or Alaska Native,2003,0,622,0
+Florida,Black or African American,2003,139,969739,14.330000000000002
+Florida,White,2003,600,3152499,19.03
+Georgia,Black or African American,2003,112,895379,12.51
+Georgia,White,2003,249,1549587,16.07
+Hawaii,Asian or Pacific Islander,2003,30,259093,11.58
+Hawaii,Black or African American,2003,0,12569,0
+Idaho,Black or African American,2003,0,4934,0
+Idaho,White,2003,88,405415,21.71
+Illinois,Black or African American,2003,71,687764,10.32
+Illinois,White,2003,476,2733667,17.41
+Indiana,American Indian or Alaska Native,2003,0,7208,0
+Indiana,Black or African American,2003,25,209110,11.96
+Indiana,White,2003,256,1526761,16.77
+Iowa,White,2003,125,759397,16.46
+Kansas,White,2003,113,696078,16.23
+Kentucky,American Indian or Alaska Native,2003,0,2884,0
+Kentucky,Black or African American,2003,16,112394,14.240000000000002
+Kentucky,White,2003,160,985432,16.240000000000002
+Louisiana,American Indian or Alaska Native,2003,0,10679,0
+Louisiana,Black or African American,2003,68,540776,12.57
+Louisiana,White,2003,136,760445,17.880000000000003
+Maine,Asian or Pacific Islander,2003,0,4244,0
+Maine,White,2003,60,319984,18.75
+Maryland,American Indian or Alaska Native,2003,0,7630,0
+Maryland,Black or African American,2003,59,522800,11.290000000000001
+Maryland,White,2003,164,922776,17.77
+Massachusetts,Black or African American,2003,17,165897,10.25
+Massachusetts,White,2003,264,1416530,18.64
+Michigan,Black or African American,2003,71,531552,13.36
+Michigan,White,2003,404,2227831,18.130000000000003
+Minnesota,White,2003,201,1236348,16.26
+Mississippi,Asian or Pacific Islander,2003,0,7062,0
+Mississippi,Black or African American,2003,54,383038,14.100000000000001
+Mississippi,White,2003,76,455984,16.669999999999998
+Missouri,American Indian or Alaska Native,2003,0,10649,0
+Missouri,Black or African American,2003,32,244763,13.07
+Missouri,White,2003,211,1308585,16.12
+Montana,Asian or Pacific Islander,2003,0,2057,0
+Montana,White,2003,36,220779,16.31
+Nebraska,White,2003,81,453142,17.880000000000003
+Nevada,White,2003,74,504829,14.66
+New Hampshire,American Indian or Alaska Native,2003,0,1310,0
+New Hampshire,White,2003,69,333759,20.67
+New Jersey,American Indian or Alaska Native,2003,0,12073,0
+New Jersey,Asian or Pacific Islander,2003,17,172351,9.86
+New Jersey,Black or African American,2003,67,421637,15.89
+New Jersey,White,2003,344,1724245,19.950000000000003
+New Mexico,White,2003,74,455647,16.240000000000002
+New York,Asian or Pacific Islander,2003,39,330298,11.81
+New York,Black or African American,2003,144,1121812,12.840000000000002
+New York,White,2003,692,3646625,18.98
+North Carolina,Black or African American,2003,76,620959,12.240000000000002
+North Carolina,White,2003,258,1588306,16.240000000000002
+North Dakota,Black or African American,2003,0,2999,0
+North Dakota,White,2003,37,155239,23.830000000000002
+Ohio,American Indian or Alaska Native,2003,0,10305,0
+Ohio,Black or African American,2003,65,505415,12.86
+Ohio,White,2003,489,2605287,18.77
+Oklahoma,American Indian or Alaska Native,2003,17,130675,13.01
+Oklahoma,White,2003,120,736369,16.3
+Oregon,White,2003,151,854798,17.66
+Pennsylvania,American Indian or Alaska Native,2003,0,10078,0
+Pennsylvania,Black or African American,2003,75,470706,15.930000000000001
+Pennsylvania,White,2003,491,2676611,18.34
+Rhode Island,American Indian or Alaska Native,2003,0,3203,0
+Rhode Island,White,2003,43,242047,17.77
+South Carolina,American Indian or Alaska Native,2003,0,5724,0
+South Carolina,Asian or Pacific Islander,2003,0,14224,0
+South Carolina,Black or African American,2003,43,416506,10.32
+South Carolina,White,2003,109,713494,15.280000000000001
+South Dakota,Asian or Pacific Islander,2003,0,2036,0
+South Dakota,Black or African American,2003,0,3996,0
+South Dakota,White,2003,27,184160,14.66
+Tennessee,American Indian or Alaska Native,2003,0,5681,0
+Tennessee,Black or African American,2003,48,348509,13.77
+Tennessee,White,2003,205,1205319,17.01
+Texas,Asian or Pacific Islander,2003,30,220587,13.600000000000001
+Texas,Black or African American,2003,121,915703,13.21
+Texas,White,2003,1078,5611922,19.21
+Utah,American Indian or Alaska Native,2003,0,15497,0
+Utah,White,2003,143,777046,18.400000000000002
+Vermont,American Indian or Alaska Native,2003,0,910,0
+Vermont,Black or African American,2003,0,2591,0
+Vermont,White,2003,29,158046,18.35
+Virginia,American Indian or Alaska Native,2003,0,9364,0
+Virginia,Black or African American,2003,60,486347,12.340000000000002
+Virginia,White,2003,222,1401588,15.840000000000002
+Washington,Asian or Pacific Islander,2003,21,126469,16.6
+Washington,White,2003,226,1418399,15.930000000000001
+West Virginia,American Indian or Alaska Native,2003,0,861,0
+West Virginia,White,2003,70,417912,16.75
+Wisconsin,Black or African American,2003,21,145547,14.430000000000001
+Wisconsin,White,2003,254,1311841,19.36
+Wyoming,White,2003,22,132020,16.66
+Alabama,American Indian or Alaska Native,2004,0,8868,0
+Alabama,Black or African American,2004,52,403473,12.89
+Alabama,White,2004,166,819314,20.26
+Alaska,Black or African American,2004,0,11808,0
+Alaska,White,2004,22,135571,16.23
+Arizona,American Indian or Alaska Native,2004,18,127135,14.16
+Arizona,White,2004,245,1386995,17.66
+Arkansas,Black or African American,2004,16,159055,10.06
+Arkansas,White,2004,88,584477,15.06
+California,American Indian or Alaska Native,2004,17,199047,8.540000000000001
+California,Asian or Pacific Islander,2004,174,1262459,13.780000000000001
+California,Black or African American,2004,99,884782,11.190000000000001
+California,White,2004,1521,8097437,18.78
+Colorado,White,2004,197,1139218,17.290000000000003
+Connecticut,American Indian or Alaska Native,2004,0,5448,0
+Connecticut,White,2004,148,769820,19.230000000000004
+Delaware,American Indian or Alaska Native,2004,0,1433,0
+Delaware,Asian or Pacific Islander,2004,0,6680,0
+Delaware,White,2004,39,155709,25.05
+District of Columbia,American Indian or Alaska Native,2004,0,694,0
+District of Columbia,Asian or Pacific Islander,2004,0,3253,0
+Florida,Black or African American,2004,132,990225,13.330000000000002
+Florida,White,2004,588,3210865,18.31
+Georgia,American Indian or Alaska Native,2004,0,11942,0
+Georgia,Black or African American,2004,134,910978,14.71
+Georgia,White,2004,251,1565648,16.03
+Hawaii,American Indian or Alaska Native,2004,0,1491,0
+Hawaii,Asian or Pacific Islander,2004,34,262651,12.940000000000001
+Idaho,Asian or Pacific Islander,2004,0,5629,0
+Idaho,White,2004,74,409909,18.05
+Illinois,American Indian or Alaska Native,2004,0,20888,0
+Illinois,Asian or Pacific Islander,2004,22,144247,15.25
+Illinois,Black or African American,2004,84,683467,12.290000000000001
+Illinois,White,2004,495,2723112,18.180000000000003
+Indiana,American Indian or Alaska Native,2004,0,7477,0
+Indiana,Black or African American,2004,25,213093,11.73
+Indiana,White,2004,258,1526712,16.900000000000002
+Iowa,American Indian or Alaska Native,2004,0,5003,0
+Iowa,White,2004,114,755522,15.090000000000002
+Kansas,American Indian or Alaska Native,2004,0,12662,0
+Kansas,White,2004,124,691905,17.919999999999998
+Kentucky,American Indian or Alaska Native,2004,0,2947,0
+Kentucky,Black or African American,2004,19,113170,16.790000000000003
+Kentucky,White,2004,173,984354,17.57
+Louisiana,Asian or Pacific Islander,2004,0,20088,0
+Louisiana,Black or African American,2004,75,538540,13.930000000000001
+Louisiana,White,2004,115,756530,15.200000000000001
+Maine,Asian or Pacific Islander,2004,0,4355,0
+Maine,White,2004,64,317429,20.16
+Maryland,Black or African American,2004,53,529554,10.01
+Maryland,White,2004,156,919031,16.97
+Massachusetts,American Indian or Alaska Native,2004,0,9058,0
+Massachusetts,Black or African American,2004,18,167751,10.73
+Massachusetts,White,2004,258,1402245,18.400000000000002
+Michigan,Black or African American,2004,77,530972,14.5
+Michigan,White,2004,402,2214099,18.16
+Minnesota,White,2004,258,1227947,21.01
+Mississippi,American Indian or Alaska Native,2004,0,5460,0
+Mississippi,Asian or Pacific Islander,2004,0,7326,0
+Mississippi,Black or African American,2004,40,382077,10.47
+Mississippi,White,2004,47,457667,10.270000000000001
+Missouri,Black or African American,2004,42,246599,17.03
+Missouri,White,2004,209,1306899,15.990000000000002
+Montana,Asian or Pacific Islander,2004,0,2137,0
+Montana,Black or African American,2004,0,2791,0
+Montana,White,2004,50,219559,22.77
+Nebraska,Asian or Pacific Islander,2004,0,9725,0
+Nebraska,White,2004,85,451823,18.81
+Nevada,American Indian or Alaska Native,2004,0,13741,0
+Nevada,White,2004,101,522103,19.340000000000003
+New Hampshire,American Indian or Alaska Native,2004,0,1325,0
+New Hampshire,Black or African American,2004,0,6480,0
+New Hampshire,White,2004,76,331525,22.92
+New Jersey,Asian or Pacific Islander,2004,33,178621,18.47
+New Jersey,Black or African American,2004,62,421672,14.700000000000001
+New Jersey,White,2004,355,1723737,20.590000000000003
+New Mexico,White,2004,88,455756,19.310000000000002
+New York,Asian or Pacific Islander,2004,63,335907,18.76
+New York,Black or African American,2004,174,1104758,15.75
+New York,White,2004,734,3616883,20.290000000000003
+North Carolina,Black or African American,2004,78,626939,12.440000000000001
+North Carolina,White,2004,303,1608105,18.84
+North Dakota,Asian or Pacific Islander,2004,0,1597,0
+North Dakota,Black or African American,2004,0,3242,0
+North Dakota,White,2004,30,153542,19.540000000000003
+Ohio,Black or African American,2004,67,509050,13.16
+Ohio,White,2004,475,2589812,18.34
+Oklahoma,American Indian or Alaska Native,2004,28,132065,21.200000000000003
+Oklahoma,Black or African American,2004,17,107559,15.81
+Oklahoma,White,2004,131,732245,17.89
+Oregon,White,2004,162,849370,19.07
+Pennsylvania,American Indian or Alaska Native,2004,0,10963,0
+Pennsylvania,Black or African American,2004,67,478717,14
+Pennsylvania,White,2004,488,2659342,18.35
+Rhode Island,American Indian or Alaska Native,2004,0,3295,0
+Rhode Island,Asian or Pacific Islander,2004,0,10524,0
+Rhode Island,White,2004,55,240483,22.87
+South Carolina,American Indian or Alaska Native,2004,0,6031,0
+South Carolina,Asian or Pacific Islander,2004,0,14880,0
+South Carolina,Black or African American,2004,54,415859,12.990000000000002
+South Carolina,White,2004,129,721616,17.880000000000003
+South Dakota,Asian or Pacific Islander,2004,0,2146,0
+South Dakota,Black or African American,2004,0,4271,0
+South Dakota,White,2004,34,182822,18.6
+Tennessee,American Indian or Alaska Native,2004,0,5985,0
+Tennessee,Black or African American,2004,48,351857,13.64
+Tennessee,White,2004,230,1212527,18.97
+Texas,Asian or Pacific Islander,2004,27,230517,11.71
+Texas,Black or African American,2004,124,925710,13.4
+Texas,White,2004,1122,5672933,19.78
+Utah,American Indian or Alaska Native,2004,0,15656,0
+Utah,White,2004,133,785005,16.94
+Vermont,American Indian or Alaska Native,2004,0,907,0
+Vermont,Black or African American,2004,0,2760,0
+Vermont,White,2004,32,156122,20.5
+Virginia,Black or African American,2004,77,490850,15.690000000000001
+Virginia,White,2004,230,1414979,16.25
+Washington,White,2004,277,1418279,19.53
+West Virginia,American Indian or Alaska Native,2004,0,908,0
+West Virginia,Asian or Pacific Islander,2004,0,3146,0
+West Virginia,White,2004,76,417426,18.21
+Wisconsin,White,2004,203,1305878,15.55
+Wyoming,Asian or Pacific Islander,2004,0,1156,0
+Wyoming,Black or African American,2004,0,2389,0
+Wyoming,White,2004,20,131536,15.200000000000001
+Alabama,Black or African American,2005,52,402225,12.930000000000001
+Alabama,White,2005,115,822252,13.990000000000002
+Alaska,Black or African American,2005,0,11724,0
+Alaska,White,2005,18,133691,13.46
+Arizona,American Indian or Alaska Native,2005,22,129956,16.930000000000003
+Arizona,White,2005,251,1423686,17.630000000000003
+Arkansas,Black or African American,2005,23,159107,14.46
+Arkansas,White,2005,83,589828,14.07
+California,Asian or Pacific Islander,2005,179,1283225,13.950000000000001
+California,Black or African American,2005,120,878492,13.66
+California,White,2005,1474,8073656,18.26
+Colorado,White,2005,208,1146012,18.150000000000002
+Connecticut,American Indian or Alaska Native,2005,0,5617,0
+Connecticut,Black or African American,2005,19,133631,14.219999999999999
+Connecticut,White,2005,156,763631,20.430000000000003
+Delaware,American Indian or Alaska Native,2005,0,1540,0
+Delaware,White,2005,33,155982,21.16
+District of Columbia,American Indian or Alaska Native,2005,0,721,0
+District of Columbia,Asian or Pacific Islander,2005,0,3264,0
+Florida,Asian or Pacific Islander,2005,25,120005,20.830000000000002
+Florida,Black or African American,2005,161,1016389,15.840000000000002
+Florida,White,2005,577,3263234,17.680000000000003
+Georgia,Black or African American,2005,122,930302,13.11
+Georgia,White,2005,271,1587594,17.07
+Hawaii,Asian or Pacific Islander,2005,44,263395,16.7
+Idaho,Asian or Pacific Islander,2005,0,6068,0
+Idaho,White,2005,67,417825,16.040000000000003
+Illinois,Asian or Pacific Islander,2005,17,148409,11.450000000000001
+Illinois,Black or African American,2005,91,677610,13.430000000000001
+Illinois,White,2005,486,2704599,17.97
+Indiana,American Indian or Alaska Native,2005,0,7732,0
+Indiana,Black or African American,2005,27,217475,12.420000000000002
+Indiana,White,2005,264,1527176,17.290000000000003
+Iowa,White,2005,139,750632,18.52
+Kansas,White,2005,104,688772,15.100000000000001
+Kentucky,American Indian or Alaska Native,2005,0,3084,0
+Kentucky,White,2005,191,987092,19.35
+Louisiana,Asian or Pacific Islander,2005,0,19432,0
+Louisiana,Black or African American,2005,55,504724,10.9
+Louisiana,White,2005,123,731321,16.82
+Maine,Asian or Pacific Islander,2005,0,4446,0
+Maine,Black or African American,2005,0,7566,0
+Maine,White,2005,64,313635,20.41
+Maryland,American Indian or Alaska Native,2005,0,8541,0
+Maryland,Black or African American,2005,57,534610,10.66
+Maryland,White,2005,160,911491,17.55
+Massachusetts,American Indian or Alaska Native,2005,0,9489,0
+Massachusetts,Asian or Pacific Islander,2005,18,91643,19.64
+Massachusetts,White,2005,257,1384404,18.56
+Michigan,Black or African American,2005,74,528601,14
+Michigan,White,2005,419,2190603,19.130000000000003
+Minnesota,Asian or Pacific Islander,2005,17,75055,22.650000000000002
+Minnesota,White,2005,197,1215807,16.2
+Mississippi,Asian or Pacific Islander,2005,0,7411,0
+Mississippi,Black or African American,2005,45,378054,11.9
+Mississippi,White,2005,85,451275,18.84
+Missouri,Black or African American,2005,40,248689,16.080000000000002
+Missouri,White,2005,246,1304603,18.86
+Montana,Asian or Pacific Islander,2005,0,2122,0
+Montana,Black or African American,2005,0,2872,0
+Montana,White,2005,45,218130,20.630000000000003
+Nebraska,White,2005,81,450075,18
+Nevada,White,2005,104,536235,19.39
+New Hampshire,American Indian or Alaska Native,2005,0,1345,0
+New Hampshire,White,2005,66,329138,20.05
+New Jersey,American Indian or Alaska Native,2005,0,13668,0
+New Jersey,Asian or Pacific Islander,2005,27,184423,14.64
+New Jersey,Black or African American,2005,63,420202,14.990000000000002
+New Jersey,White,2005,335,1713806,19.55
+New Mexico,White,2005,92,457009,20.130000000000003
+New York,Asian or Pacific Islander,2005,62,341535,18.150000000000002
+New York,Black or African American,2005,143,1090548,13.11
+New York,White,2005,687,3565429,19.27
+North Carolina,Black or African American,2005,85,635264,13.380000000000003
+North Carolina,White,2005,331,1635114,20.240000000000002
+North Dakota,Black or African American,2005,0,3507,0
+North Dakota,White,2005,28,151107,18.53
+Ohio,American Indian or Alaska Native,2005,0,10542,0
+Ohio,Black or African American,2005,66,512522,12.880000000000003
+Ohio,White,2005,468,2565948,18.240000000000002
+Oklahoma,American Indian or Alaska Native,2005,28,134307,20.85
+Oklahoma,White,2005,112,730914,15.32
+Oregon,White,2005,135,849049,15.9
+Pennsylvania,Asian or Pacific Islander,2005,17,90721,18.740000000000002
+Pennsylvania,Black or African American,2005,62,486280,12.75
+Pennsylvania,White,2005,527,2637687,19.980000000000004
+Rhode Island,American Indian or Alaska Native,2005,0,3416,0
+Rhode Island,Asian or Pacific Islander,2005,0,10442,0
+Rhode Island,White,2005,43,235465,18.26
+South Carolina,American Indian or Alaska Native,2005,0,6370,0
+South Carolina,Black or African American,2005,41,416239,9.850000000000001
+South Carolina,White,2005,108,728657,14.82
+South Dakota,Asian or Pacific Islander,2005,0,2211,0
+South Dakota,White,2005,20,181568,11.020000000000001
+Tennessee,American Indian or Alaska Native,2005,0,6254,0
+Tennessee,Black or African American,2005,60,356209,16.84
+Tennessee,White,2005,199,1224003,16.26
+Texas,Asian or Pacific Islander,2005,33,241853,13.64
+Texas,Black or African American,2005,134,937393,14.290000000000001
+Texas,White,2005,1028,5729275,17.94
+Utah,Asian or Pacific Islander,2005,0,25896,0
+Utah,Black or African American,2005,0,14640,0
+Utah,White,2005,158,798064,19.8
+Vermont,American Indian or Alaska Native,2005,0,909,0
+Vermont,Asian or Pacific Islander,2005,0,2436,0
+Vermont,Black or African American,2005,0,2914,0
+Vermont,White,2005,19,153759,12.36
+Virginia,American Indian or Alaska Native,2005,0,10560,0
+Virginia,Black or African American,2005,56,492803,11.36
+Virginia,White,2005,267,1421439,18.78
+Washington,Asian or Pacific Islander,2005,26,135991,19.12
+Washington,White,2005,281,1413206,19.880000000000003
+West Virginia,American Indian or Alaska Native,2005,0,871,0
+West Virginia,White,2005,66,415366,15.89
+Wisconsin,White,2005,240,1296536,18.51
+Wyoming,White,2005,17,130847,12.990000000000002
+Alabama,American Indian or Alaska Native,2006,0,9303,0
+Alabama,Black or African American,2006,40,405460,9.870000000000001
+Alabama,White,2006,141,829812,16.990000000000002
+Alaska,White,2006,22,133230,16.51
+Arizona,American Indian or Alaska Native,2006,17,132743,12.81
+Arizona,Black or African American,2006,16,98756,16.2
+Arizona,White,2006,251,1460866,17.180000000000003
+Arkansas,Black or African American,2006,27,160474,16.830000000000002
+Arkansas,White,2006,87,596118,14.590000000000002
+California,Asian or Pacific Islander,2006,159,1303233,12.200000000000001
+California,Black or African American,2006,96,872642,11
+California,White,2006,1466,8036520,18.240000000000002
+Colorado,White,2006,197,1157313,17.02
+Connecticut,American Indian or Alaska Native,2006,0,5853,0
+Connecticut,Black or African American,2006,18,134641,13.37
+Connecticut,White,2006,129,756762,17.05
+Delaware,American Indian or Alaska Native,2006,0,1694,0
+Delaware,White,2006,32,156092,20.5
+District of Columbia,American Indian or Alaska Native,2006,0,742,0
+District of Columbia,Asian or Pacific Islander,2006,0,3271,0
+Florida,Black or African American,2006,137,1038350,13.190000000000001
+Florida,White,2006,655,3301673,19.840000000000003
+Georgia,American Indian or Alaska Native,2006,0,14142,0
+Georgia,Black or African American,2006,128,958605,13.350000000000001
+Georgia,White,2006,294,1611226,18.25
+Hawaii,American Indian or Alaska Native,2006,0,1518,0
+Hawaii,Asian or Pacific Islander,2006,37,265289,13.950000000000001
+Idaho,American Indian or Alaska Native,2006,0,9844,0
+Idaho,White,2006,76,426766,17.81
+Illinois,Asian or Pacific Islander,2006,19,152550,12.450000000000001
+Illinois,Black or African American,2006,81,672881,12.040000000000001
+Illinois,White,2006,481,2687764,17.900000000000002
+Indiana,American Indian or Alaska Native,2006,0,8153,0
+Indiana,Black or African American,2006,23,222689,10.33
+Indiana,White,2006,272,1530245,17.77
+Iowa,American Indian or Alaska Native,2006,0,5322,0
+Iowa,White,2006,113,750095,15.06
+Kansas,White,2006,128,686690,18.64
+Kentucky,American Indian or Alaska Native,2006,0,3176,0
+Kentucky,Asian or Pacific Islander,2006,0,14769,0
+Kentucky,White,2006,153,991052,15.440000000000001
+Louisiana,American Indian or Alaska Native,2006,0,10449,0
+Louisiana,Black or African American,2006,59,472103,12.5
+Louisiana,White,2006,117,708082,16.52
+Maine,American Indian or Alaska Native,2006,0,3217,0
+Maine,White,2006,60,309886,19.36
+Maryland,American Indian or Alaska Native,2006,0,9067,0
+Maryland,Black or African American,2006,48,538214,8.92
+Maryland,White,2006,159,901804,17.630000000000003
+Massachusetts,American Indian or Alaska Native,2006,0,9886,0
+Massachusetts,Black or African American,2006,21,171665,12.23
+Massachusetts,White,2006,307,1368890,22.430000000000003
+Michigan,Black or African American,2006,71,525736,13.5
+Michigan,White,2006,407,2164310,18.81
+Minnesota,Black or African American,2006,20,116333,17.19
+Minnesota,White,2006,211,1208031,17.47
+Mississippi,American Indian or Alaska Native,2006,0,5801,0
+Mississippi,Black or African American,2006,43,380221,11.31
+Mississippi,White,2006,83,452561,18.34
+Missouri,American Indian or Alaska Native,2006,0,11243,0
+Missouri,Black or African American,2006,32,251029,12.75
+Missouri,White,2006,215,1305378,16.47
+Montana,Asian or Pacific Islander,2006,0,2121,0
+Montana,White,2006,32,217723,14.700000000000001
+Nebraska,White,2006,76,448402,16.95
+Nevada,White,2006,104,552097,18.84
+New Hampshire,White,2006,65,326235,19.92
+New Jersey,American Indian or Alaska Native,2006,0,14481,0
+New Jersey,Asian or Pacific Islander,2006,30,189900,15.8
+New Jersey,Black or African American,2006,58,417926,13.880000000000003
+New Jersey,White,2006,348,1698055,20.490000000000002
+New Mexico,White,2006,70,458315,15.27
+New York,Asian or Pacific Islander,2006,52,347233,14.980000000000002
+New York,Black or African American,2006,158,1080240,14.630000000000003
+New York,White,2006,733,3516396,20.85
+North Carolina,Black or African American,2006,96,646779,14.840000000000002
+North Carolina,White,2006,300,1666671,18
+North Dakota,Asian or Pacific Islander,2006,0,1765,0
+North Dakota,Black or African American,2006,0,3719,0
+North Dakota,White,2006,27,148997,18.12
+Ohio,American Indian or Alaska Native,2006,0,10789,0
+Ohio,Black or African American,2006,64,516354,12.39
+Ohio,White,2006,462,2545642,18.150000000000002
+Oklahoma,American Indian or Alaska Native,2006,26,137326,18.930000000000003
+Oklahoma,Black or African American,2006,29,110173,26.32
+Oklahoma,White,2006,147,734176,20.02
+Oregon,White,2006,168,853319,19.69
+Pennsylvania,Black or African American,2006,79,493339,16.01
+Pennsylvania,White,2006,522,2621971,19.91
+Rhode Island,American Indian or Alaska Native,2006,0,3516,0
+Rhode Island,White,2006,41,231596,17.7
+South Carolina,American Indian or Alaska Native,2006,0,6880,0
+South Carolina,Black or African American,2006,52,418459,12.43
+South Carolina,White,2006,139,739962,18.78
+South Dakota,Asian or Pacific Islander,2006,0,2348,0
+South Dakota,White,2006,26,181176,14.350000000000001
+Tennessee,American Indian or Alaska Native,2006,0,6582,0
+Tennessee,Black or African American,2006,53,362214,14.630000000000003
+Tennessee,White,2006,194,1238490,15.66
+Texas,Asian or Pacific Islander,2006,33,257257,12.830000000000002
+Texas,Black or African American,2006,140,988900,14.16
+Texas,White,2006,1165,5827474,19.990000000000002
+Utah,White,2006,150,817187,18.36
+Vermont,American Indian or Alaska Native,2006,0,876,0
+Vermont,Black or African American,2006,0,3207,0
+Vermont,White,2006,33,151290,21.810000000000002
+Virginia,Black or African American,2006,66,495958,13.31
+Virginia,White,2006,240,1425069,16.84
+Washington,Asian or Pacific Islander,2006,21,141693,14.82
+Washington,White,2006,255,1418535,17.98
+West Virginia,American Indian or Alaska Native,2006,0,884,0
+West Virginia,Asian or Pacific Islander,2006,0,3385,0
+West Virginia,Black or African American,2006,0,20838,0
+West Virginia,White,2006,65,414584,15.680000000000001
+Wisconsin,Black or African American,2006,19,151280,12.56
+Wisconsin,White,2006,234,1288982,18.150000000000002
+Wyoming,Asian or Pacific Islander,2006,0,1287,0
+Wyoming,Black or African American,2006,0,2523,0
+Wyoming,White,2006,21,131655,15.950000000000001
+Alabama,American Indian or Alaska Native,2007,0,9657,0
+Alabama,Black or African American,2007,56,406489,13.780000000000001
+Alabama,White,2007,145,835729,17.35
+Alaska,White,2007,21,132068,15.9
+Arizona,White,2007,275,1488047,18.48
+Arkansas,American Indian or Alaska Native,2007,0,8476,0
+Arkansas,Black or African American,2007,29,160261,18.1
+Arkansas,White,2007,113,601506,18.790000000000003
+California,American Indian or Alaska Native,2007,18,223137,8.07
+California,Asian or Pacific Islander,2007,196,1326249,14.780000000000001
+California,Black or African American,2007,103,867502,11.870000000000001
+California,White,2007,1549,8002165,19.36
+Colorado,White,2007,204,1169835,17.44
+Connecticut,Black or African American,2007,19,135999,13.969999999999999
+Connecticut,White,2007,139,749177,18.55
+Delaware,American Indian or Alaska Native,2007,0,1783,0
+Delaware,White,2007,28,156142,17.930000000000003
+District of Columbia,American Indian or Alaska Native,2007,0,825,0
+District of Columbia,Asian or Pacific Islander,2007,0,3360,0
+Florida,Asian or Pacific Islander,2007,20,132552,15.090000000000002
+Florida,Black or African American,2007,124,1048370,11.83
+Florida,White,2007,701,3310474,21.180000000000003
+Georgia,Asian or Pacific Islander,2007,17,91527,18.57
+Georgia,Black or African American,2007,140,983656,14.230000000000002
+Georgia,White,2007,308,1638801,18.790000000000003
+Hawaii,American Indian or Alaska Native,2007,0,1452,0
+Hawaii,Asian or Pacific Islander,2007,41,266664,15.380000000000003
+Hawaii,Black or African American,2007,0,11821,0
+Idaho,American Indian or Alaska Native,2007,0,10324,0
+Idaho,Asian or Pacific Islander,2007,0,7057,0
+Idaho,Black or African American,2007,0,6762,0
+Idaho,White,2007,83,436313,19.02
+Illinois,American Indian or Alaska Native,2007,0,25570,0
+Illinois,Asian or Pacific Islander,2007,26,157398,16.52
+Illinois,Black or African American,2007,95,669118,14.200000000000001
+Illinois,White,2007,495,2679204,18.48
+Indiana,American Indian or Alaska Native,2007,0,8452,0
+Indiana,Black or African American,2007,33,227311,14.52
+Indiana,White,2007,294,1532957,19.180000000000003
+Iowa,American Indian or Alaska Native,2007,0,5671,0
+Iowa,White,2007,145,749320,19.35
+Kansas,White,2007,125,689489,18.130000000000003
+Kentucky,American Indian or Alaska Native,2007,0,3214,0
+Kentucky,White,2007,191,994720,19.200000000000003
+Louisiana,American Indian or Alaska Native,2007,0,10840,0
+Louisiana,Black or African American,2007,69,484845,14.230000000000002
+Louisiana,White,2007,122,714892,17.07
+Maine,Black or African American,2007,0,8764,0
+Maine,White,2007,54,306022,17.650000000000002
+Maryland,American Indian or Alaska Native,2007,0,9567,0
+Maryland,Black or African American,2007,54,540291,9.990000000000002
+Maryland,White,2007,162,891843,18.16
+Massachusetts,Black or African American,2007,18,174205,10.33
+Massachusetts,White,2007,250,1356234,18.430000000000003
+Michigan,Black or African American,2007,80,522243,15.32
+Michigan,White,2007,437,2135091,20.47
+Minnesota,White,2007,221,1201633,18.39
+Mississippi,American Indian or Alaska Native,2007,0,5969,0
+Mississippi,Black or African American,2007,45,382931,11.75
+Mississippi,White,2007,69,455561,15.15
+Missouri,Black or African American,2007,26,253069,10.270000000000001
+Missouri,White,2007,192,1306793,14.690000000000001
+Montana,White,2007,18,218145,8.25
+Nebraska,American Indian or Alaska Native,2007,0,10179,0
+Nebraska,White,2007,75,447593,16.76
+Nevada,White,2007,97,565839,17.14
+New Hampshire,American Indian or Alaska Native,2007,0,1440,0
+New Hampshire,Black or African American,2007,0,7573,0
+New Hampshire,White,2007,61,321772,18.96
+New Jersey,Asian or Pacific Islander,2007,26,195658,13.290000000000001
+New Jersey,Black or African American,2007,55,416297,13.21
+New Jersey,White,2007,339,1683650,20.130000000000003
+New Mexico,White,2007,79,460741,17.150000000000002
+New York,Asian or Pacific Islander,2007,55,355288,15.480000000000002
+New York,Black or African American,2007,152,1072485,14.17
+New York,White,2007,730,3477026,20.990000000000002
+North Carolina,Black or African American,2007,101,661089,15.280000000000001
+North Carolina,White,2007,335,1705974,19.64
+North Dakota,Asian or Pacific Islander,2007,0,1884,0
+North Dakota,White,2007,30,148216,20.240000000000002
+Ohio,American Indian or Alaska Native,2007,0,11124,0
+Ohio,Black or African American,2007,65,521563,12.46
+Ohio,White,2007,398,2528629,15.740000000000002
+Oklahoma,American Indian or Alaska Native,2007,45,140780,31.960000000000004
+Oklahoma,Black or African American,2007,17,111562,15.240000000000002
+Oklahoma,White,2007,118,739037,15.969999999999999
+Oregon,White,2007,191,856799,22.290000000000003
+Pennsylvania,American Indian or Alaska Native,2007,0,13740,0
+Pennsylvania,Asian or Pacific Islander,2007,18,99225,18.14
+Pennsylvania,Black or African American,2007,80,500227,15.990000000000002
+Pennsylvania,White,2007,529,2604688,20.310000000000002
+Rhode Island,American Indian or Alaska Native,2007,0,3536,0
+Rhode Island,Asian or Pacific Islander,2007,0,10299,0
+Rhode Island,Black or African American,2007,0,30023,0
+Rhode Island,White,2007,35,227153,15.41
+South Carolina,Black or African American,2007,59,420341,14.040000000000001
+South Carolina,White,2007,132,754501,17.5
+South Dakota,Asian or Pacific Islander,2007,0,2453,0
+South Dakota,Black or African American,2007,0,5318,0
+South Dakota,White,2007,28,181599,15.42
+Tennessee,Black or African American,2007,36,364511,9.88
+Tennessee,White,2007,222,1251600,17.740000000000002
+Texas,Asian or Pacific Islander,2007,34,273359,12.440000000000001
+Texas,Black or African American,2007,160,1002942,15.950000000000001
+Texas,White,2007,1139,5922006,19.230000000000004
+Utah,American Indian or Alaska Native,2007,0,17114,0
+Utah,White,2007,162,840728,19.27
+Vermont,American Indian or Alaska Native,2007,0,856,0
+Vermont,Asian or Pacific Islander,2007,0,2638,0
+Vermont,Black or African American,2007,0,3379,0
+Vermont,White,2007,29,149098,19.450000000000003
+Virginia,American Indian or Alaska Native,2007,0,11943,0
+Virginia,Asian or Pacific Islander,2007,18,120207,14.969999999999999
+Virginia,Black or African American,2007,63,497849,12.65
+Virginia,White,2007,256,1427073,17.94
+Washington,Asian or Pacific Islander,2007,21,147494,14.240000000000002
+Washington,White,2007,275,1423442,19.32
+West Virginia,American Indian or Alaska Native,2007,0,869,0
+West Virginia,Asian or Pacific Islander,2007,0,3439,0
+West Virginia,White,2007,78,414277,18.830000000000002
+Wisconsin,White,2007,240,1283967,18.69
+Wyoming,American Indian or Alaska Native,2007,0,6024,0
+Wyoming,Asian or Pacific Islander,2007,0,1340,0
+Wyoming,Black or African American,2007,0,2670,0
+Wyoming,White,2007,25,134323,18.61
+Alabama,Black or African American,2008,52,408170,12.740000000000002
+Alabama,White,2008,144,841245,17.12
+Alaska,White,2008,25,130744,19.12
+Arizona,American Indian or Alaska Native,2008,19,137311,13.840000000000002
+Arizona,White,2008,236,1505973,15.67
+Arkansas,American Indian or Alaska Native,2008,0,9011,0
+Arkansas,Black or African American,2008,23,160529,14.330000000000002
+Arkansas,White,2008,91,605607,15.030000000000001
+California,Asian or Pacific Islander,2008,213,1353292,15.740000000000002
+California,Black or African American,2008,104,866842,12
+California,White,2008,1577,7994352,19.730000000000004
+Colorado,White,2008,203,1181141,17.19
+Connecticut,American Indian or Alaska Native,2008,0,6318,0
+Connecticut,Black or African American,2008,18,137048,13.130000000000003
+Connecticut,White,2008,146,742504,19.66
+Delaware,American Indian or Alaska Native,2008,0,1929,0
+Delaware,Black or African American,2008,19,67283,28.24
+Delaware,White,2008,37,156100,23.700000000000003
+District of Columbia,American Indian or Alaska Native,2008,0,864,0
+District of Columbia,Asian or Pacific Islander,2008,0,3377,0
+District of Columbia,Black or African American,2008,17,85587,19.86
+Florida,American Indian or Alaska Native,2008,0,29509,0
+Florida,Black or African American,2008,182,1057657,17.21
+Florida,White,2008,683,3303673,20.67
+Georgia,Asian or Pacific Islander,2008,16,96751,16.540000000000003
+Georgia,Black or African American,2008,164,1000099,16.400000000000002
+Georgia,White,2008,285,1650271,17.27
+Hawaii,American Indian or Alaska Native,2008,0,1423,0
+Hawaii,Asian or Pacific Islander,2008,32,268526,11.920000000000002
+Hawaii,White,2008,19,53473,35.53
+Idaho,Black or African American,2008,0,7150,0
+Idaho,White,2008,78,443406,17.59
+Illinois,Asian or Pacific Islander,2008,32,162005,19.75
+Illinois,Black or African American,2008,80,665717,12.020000000000001
+Illinois,White,2008,496,2667558,18.59
+Indiana,Black or African American,2008,31,231504,13.39
+Indiana,White,2008,304,1535063,19.8
+Iowa,American Indian or Alaska Native,2008,0,5909,0
+Iowa,White,2008,134,750083,17.86
+Kansas,American Indian or Alaska Native,2008,0,14152,0
+Kansas,White,2008,128,691331,18.52
+Kentucky,American Indian or Alaska Native,2008,0,3399,0
+Kentucky,Black or African American,2008,17,121948,13.940000000000001
+Kentucky,White,2008,168,1000932,16.78
+Louisiana,American Indian or Alaska Native,2008,0,11299,0
+Louisiana,Black or African American,2008,71,493087,14.4
+Louisiana,White,2008,135,720801,18.73
+Maine,American Indian or Alaska Native,2008,0,3357,0
+Maine,White,2008,66,301846,21.87
+Maryland,American Indian or Alaska Native,2008,0,9995,0
+Maryland,Black or African American,2008,75,540286,13.880000000000003
+Maryland,White,2008,182,883063,20.61
+Massachusetts,American Indian or Alaska Native,2008,0,10930,0
+Massachusetts,Black or African American,2008,17,177451,9.58
+Massachusetts,White,2008,269,1344608,20.01
+Michigan,Black or African American,2008,83,515263,16.11
+Michigan,White,2008,411,2099632,19.57
+Minnesota,Asian or Pacific Islander,2008,18,82013,21.950000000000003
+Minnesota,Black or African American,2008,21,127399,16.48
+Minnesota,White,2008,217,1194547,18.169999999999998
+Mississippi,American Indian or Alaska Native,2008,0,6144,0
+Mississippi,Black or African American,2008,50,383519,13.040000000000001
+Mississippi,White,2008,72,457258,15.75
+Missouri,Asian or Pacific Islander,2008,0,32320,0
+Missouri,Black or African American,2008,30,254200,11.8
+Missouri,White,2008,211,1306220,16.150000000000002
+Montana,Asian or Pacific Islander,2008,0,2232,0
+Montana,Black or African American,2008,0,3238,0
+Montana,White,2008,34,218887,15.530000000000001
+Nebraska,Asian or Pacific Islander,2008,0,11444,0
+Nebraska,White,2008,87,447358,19.450000000000003
+Nevada,American Indian or Alaska Native,2008,0,16475,0
+Nevada,White,2008,96,571773,16.790000000000003
+New Hampshire,American Indian or Alaska Native,2008,0,1449,0
+New Hampshire,Asian or Pacific Islander,2008,0,9178,0
+New Hampshire,White,2008,70,316835,22.090000000000003
+New Jersey,Asian or Pacific Islander,2008,23,201691,11.4
+New Jersey,Black or African American,2008,66,415397,15.89
+New Jersey,White,2008,338,1670091,20.240000000000002
+New Mexico,Black or African American,2008,0,20156,0
+New Mexico,White,2008,69,462496,14.92
+New York,American Indian or Alaska Native,2008,0,64347,0
+New York,Asian or Pacific Islander,2008,53,365539,14.5
+New York,Black or African American,2008,161,1067515,15.080000000000002
+New York,White,2008,707,3448152,20.5
+North Carolina,Black or African American,2008,85,671302,12.66
+North Carolina,White,2008,304,1733155,17.540000000000003
+North Dakota,Black or African American,2008,0,4213,0
+North Dakota,White,2008,22,147766,14.89
+Ohio,American Indian or Alaska Native,2008,0,11502,0
+Ohio,Black or African American,2008,55,525144,10.47
+Ohio,White,2008,466,2509203,18.57
+Oklahoma,American Indian or Alaska Native,2008,21,144401,14.540000000000001
+Oklahoma,Black or African American,2008,20,112798,17.73
+Oklahoma,White,2008,102,742441,13.740000000000002
+Oregon,White,2008,172,859627,20.01
+Pennsylvania,Black or African American,2008,74,506049,14.62
+Pennsylvania,White,2008,448,2585035,17.330000000000002
+Rhode Island,American Indian or Alaska Native,2008,0,3648,0
+Rhode Island,Asian or Pacific Islander,2008,0,10363,0
+Rhode Island,White,2008,43,223688,19.22
+South Carolina,American Indian or Alaska Native,2008,0,8030,0
+South Carolina,Asian or Pacific Islander,2008,0,19179,0
+South Carolina,Black or African American,2008,46,422595,10.89
+South Carolina,White,2008,127,767203,16.55
+South Dakota,Asian or Pacific Islander,2008,0,2583,0
+South Dakota,Black or African American,2008,0,5749,0
+South Dakota,White,2008,27,181703,14.86
+Tennessee,American Indian or Alaska Native,2008,0,8332,0
+Tennessee,Black or African American,2008,66,366807,17.990000000000002
+Tennessee,White,2008,249,1265045,19.680000000000003
+Texas,Asian or Pacific Islander,2008,48,289144,16.6
+Texas,Black or African American,2008,145,1020243,14.21
+Texas,White,2008,1223,6015665,20.330000000000002
+Utah,White,2008,172,861629,19.96
+Vermont,American Indian or Alaska Native,2008,0,873,0
+Vermont,Asian or Pacific Islander,2008,0,2631,0
+Vermont,Black or African American,2008,0,3621,0
+Vermont,White,2008,28,147008,19.05
+Virginia,Asian or Pacific Islander,2008,18,126159,14.27
+Virginia,Black or African American,2008,70,499299,14.02
+Virginia,White,2008,252,1429030,17.630000000000003
+Washington,Asian or Pacific Islander,2008,27,153259,17.62
+Washington,White,2008,262,1429078,18.330000000000002
+West Virginia,American Indian or Alaska Native,2008,0,939,0
+West Virginia,Asian or Pacific Islander,2008,0,3567,0
+West Virginia,White,2008,85,414601,20.5
+Wisconsin,Black or African American,2008,22,156264,14.080000000000002
+Wisconsin,White,2008,269,1278272,21.040000000000003
+Wyoming,Asian or Pacific Islander,2008,0,1401,0
+Wyoming,Black or African American,2008,0,2740,0
+Alabama,American Indian or Alaska Native,2009,0,10675,0
+Alabama,Asian or Pacific Islander,2009,0,17984,0
+Alabama,Black or African American,2009,61,408509,14.930000000000001
+Alabama,White,2009,145,841791,17.23
+Alaska,American Indian or Alaska Native,2009,17,46732,36.38
+Alaska,Black or African American,2009,0,12314,0
+Arizona,American Indian or Alaska Native,2009,18,137769,13.07
+Arizona,White,2009,273,1501458,18.180000000000003
+Arkansas,Black or African American,2009,25,160757,15.55
+Arkansas,White,2009,115,608109,18.91
+California,Asian or Pacific Islander,2009,203,1375109,14.76
+California,Black or African American,2009,117,866101,13.51
+California,White,2009,1555,7960104,19.53
+Colorado,White,2009,197,1190378,16.55
+Connecticut,American Indian or Alaska Native,2009,0,6547,0
+Connecticut,Black or African American,2009,18,138830,12.969999999999999
+Connecticut,White,2009,174,733593,23.72
+Delaware,American Indian or Alaska Native,2009,0,2055,0
+Delaware,White,2009,29,155142,18.69
+District of Columbia,American Indian or Alaska Native,2009,0,924,0
+District of Columbia,Asian or Pacific Islander,2009,0,3599,0
+Florida,American Indian or Alaska Native,2009,0,29642,0
+Florida,Asian or Pacific Islander,2009,17,139627,12.18
+Florida,Black or African American,2009,148,1058192,13.990000000000002
+Florida,White,2009,619,3286186,18.84
+Georgia,American Indian or Alaska Native,2009,0,18018,0
+Georgia,Black or African American,2009,140,1010514,13.850000000000001
+Georgia,White,2009,299,1647976,18.14
+Hawaii,Asian or Pacific Islander,2009,38,270908,14.030000000000001
+Hawaii,White,2009,18,53509,33.64
+Idaho,Black or African American,2009,0,7378,0
+Idaho,White,2009,72,446604,16.12
+Illinois,American Indian or Alaska Native,2009,0,29877,0
+Illinois,Asian or Pacific Islander,2009,23,166361,13.830000000000002
+Illinois,Black or African American,2009,68,660810,10.290000000000001
+Illinois,White,2009,502,2652716,18.919999999999998
+Indiana,American Indian or Alaska Native,2009,0,9459,0
+Indiana,Black or African American,2009,23,235221,9.780000000000001
+Indiana,White,2009,268,1529582,17.52
+Iowa,White,2009,150,749257,20.02
+Kansas,White,2009,127,694604,18.28
+Kentucky,American Indian or Alaska Native,2009,0,3615,0
+Kentucky,Black or African American,2009,23,123518,18.62
+Kentucky,White,2009,178,999791,17.8
+Louisiana,Black or African American,2009,62,495969,12.5
+Louisiana,White,2009,130,722794,17.990000000000002
+Maine,Black or African American,2009,0,9744,0
+Maine,White,2009,44,296896,14.82
+Maryland,American Indian or Alaska Native,2009,0,10696,0
+Maryland,Black or African American,2009,102,540232,18.880000000000003
+Maryland,White,2009,172,875949,19.64
+Massachusetts,American Indian or Alaska Native,2009,0,11544,0
+Massachusetts,Asian or Pacific Islander,2009,23,102948,22.340000000000003
+Massachusetts,Black or African American,2009,26,180030,14.440000000000001
+Massachusetts,White,2009,267,1333614,20.02
+Michigan,Black or African American,2009,57,508354,11.21
+Michigan,White,2009,402,2063137,19.480000000000004
+Minnesota,Black or African American,2009,25,130506,19.16
+Minnesota,White,2009,233,1188422,19.61
+Mississippi,American Indian or Alaska Native,2009,0,6226,0
+Mississippi,Asian or Pacific Islander,2009,0,8504,0
+Mississippi,Black or African American,2009,47,382744,12.280000000000001
+Mississippi,White,2009,78,455723,17.12
+Missouri,Black or African American,2009,25,254942,9.81
+Missouri,White,2009,234,1303323,17.95
+Montana,Asian or Pacific Islander,2009,0,2311,0
+Montana,Black or African American,2009,0,3346,0
+Montana,White,2009,41,218206,18.790000000000003
+Nebraska,American Indian or Alaska Native,2009,0,11031,0
+Nebraska,White,2009,76,449069,16.919999999999998
+Nevada,White,2009,103,573186,17.97
+New Hampshire,American Indian or Alaska Native,2009,0,1445,0
+New Hampshire,Asian or Pacific Islander,2009,0,9546,0
+New Hampshire,Black or African American,2009,0,8082,0
+New Hampshire,White,2009,64,311053,20.580000000000002
+New Jersey,Asian or Pacific Islander,2009,38,207456,18.32
+New Jersey,Black or African American,2009,75,414852,18.080000000000002
+New Jersey,White,2009,394,1657041,23.78
+New Mexico,White,2009,71,466125,15.230000000000002
+New York,Asian or Pacific Islander,2009,84,373468,22.490000000000002
+New York,Black or African American,2009,137,1061760,12.9
+New York,White,2009,710,3418559,20.77
+North Carolina,Black or African American,2009,90,680255,13.230000000000002
+North Carolina,White,2009,305,1747022,17.46
+North Dakota,Asian or Pacific Islander,2009,0,2026,0
+North Dakota,Black or African American,2009,0,4452,0
+North Dakota,White,2009,26,148147,17.55
+Ohio,American Indian or Alaska Native,2009,0,11702,0
+Ohio,Black or African American,2009,67,526344,12.73
+Ohio,White,2009,428,2487599,17.21
+Oklahoma,American Indian or Alaska Native,2009,29,147588,19.650000000000002
+Oklahoma,White,2009,121,749066,16.150000000000002
+Oregon,White,2009,146,857377,17.03
+Pennsylvania,Black or African American,2009,88,509435,17.27
+Pennsylvania,White,2009,476,2565098,18.56
+Rhode Island,White,2009,39,219782,17.740000000000002
+South Carolina,American Indian or Alaska Native,2009,0,8265,0
+South Carolina,Black or African American,2009,41,423443,9.68
+South Carolina,White,2009,128,773951,16.540000000000003
+South Dakota,Asian or Pacific Islander,2009,0,2780,0
+South Dakota,Black or African American,2009,0,6123,0
+South Dakota,White,2009,38,182104,20.87
+Tennessee,Black or African American,2009,58,366722,15.82
+Tennessee,White,2009,232,1268038,18.3
+Texas,Asian or Pacific Islander,2009,50,304047,16.44
+Texas,Black or African American,2009,158,1039560,15.200000000000001
+Texas,White,2009,1210,6107118,19.810000000000002
+Utah,White,2009,159,880005,18.07
+Vermont,American Indian or Alaska Native,2009,0,885,0
+Vermont,Asian or Pacific Islander,2009,0,2729,0
+Vermont,Black or African American,2009,0,3793,0
+Vermont,White,2009,24,144384,16.62
+Virginia,American Indian or Alaska Native,2009,0,13738,0
+Virginia,Black or African American,2009,56,501774,11.16
+Virginia,White,2009,229,1429330,16.02
+Washington,Asian or Pacific Islander,2009,30,159147,18.85
+Washington,White,2009,271,1436654,18.86
+West Virginia,American Indian or Alaska Native,2009,0,902,0
+West Virginia,White,2009,80,413910,19.330000000000002
+Wisconsin,Black or African American,2009,23,157936,14.56
+Wisconsin,White,2009,235,1271940,18.48
+Wyoming,Asian or Pacific Islander,2009,0,1522,0
+Wyoming,White,2009,27,140721,19.19
+Alabama,American Indian or Alaska Native,2010,0,10981,0
+Alabama,Black or African American,2010,41,406355,10.090000000000002
+Alabama,White,2010,143,837260,17.080000000000002
+Alaska,White,2010,29,132461,21.89
+Arizona,American Indian or Alaska Native,2010,18,137474,13.090000000000002
+Arizona,White,2010,286,1494386,19.14
+Arkansas,Black or African American,2010,24,161119,14.9
+Arkansas,White,2010,103,609667,16.89
+California,Asian or Pacific Islander,2010,192,1393891,13.77
+California,Black or African American,2010,121,862904,14.02
+California,White,2010,1582,7912862,19.990000000000002
+Colorado,White,2010,227,1194515,19
+Connecticut,American Indian or Alaska Native,2010,0,6971,0
+Connecticut,Black or African American,2010,16,139683,11.450000000000001
+Connecticut,White,2010,166,726344,22.85
+Delaware,American Indian or Alaska Native,2010,0,2159,0
+Delaware,White,2010,29,153586,18.880000000000003
+District of Columbia,American Indian or Alaska Native,2010,0,951,0
+Florida,American Indian or Alaska Native,2010,0,29789,0
+Florida,Asian or Pacific Islander,2010,22,142702,15.42
+Florida,Black or African American,2010,148,1057132,14
+Florida,White,2010,675,3274058,20.62
+Georgia,American Indian or Alaska Native,2010,0,18813,0
+Georgia,Black or African American,2010,161,1015745,15.850000000000001
+Georgia,White,2010,288,1642488,17.53
+Hawaii,American Indian or Alaska Native,2010,0,1404,0
+Hawaii,Asian or Pacific Islander,2010,49,272129,18.01
+Idaho,Asian or Pacific Islander,2010,0,8054,0
+Idaho,White,2010,73,448513,16.28
+Illinois,Black or African American,2010,111,653417,16.990000000000002
+Illinois,White,2010,497,2637087,18.85
+Indiana,American Indian or Alaska Native,2010,0,9728,0
+Indiana,Black or African American,2010,40,237113,16.87
+Indiana,White,2010,292,1520717,19.200000000000003
+Iowa,American Indian or Alaska Native,2010,0,6200,0
+Iowa,White,2010,140,747747,18.72
+Kansas,White,2010,139,697729,19.92
+Kentucky,American Indian or Alaska Native,2010,0,3609,0
+Kentucky,Black or African American,2010,17,125320,13.57
+Kentucky,White,2010,192,999417,19.21
+Louisiana,Black or African American,2010,57,496332,11.48
+Louisiana,White,2010,151,723067,20.880000000000003
+Maine,American Indian or Alaska Native,2010,0,3342,0
+Maine,Asian or Pacific Islander,2010,0,5107,0
+Maine,White,2010,59,291708,20.230000000000004
+Maryland,Black or African American,2010,65,540099,12.030000000000001
+Maryland,White,2010,139,871225,15.950000000000001
+Massachusetts,Black or African American,2010,24,181165,13.25
+Massachusetts,White,2010,254,1325795,19.16
+Michigan,Black or African American,2010,91,499701,18.21
+Michigan,White,2010,411,2025929,20.290000000000003
+Minnesota,Black or African American,2010,17,132293,12.850000000000001
+Minnesota,White,2010,212,1183380,17.91
+Mississippi,Black or African American,2010,53,380900,13.91
+Mississippi,White,2010,77,451103,17.07
+Missouri,Black or African American,2010,47,254371,18.48
+Missouri,White,2010,219,1297824,16.87
+Montana,Asian or Pacific Islander,2010,0,2328,0
+Montana,Black or African American,2010,0,3474,0
+Montana,White,2010,47,217463,21.61
+Nebraska,White,2010,94,450695,20.86
+Nevada,White,2010,110,567741,19.380000000000003
+New Hampshire,American Indian or Alaska Native,2010,0,1418,0
+New Hampshire,White,2010,65,305666,21.27
+New Jersey,Asian or Pacific Islander,2010,31,212579,14.580000000000002
+New Jersey,Black or African American,2010,57,414155,13.76
+New Jersey,White,2010,354,1646117,21.51
+New Mexico,Black or African American,2010,0,21298,0
+New Mexico,White,2010,93,468481,19.85
+New York,Asian or Pacific Islander,2010,68,380217,17.880000000000003
+New York,Black or African American,2010,145,1056477,13.719999999999999
+New York,White,2010,757,3387588,22.35
+North Carolina,Black or African American,2010,99,683016,14.490000000000002
+North Carolina,White,2010,361,1748616,20.64
+North Dakota,Asian or Pacific Islander,2010,0,2069,0
+North Dakota,Black or African American,2010,0,4845,0
+North Dakota,White,2010,24,149492,16.05
+Ohio,American Indian or Alaska Native,2010,0,11812,0
+Ohio,Black or African American,2010,69,524528,13.15
+Ohio,White,2010,438,2460693,17.8
+Oklahoma,American Indian or Alaska Native,2010,30,150495,19.930000000000003
+Oklahoma,Black or African American,2010,16,117278,13.64
+Oklahoma,White,2010,116,751414,15.440000000000001
+Oregon,White,2010,156,852584,18.3
+Pennsylvania,Asian or Pacific Islander,2010,24,109605,21.900000000000002
+Pennsylvania,Black or African American,2010,81,508270,15.940000000000001
+Pennsylvania,White,2010,547,2540399,21.53
+Rhode Island,American Indian or Alaska Native,2010,0,3947,0
+Rhode Island,White,2010,36,215790,16.680000000000003
+South Carolina,Black or African American,2010,57,420834,13.540000000000001
+South Carolina,White,2010,120,772617,15.530000000000001
+South Dakota,Asian or Pacific Islander,2010,0,2906,0
+South Dakota,White,2010,26,183793,14.15
+Tennessee,American Indian or Alaska Native,2010,0,8545,0
+Tennessee,Black or African American,2010,55,366286,15.02
+Tennessee,White,2010,212,1266612,16.740000000000002
+Texas,Asian or Pacific Islander,2010,48,316720,15.16
+Texas,Black or African American,2010,156,1052448,14.82
+Texas,White,2010,1266,6166044,20.53
+Utah,Black or African American,2010,0,20268,0
+Utah,White,2010,164,892943,18.37
+Vermont,American Indian or Alaska Native,2010,0,873,0
+Vermont,Asian or Pacific Islander,2010,0,2837,0
+Vermont,White,2010,24,142620,16.830000000000002
+Virginia,Black or African American,2010,64,503310,12.72
+Virginia,White,2010,262,1430688,18.31
+Washington,Asian or Pacific Islander,2010,27,163858,16.48
+Washington,White,2010,256,1435808,17.830000000000002
+West Virginia,American Indian or Alaska Native,2010,0,874,0
+West Virginia,Asian or Pacific Islander,2010,0,3634,0
+West Virginia,White,2010,70,411470,17.01
+Wisconsin,Black or African American,2010,18,158292,11.370000000000001
+Wisconsin,White,2010,225,1264409,17.790000000000003
+Wyoming,American Indian or Alaska Native,2010,0,6252,0
+Wyoming,Asian or Pacific Islander,2010,0,1524,0
+Wyoming,White,2010,24,140763,17.05
+Alabama,American Indian or Alaska Native,2011,0,10578,0
+Alabama,Asian or Pacific Islander,2011,0,19338,0
+Alabama,Black or African American,2011,56,402268,13.92
+Alabama,White,2011,137,831711,16.47
+Alaska,White,2011,25,131654,18.990000000000002
+Arizona,American Indian or Alaska Native,2011,18,136840,13.15
+Arizona,Black or African American,2011,20,118398,16.89
+Arizona,White,2011,292,1474015,19.810000000000002
+Arkansas,American Indian or Alaska Native,2011,0,9689,0
+Arkansas,Black or African American,2011,26,159955,16.25
+Arkansas,White,2011,100,608246,16.44
+California,Asian or Pacific Islander,2011,198,1396248,14.180000000000001
+California,Black or African American,2011,109,851248,12.8
+California,White,2011,1497,7866169,19.03
+Colorado,American Indian or Alaska Native,2011,0,33229,0
+Colorado,White,2011,211,1200010,17.580000000000002
+Connecticut,Black or African American,2011,24,138278,17.36
+Connecticut,White,2011,140,725068,19.310000000000002
+Delaware,American Indian or Alaska Native,2011,0,2116,0
+Delaware,White,2011,29,152508,19.02
+District of Columbia,American Indian or Alaska Native,2011,0,958,0
+District of Columbia,Asian or Pacific Islander,2011,0,4088,0
+Florida,Black or African American,2011,158,1059665,14.91
+Florida,White,2011,669,3254624,20.560000000000002
+Georgia,Black or African American,2011,139,1018144,13.65
+Georgia,White,2011,333,1634517,20.37
+Hawaii,American Indian or Alaska Native,2011,0,1460,0
+Hawaii,Asian or Pacific Islander,2011,43,273584,15.719999999999999
+Hawaii,Black or African American,2011,0,12670,0
+Hawaii,White,2011,18,53172,33.85
+Idaho,American Indian or Alaska Native,2011,0,11554,0
+Idaho,Black or African American,2011,0,7764,0
+Idaho,White,2011,80,448134,17.85
+Illinois,American Indian or Alaska Native,2011,0,30755,0
+Illinois,Asian or Pacific Islander,2011,23,175671,13.090000000000002
+Illinois,Black or African American,2011,79,642529,12.3
+Illinois,White,2011,509,2618928,19.44
+Indiana,American Indian or Alaska Native,2011,0,9649,0
+Indiana,Black or African American,2011,26,237876,10.93
+Indiana,White,2011,276,1509259,18.290000000000003
+Iowa,American Indian or Alaska Native,2011,0,6422,0
+Iowa,White,2011,166,745925,22.25
+Kansas,White,2011,120,697639,17.2
+Kentucky,American Indian or Alaska Native,2011,0,3536,0
+Kentucky,Black or African American,2011,24,126162,19.02
+Kentucky,White,2011,200,994492,20.11
+Louisiana,American Indian or Alaska Native,2011,0,11919,0
+Louisiana,Black or African American,2011,69,494005,13.969999999999999
+Louisiana,White,2011,152,718080,21.17
+Maine,American Indian or Alaska Native,2011,0,3300,0
+Maine,White,2011,65,287602,22.6
+Maryland,Black or African American,2011,75,538958,13.92
+Maryland,White,2011,169,872038,19.380000000000003
+Massachusetts,American Indian or Alaska Native,2011,0,11807,0
+Massachusetts,Asian or Pacific Islander,2011,19,109643,17.330000000000002
+Massachusetts,Black or African American,2011,21,183898,11.420000000000002
+Massachusetts,White,2011,270,1321530,20.430000000000003
+Michigan,Black or African American,2011,67,490996,13.65
+Michigan,White,2011,438,1997118,21.930000000000003
+Minnesota,Asian or Pacific Islander,2011,19,87771,21.650000000000002
+Minnesota,White,2011,204,1179332,17.3
+Mississippi,Black or African American,2011,43,376414,11.420000000000002
+Mississippi,White,2011,91,447221,20.35
+Missouri,Black or African American,2011,43,252215,17.05
+Missouri,White,2011,231,1286387,17.96
+Montana,Asian or Pacific Islander,2011,0,2492,0
+Montana,Black or African American,2011,0,3739,0
+Montana,White,2011,37,217110,17.040000000000003
+Nebraska,American Indian or Alaska Native,2011,0,11805,0
+Nebraska,White,2011,97,452244,21.450000000000003
+Nevada,American Indian or Alaska Native,2011,0,16998,0
+Nevada,White,2011,94,559127,16.81
+New Hampshire,American Indian or Alaska Native,2011,0,1442,0
+New Hampshire,White,2011,58,302128,19.200000000000003
+New Jersey,Asian or Pacific Islander,2011,39,218022,17.89
+New Jersey,Black or African American,2011,64,413079,15.490000000000002
+New Jersey,White,2011,362,1643208,22.03
+New Mexico,White,2011,71,466988,15.200000000000001
+New York,Asian or Pacific Islander,2011,63,388320,16.22
+New York,Black or African American,2011,146,1050656,13.9
+New York,White,2011,738,3378194,21.85
+North Carolina,Black or African American,2011,85,681024,12.48
+North Carolina,White,2011,345,1743103,19.790000000000003
+North Dakota,Asian or Pacific Islander,2011,0,2214,0
+North Dakota,White,2011,22,151740,14.5
+Ohio,Black or African American,2011,68,522295,13.02
+Ohio,White,2011,424,2431815,17.44
+Oklahoma,American Indian or Alaska Native,2011,32,152059,21.040000000000003
+Oklahoma,Black or African American,2011,19,117680,16.150000000000002
+Oklahoma,White,2011,108,750524,14.39
+Oregon,White,2011,179,847379,21.12
+Pennsylvania,Asian or Pacific Islander,2011,16,113965,14.040000000000001
+Pennsylvania,Black or African American,2011,62,509101,12.18
+Pennsylvania,White,2011,524,2517014,20.82
+Rhode Island,White,2011,45,212481,21.180000000000003
+South Carolina,American Indian or Alaska Native,2011,0,8503,0
+South Carolina,Black or African American,2011,60,415793,14.430000000000001
+South Carolina,White,2011,139,768493,18.09
+South Dakota,Black or African American,2011,0,6767,0
+South Dakota,White,2011,34,184298,18.45
+Tennessee,Black or African American,2011,54,365383,14.780000000000001
+Tennessee,White,2011,259,1260586,20.55
+Texas,Asian or Pacific Islander,2011,51,327490,15.57
+Texas,Black or African American,2011,135,1060096,12.73
+Texas,White,2011,1305,6207193,21.02
+Utah,White,2011,178,898291,19.82
+Vermont,American Indian or Alaska Native,2011,0,850,0
+Vermont,Asian or Pacific Islander,2011,0,3050,0
+Vermont,White,2011,22,141851,15.51
+Virginia,American Indian or Alaska Native,2011,0,14307,0
+Virginia,Asian or Pacific Islander,2011,20,141973,14.090000000000002
+Virginia,Black or African American,2011,55,500339,10.990000000000002
+Virginia,White,2011,235,1435602,16.37
+Washington,Asian or Pacific Islander,2011,24,166644,14.4
+Washington,Black or African American,2011,17,119072,14.280000000000001
+Washington,White,2011,276,1429914,19.3
+West Virginia,American Indian or Alaska Native,2011,0,872,0
+West Virginia,Asian or Pacific Islander,2011,0,3746,0
+West Virginia,Black or African American,2011,0,22644,0
+West Virginia,White,2011,83,408030,20.340000000000003
+Wisconsin,Black or African American,2011,21,158530,13.25
+Wisconsin,White,2011,214,1257651,17.02
+Wyoming,Black or African American,2011,0,2884,0
+Wyoming,White,2011,18,139982,12.86
+Alabama,American Indian or Alaska Native,2012,0,10225,0
+Alabama,Black or African American,2012,64,399664,16.01
+Alabama,White,2012,144,827416,17.400000000000002
+Alaska,White,2012,22,129936,16.930000000000003
+Arizona,American Indian or Alaska Native,2012,25,136724,18.290000000000003
+Arizona,White,2012,291,1465394,19.86
+Arkansas,American Indian or Alaska Native,2012,0,9815,0
+Arkansas,Black or African American,2012,23,158794,14.480000000000002
+Arkansas,White,2012,92,606236,15.180000000000001
+California,Asian or Pacific Islander,2012,208,1407611,14.780000000000001
+California,Black or African American,2012,106,839187,12.63
+California,White,2012,1509,7817485,19.3
+Colorado,White,2012,220,1200923,18.32
+Connecticut,American Indian or Alaska Native,2012,0,7075,0
+Connecticut,Black or African American,2012,17,136906,12.420000000000002
+Connecticut,White,2012,151,719989,20.97
+Delaware,American Indian or Alaska Native,2012,0,2068,0
+Delaware,White,2012,37,152126,24.32
+District of Columbia,American Indian or Alaska Native,2012,0,1030,0
+District of Columbia,Asian or Pacific Islander,2012,0,4534,0
+Florida,Asian or Pacific Islander,2012,27,146935,18.380000000000003
+Florida,Black or African American,2012,133,1061760,12.530000000000001
+Florida,White,2012,658,3248788,20.25
+Georgia,Asian or Pacific Islander,2012,16,112533,14.219999999999999
+Georgia,Black or African American,2012,168,1018331,16.5
+Georgia,White,2012,303,1629391,18.6
+Hawaii,American Indian or Alaska Native,2012,0,1420,0
+Hawaii,Asian or Pacific Islander,2012,41,275634,14.87
+Idaho,White,2012,85,447656,18.990000000000002
+Illinois,Asian or Pacific Islander,2012,26,180828,14.380000000000003
+Illinois,Black or African American,2012,74,632005,11.71
+Illinois,White,2012,479,2594836,18.46
+Indiana,American Indian or Alaska Native,2012,0,9596,0
+Indiana,Black or African American,2012,31,237666,13.040000000000001
+Indiana,White,2012,305,1495340,20.400000000000002
+Iowa,White,2012,143,742072,19.27
+Kansas,White,2012,149,696348,21.400000000000002
+Kentucky,American Indian or Alaska Native,2012,0,3495,0
+Kentucky,Black or African American,2012,20,126108,15.86
+Kentucky,White,2012,196,989029,19.82
+Louisiana,Black or African American,2012,66,491408,13.430000000000001
+Louisiana,White,2012,149,715376,20.830000000000002
+Maine,Black or African American,2012,0,10152,0
+Maine,White,2012,52,283591,18.34
+Maryland,Black or African American,2012,71,536764,13.230000000000002
+Maryland,White,2012,158,870815,18.14
+Massachusetts,Asian or Pacific Islander,2012,16,113369,14.11
+Massachusetts,Black or African American,2012,26,187407,13.87
+Massachusetts,White,2012,267,1312744,20.340000000000003
+Michigan,Asian or Pacific Islander,2012,17,87941,19.330000000000002
+Michigan,Black or African American,2012,79,483130,16.35
+Michigan,White,2012,421,1973312,21.330000000000002
+Minnesota,Asian or Pacific Islander,2012,21,89605,23.44
+Minnesota,White,2012,262,1171215,22.37
+Mississippi,American Indian or Alaska Native,2012,0,6249,0
+Mississippi,Asian or Pacific Islander,2012,0,8821,0
+Mississippi,Black or African American,2012,52,371346,14
+Mississippi,White,2012,77,444850,17.31
+Missouri,Black or African American,2012,41,250164,16.39
+Missouri,White,2012,219,1274587,17.180000000000003
+Montana,Asian or Pacific Islander,2012,0,2493,0
+Montana,White,2012,40,216104,18.51
+Nebraska,White,2012,97,452735,21.430000000000003
+Nevada,White,2012,90,554603,16.23
+New Hampshire,American Indian or Alaska Native,2012,0,1403,0
+New Hampshire,Black or African American,2012,0,8586,0
+New Hampshire,White,2012,60,297238,20.19
+New Jersey,Asian or Pacific Islander,2012,30,222815,13.46
+New Jersey,Black or African American,2012,69,411287,16.78
+New Jersey,White,2012,353,1632159,21.630000000000003
+New Mexico,White,2012,68,462459,14.700000000000001
+New York,Asian or Pacific Islander,2012,78,398538,19.57
+New York,Black or African American,2012,167,1044398,15.990000000000002
+New York,White,2012,751,3361478,22.340000000000003
+North Carolina,Black or African American,2012,91,679594,13.39
+North Carolina,White,2012,333,1736158,19.180000000000003
+North Dakota,Asian or Pacific Islander,2012,0,2405,0
+North Dakota,Black or African American,2012,0,5810,0
+North Dakota,White,2012,16,155825,10.270000000000001
+Ohio,Black or African American,2012,66,519662,12.700000000000001
+Ohio,White,2012,412,2403950,17.14
+Oklahoma,American Indian or Alaska Native,2012,27,152613,17.69
+Oklahoma,White,2012,129,750671,17.180000000000003
+Oregon,White,2012,172,841787,20.430000000000003
+Pennsylvania,Black or African American,2012,71,509431,13.940000000000001
+Pennsylvania,White,2012,503,2490684,20.200000000000003
+Rhode Island,American Indian or Alaska Native,2012,0,4327,0
+Rhode Island,White,2012,51,210128,24.27
+South Carolina,Black or African American,2012,48,411708,11.66
+South Carolina,White,2012,136,768319,17.7
+South Dakota,Asian or Pacific Islander,2012,0,3528,0
+South Dakota,White,2012,25,184098,13.580000000000002
+Tennessee,Black or African American,2012,55,365060,15.07
+Tennessee,White,2012,242,1259597,19.21
+Texas,Asian or Pacific Islander,2012,63,341322,18.46
+Texas,Black or African American,2012,131,1069533,12.25
+Texas,White,2012,1303,6243682,20.87
+Utah,American Indian or Alaska Native,2012,0,19339,0
+Utah,White,2012,172,902570,19.06
+Vermont,American Indian or Alaska Native,2012,0,812,0
+Vermont,Asian or Pacific Islander,2012,0,3110,0
+Vermont,White,2012,19,140184,13.55
+Virginia,American Indian or Alaska Native,2012,0,14108,0
+Virginia,Asian or Pacific Islander,2012,16,146859,10.89
+Virginia,Black or African American,2012,52,498683,10.43
+Virginia,White,2012,236,1440679,16.380000000000003
+Washington,Asian or Pacific Islander,2012,29,170114,17.05
+Washington,Black or African American,2012,27,121297,22.26
+Washington,White,2012,265,1423074,18.62
+West Virginia,American Indian or Alaska Native,2012,0,893,0
+West Virginia,White,2012,67,405646,16.52
+Wisconsin,Black or African American,2012,21,158204,13.27
+Wisconsin,White,2012,240,1248074,19.230000000000004
+Wyoming,Black or African American,2012,0,3181,0
+Wyoming,White,2012,22,140433,15.67
+Alabama,American Indian or Alaska Native,2013,0,9925,0
+Alabama,Black or African American,2013,48,396785,12.100000000000001
+Alabama,White,2013,162,824765,19.64
+Alaska,White,2013,19,128761,14.76
+Arizona,American Indian or Alaska Native,2013,18,136453,13.190000000000001
+Arizona,White,2013,263,1458067,18.040000000000003
+Arkansas,Black or African American,2013,19,157738,12.05
+Arkansas,White,2013,108,603986,17.880000000000003
+California,Asian or Pacific Islander,2013,194,1430115,13.57
+California,Black or African American,2013,119,828685,14.36
+California,White,2013,1538,7773476,19.790000000000003
+Colorado,White,2013,207,1202696,17.21
+Connecticut,Black or African American,2013,18,135350,13.3
+Connecticut,White,2013,142,710797,19.980000000000004
+Delaware,American Indian or Alaska Native,2013,0,2041,0
+Delaware,White,2013,21,150881,13.92
+District of Columbia,American Indian or Alaska Native,2013,0,1213,0
+District of Columbia,Black or African American,2013,20,83224,24.03
+Florida,American Indian or Alaska Native,2013,0,29278,0
+Florida,Black or African American,2013,138,1069393,12.9
+Florida,White,2013,679,3255121,20.86
+Georgia,Asian or Pacific Islander,2013,19,117138,16.22
+Georgia,Black or African American,2013,162,1016348,15.940000000000001
+Georgia,White,2013,323,1624354,19.880000000000003
+Hawaii,American Indian or Alaska Native,2013,0,1453,0
+Hawaii,Asian or Pacific Islander,2013,53,277586,19.09
+Hawaii,Black or African American,2013,0,13259,0
+Idaho,White,2013,85,449117,18.930000000000003
+Illinois,Asian or Pacific Islander,2013,28,185954,15.06
+Illinois,Black or African American,2013,71,620438,11.440000000000001
+Illinois,White,2013,522,2570508,20.310000000000002
+Indiana,American Indian or Alaska Native,2013,0,9604,0
+Indiana,Black or African American,2013,29,238563,12.16
+Indiana,White,2013,275,1489349,18.46
+Iowa,White,2013,144,740951,19.430000000000003
+Kansas,Black or African American,2013,16,75613,21.16
+Kansas,White,2013,139,694376,20.02
+Kentucky,American Indian or Alaska Native,2013,0,3485,0
+Kentucky,White,2013,195,986850,19.76
+Louisiana,American Indian or Alaska Native,2013,0,11998,0
+Louisiana,Black or African American,2013,62,488974,12.68
+Louisiana,White,2013,133,714610,18.61
+Maine,Asian or Pacific Islander,2013,0,5186,0
+Maine,White,2013,51,279734,18.23
+Maryland,Asian or Pacific Islander,2013,16,105026,15.230000000000002
+Maryland,Black or African American,2013,68,534714,12.72
+Maryland,White,2013,169,868165,19.47
+Massachusetts,American Indian or Alaska Native,2013,0,11793,0
+Massachusetts,Asian or Pacific Islander,2013,22,117501,18.72
+Massachusetts,Black or African American,2013,22,190911,11.520000000000001
+Massachusetts,White,2013,232,1303968,17.790000000000003
+Michigan,Black or African American,2013,74,476216,15.540000000000001
+Michigan,White,2013,355,1953827,18.169999999999998
+Minnesota,Black or African American,2013,20,142666,14.02
+Minnesota,White,2013,235,1164948,20.17
+Mississippi,American Indian or Alaska Native,2013,0,6233,0
+Mississippi,Black or African American,2013,45,366696,12.270000000000001
+Mississippi,White,2013,84,442778,18.97
+Missouri,American Indian or Alaska Native,2013,0,12348,0
+Missouri,Black or African American,2013,33,248248,13.290000000000001
+Missouri,White,2013,227,1266507,17.919999999999998
+Montana,Asian or Pacific Islander,2013,0,2725,0
+Montana,White,2013,26,216661,12
+Nebraska,American Indian or Alaska Native,2013,0,12657,0
+Nebraska,White,2013,97,453813,21.37
+Nevada,American Indian or Alaska Native,2013,0,16892,0
+Nevada,White,2013,91,553312,16.45
+New Hampshire,American Indian or Alaska Native,2013,0,1395,0
+New Hampshire,White,2013,49,292444,16.76
+New Jersey,American Indian or Alaska Native,2013,0,19967,0
+New Jersey,Asian or Pacific Islander,2013,49,226723,21.61
+New Jersey,Black or African American,2013,63,410493,15.350000000000001
+New Jersey,White,2013,337,1620269,20.8
+New Mexico,Black or African American,2013,0,21368,0
+New Mexico,White,2013,76,456977,16.630000000000003
+New York,Asian or Pacific Islander,2013,72,409949,17.56
+New York,Black or African American,2013,164,1039131,15.780000000000001
+New York,White,2013,788,3341282,23.580000000000002
+North Carolina,American Indian or Alaska Native,2013,0,54324,0
+North Carolina,Black or African American,2013,97,677928,14.31
+North Carolina,White,2013,288,1729915,16.650000000000002
+North Dakota,Asian or Pacific Islander,2013,0,2683,0
+North Dakota,Black or African American,2013,0,6592,0
+North Dakota,White,2013,31,160819,19.28
+Ohio,American Indian or Alaska Native,2013,0,11552,0
+Ohio,Black or African American,2013,76,520155,14.61
+Ohio,White,2013,481,2385289,20.17
+Oklahoma,American Indian or Alaska Native,2013,24,153890,15.600000000000001
+Oklahoma,White,2013,132,754663,17.490000000000002
+Oregon,White,2013,148,836699,17.69
+Pennsylvania,American Indian or Alaska Native,2013,0,17658,0
+Pennsylvania,Asian or Pacific Islander,2013,20,122721,16.3
+Pennsylvania,Black or African American,2013,79,509272,15.51
+Pennsylvania,White,2013,485,2464657,19.680000000000003
+Rhode Island,American Indian or Alaska Native,2013,0,4434,0
+Rhode Island,White,2013,37,207307,17.85
+South Carolina,American Indian or Alaska Native,2013,0,8414,0
+South Carolina,Black or African American,2013,68,407324,16.69
+South Carolina,White,2013,127,769536,16.5
+South Dakota,Asian or Pacific Islander,2013,0,3702,0
+South Dakota,Black or African American,2013,0,7764,0
+South Dakota,White,2013,36,184874,19.47
+Tennessee,American Indian or Alaska Native,2013,0,9183,0
+Tennessee,Black or African American,2013,53,364053,14.56
+Tennessee,White,2013,226,1259177,17.95
+Texas,Asian or Pacific Islander,2013,51,357498,14.27
+Texas,Black or African American,2013,148,1080285,13.700000000000001
+Texas,White,2013,1293,6282871,20.580000000000002
+Utah,White,2013,176,912490,19.290000000000003
+Vermont,American Indian or Alaska Native,2013,0,792,0
+Vermont,Asian or Pacific Islander,2013,0,3165,0
+Vermont,Black or African American,2013,0,4070,0
+Vermont,White,2013,19,138530,13.719999999999999
+Virginia,American Indian or Alaska Native,2013,0,14018,0
+Virginia,Asian or Pacific Islander,2013,20,151113,13.240000000000002
+Virginia,Black or African American,2013,61,496407,12.290000000000001
+Virginia,White,2013,242,1441769,16.78
+Washington,Asian or Pacific Islander,2013,27,174358,15.490000000000002
+Washington,Black or African American,2013,20,123274,16.22
+Washington,White,2013,259,1419990,18.240000000000002
+West Virginia,American Indian or Alaska Native,2013,0,892,0
+West Virginia,White,2013,78,403433,19.330000000000002
+Wisconsin,Black or African American,2013,22,157930,13.930000000000001
+Wisconsin,White,2013,216,1238511,17.44
+Wyoming,Asian or Pacific Islander,2013,0,1784,0
+Wyoming,Black or African American,2013,0,3456,0
+Wyoming,White,2013,24,141468,16.96
+Alabama,Black or African American,2014,64,393930,16.25
+Alabama,White,2014,162,823382,19.67
+Arizona,American Indian or Alaska Native,2014,17,136706,12.440000000000001
+Arizona,White,2014,281,1455045,19.310000000000002
+Arkansas,Black or African American,2014,21,156876,13.39
+Arkansas,White,2014,131,602110,21.76
+California,American Indian or Alaska Native,2014,16,246148,6.5
+California,Asian or Pacific Islander,2014,253,1454253,17.400000000000002
+California,Black or African American,2014,114,819535,13.91
+California,White,2014,1574,7732969,20.35
+Colorado,White,2014,241,1207410,19.96
+Connecticut,Black or African American,2014,27,133924,20.16
+Connecticut,White,2014,129,702717,18.36
+Delaware,White,2014,34,150150,22.64
+District of Columbia,American Indian or Alaska Native,2014,0,1276,0
+District of Columbia,Asian or Pacific Islander,2014,0,5068,0
+Florida,Asian or Pacific Islander,2014,17,154089,11.030000000000001
+Florida,Black or African American,2014,177,1077063,16.430000000000003
+Florida,White,2014,756,3270752,23.11
+Georgia,American Indian or Alaska Native,2014,0,18978,0
+Georgia,Asian or Pacific Islander,2014,20,120733,16.57
+Georgia,Black or African American,2014,143,1020127,14.02
+Georgia,White,2014,337,1621880,20.78
+Hawaii,American Indian or Alaska Native,2014,0,1464,0
+Hawaii,Asian or Pacific Islander,2014,45,277590,16.21
+Idaho,White,2014,70,452455,15.469999999999999
+Illinois,Asian or Pacific Islander,2014,44,189776,23.19
+Illinois,Black or African American,2014,62,609679,10.170000000000002
+Illinois,White,2014,519,2544934,20.39
+Indiana,Black or African American,2014,41,239428,17.12
+Indiana,White,2014,267,1482697,18.01
+Iowa,American Indian or Alaska Native,2014,0,7020,0
+Iowa,White,2014,162,740727,21.87
+Kansas,White,2014,131,692746,18.91
+Kentucky,American Indian or Alaska Native,2014,0,3512,0
+Kentucky,White,2014,195,982831,19.840000000000003
+Louisiana,American Indian or Alaska Native,2014,0,12058,0
+Louisiana,Black or African American,2014,71,487240,14.57
+Louisiana,White,2014,134,715241,18.73
+Maine,American Indian or Alaska Native,2014,0,3142,0
+Maine,Asian or Pacific Islander,2014,0,5194,0
+Maine,Black or African American,2014,0,10791,0
+Maine,White,2014,59,276694,21.32
+Maryland,American Indian or Alaska Native,2014,0,12084,0
+Maryland,Black or African American,2014,74,534633,13.840000000000002
+Maryland,White,2014,158,868488,18.19
+Massachusetts,American Indian or Alaska Native,2014,0,11775,0
+Massachusetts,Asian or Pacific Islander,2014,19,121498,15.64
+Massachusetts,Black or African American,2014,16,193966,8.25
+Massachusetts,White,2014,245,1295139,18.919999999999998
+Michigan,Asian or Pacific Islander,2014,16,93469,17.12
+Michigan,Black or African American,2014,53,470738,11.26
+Michigan,White,2014,395,1936446,20.400000000000002
+Minnesota,Asian or Pacific Islander,2014,21,94484,22.230000000000004
+Minnesota,Black or African American,2014,23,148352,15.5
+Minnesota,White,2014,223,1160720,19.21
+Mississippi,American Indian or Alaska Native,2014,0,6337,0
+Mississippi,Black or African American,2014,47,362703,12.96
+Mississippi,White,2014,78,440472,17.71
+Missouri,American Indian or Alaska Native,2014,0,12582,0
+Missouri,Black or African American,2014,21,247160,8.5
+Missouri,White,2014,239,1259824,18.97
+Montana,Black or African American,2014,0,4009,0
+Montana,White,2014,46,217076,21.19
+Nebraska,American Indian or Alaska Native,2014,0,13306,0
+Nebraska,White,2014,86,454697,18.91
+Nevada,White,2014,114,553468,20.6
+New Hampshire,American Indian or Alaska Native,2014,0,1367,0
+New Hampshire,White,2014,74,288163,25.680000000000003
+New Jersey,American Indian or Alaska Native,2014,0,20117,0
+New Jersey,Asian or Pacific Islander,2014,35,230737,15.17
+New Jersey,Black or African American,2014,72,410554,17.540000000000003
+New Jersey,White,2014,360,1610630,22.35
+New Mexico,White,2014,74,449833,16.45
+New York,Asian or Pacific Islander,2014,64,421415,15.190000000000001
+New York,Black or African American,2014,177,1031944,17.150000000000002
+New York,White,2014,750,3317351,22.61
+North Carolina,Asian or Pacific Islander,2014,21,92393,22.730000000000004
+North Carolina,Black or African American,2014,73,676581,10.790000000000001
+North Carolina,White,2014,333,1724744,19.310000000000002
+North Dakota,Black or African American,2014,0,7349,0
+North Dakota,White,2014,21,165157,12.72
+Ohio,Black or African American,2014,60,521733,11.5
+Ohio,White,2014,429,2368779,18.11
+Oklahoma,American Indian or Alaska Native,2014,28,155061,18.06
+Oklahoma,White,2014,117,756586,15.46
+Oregon,White,2014,172,836921,20.55
+Pennsylvania,American Indian or Alaska Native,2014,0,18076,0
+Pennsylvania,Asian or Pacific Islander,2014,19,127698,14.880000000000003
+Pennsylvania,Black or African American,2014,64,509633,12.56
+Pennsylvania,White,2014,449,2443491,18.380000000000003
+Rhode Island,American Indian or Alaska Native,2014,0,4574,0
+Rhode Island,White,2014,49,205037,23.900000000000002
+South Carolina,American Indian or Alaska Native,2014,0,8481,0
+South Carolina,Black or African American,2014,46,404411,11.370000000000001
+South Carolina,White,2014,135,774681,17.430000000000003
+South Dakota,White,2014,43,185609,23.17
+Tennessee,American Indian or Alaska Native,2014,0,9354,0
+Tennessee,Black or African American,2014,52,363522,14.3
+Tennessee,White,2014,271,1260553,21.5
+Texas,Asian or Pacific Islander,2014,60,377067,15.91
+Texas,Black or African American,2014,167,1096267,15.230000000000002
+Texas,White,2014,1299,6342321,20.480000000000004
+Utah,White,2014,162,918994,17.630000000000003
+Vermont,American Indian or Alaska Native,2014,0,747,0
+Vermont,Asian or Pacific Islander,2014,0,3209,0
+Vermont,Black or African American,2014,0,4100,0
+Vermont,White,2014,29,136825,21.19
+Virginia,Asian or Pacific Islander,2014,26,155874,16.680000000000003
+Virginia,Black or African American,2014,50,494597,10.11
+Virginia,White,2014,254,1440226,17.64
+Washington,Asian or Pacific Islander,2014,25,180432,13.86
+Washington,White,2014,316,1419580,22.26
+West Virginia,American Indian or Alaska Native,2014,0,908,0
+West Virginia,Asian or Pacific Islander,2014,0,4001,0
+West Virginia,White,2014,81,401224,20.19
+Wisconsin,Asian or Pacific Islander,2014,16,58501,27.35
+Wisconsin,Black or African American,2014,22,158144,13.91
+Wisconsin,White,2014,245,1229502,19.930000000000003
+Wyoming,Asian or Pacific Islander,2014,0,1834,0
+Wyoming,Black or African American,2014,0,3444,0
+Wyoming,White,2014,27,141071,19.14
+Alabama,American Indian or Alaska Native,2015,0,9589,0
+Alabama,Black or African American,2015,50,392915,12.73
+Alabama,White,2015,201,823721,24.400000000000002
+Alaska,White,2015,18,125440,14.350000000000001
+Arizona,American Indian or Alaska Native,2015,19,137098,13.86
+Arizona,White,2015,320,1452609,22.03
+Arkansas,American Indian or Alaska Native,2015,0,9767,0
+Arkansas,Black or African American,2015,26,156669,16.6
+Arkansas,White,2015,107,601282,17.8
+California,Asian or Pacific Islander,2015,246,1485352,16.56
+California,Black or African American,2015,89,810761,10.98
+California,White,2015,1670,7693551,21.71
+Colorado,White,2015,217,1215036,17.86
+Connecticut,American Indian or Alaska Native,2015,0,7262,0
+Connecticut,White,2015,129,693540,18.6
+Delaware,American Indian or Alaska Native,2015,0,1950,0
+Delaware,Asian or Pacific Islander,2015,0,10507,0
+Delaware,White,2015,41,149741,27.380000000000003
+District of Columbia,American Indian or Alaska Native,2015,0,1264,0
+Florida,Asian or Pacific Islander,2015,24,158325,15.16
+Florida,Black or African American,2015,164,1088420,15.07
+Florida,White,2015,770,3305373,23.3
+Georgia,Asian or Pacific Islander,2015,23,125346,18.35
+Georgia,Black or African American,2015,140,1026234,13.64
+Georgia,White,2015,368,1623712,22.66
+Hawaii,Asian or Pacific Islander,2015,48,278983,17.21
+Hawaii,Black or African American,2015,0,13496,0
+Idaho,White,2015,85,455757,18.650000000000002
+Illinois,Asian or Pacific Islander,2015,27,193103,13.980000000000002
+Illinois,Black or African American,2015,74,601225,12.31
+Illinois,White,2015,509,2521034,20.19
+Indiana,Black or African American,2015,34,240458,14.14
+Indiana,White,2015,306,1476304,20.730000000000004
+Iowa,American Indian or Alaska Native,2015,0,7180,0
+Iowa,White,2015,170,739933,22.980000000000004
+Kansas,White,2015,131,691015,18.96
+Kentucky,Black or African American,2015,20,127365,15.700000000000001
+Kentucky,White,2015,199,981055,20.28
+Louisiana,Black or African American,2015,77,486738,15.82
+Louisiana,White,2015,169,716505,23.590000000000003
+Maine,American Indian or Alaska Native,2015,0,3153,0
+Maine,White,2015,59,273431,21.580000000000002
+Maryland,American Indian or Alaska Native,2015,0,12675,0
+Maryland,Black or African American,2015,62,535492,11.58
+Maryland,White,2015,170,865381,19.64
+Massachusetts,American Indian or Alaska Native,2015,0,11841,0
+Massachusetts,Asian or Pacific Islander,2015,21,124814,16.830000000000002
+Massachusetts,Black or African American,2015,22,196997,11.170000000000002
+Massachusetts,White,2015,252,1284692,19.62
+Michigan,Asian or Pacific Islander,2015,20,95426,20.96
+Michigan,Black or African American,2015,65,466651,13.930000000000001
+Michigan,White,2015,330,1918799,17.2
+Minnesota,Asian or Pacific Islander,2015,20,96897,20.64
+Minnesota,Black or African American,2015,27,154237,17.51
+Minnesota,White,2015,238,1155061,20.6
+Mississippi,American Indian or Alaska Native,2015,0,6465,0
+Mississippi,Asian or Pacific Islander,2015,0,9579,0
+Mississippi,Black or African American,2015,48,358864,13.380000000000003
+Mississippi,White,2015,73,438317,16.650000000000002
+Missouri,Black or African American,2015,41,247186,16.59
+Missouri,White,2015,262,1255382,20.87
+Montana,Black or African American,2015,0,4056,0
+Montana,White,2015,33,217796,15.15
+Nebraska,White,2015,80,456452,17.53
+Nevada,White,2015,138,554924,24.87
+New Hampshire,American Indian or Alaska Native,2015,0,1329,0
+New Hampshire,White,2015,56,284204,19.700000000000003
+New Jersey,Asian or Pacific Islander,2015,41,235347,17.419999999999998
+New Jersey,Black or African American,2015,61,410612,14.86
+New Jersey,White,2015,330,1599638,20.630000000000003
+New Mexico,American Indian or Alaska Native,2015,16,82761,19.330000000000002
+New Mexico,White,2015,85,444083,19.14
+New York,Asian or Pacific Islander,2015,75,432791,17.330000000000002
+New York,Black or African American,2015,159,1026118,15.5
+New York,White,2015,781,3298379,23.680000000000003
+North Carolina,Black or African American,2015,117,676187,17.3
+North Carolina,White,2015,335,1724167,19.430000000000003
+North Dakota,White,2015,30,169097,17.740000000000002
+Ohio,American Indian or Alaska Native,2015,0,11789,0
+Ohio,Black or African American,2015,90,524571,17.16
+Ohio,White,2015,499,2352199,21.21
+Oklahoma,American Indian or Alaska Native,2015,39,156272,24.96
+Oklahoma,Black or African American,2015,22,120857,18.2
+Oklahoma,White,2015,112,760410,14.730000000000002
+Oregon,White,2015,188,838866,22.41
+Pennsylvania,American Indian or Alaska Native,2015,0,18603,0
+Pennsylvania,Asian or Pacific Islander,2015,19,131608,14.440000000000001
+Pennsylvania,Black or African American,2015,57,510924,11.16
+Pennsylvania,White,2015,504,2424477,20.790000000000003
+Rhode Island,American Indian or Alaska Native,2015,0,4842,0
+Rhode Island,White,2015,43,203045,21.180000000000003
+South Carolina,American Indian or Alaska Native,2015,0,8542,0
+South Carolina,Black or African American,2015,63,403988,15.590000000000002
+South Carolina,White,2015,133,781954,17.01
+South Dakota,Black or African American,2015,0,8636,0
+South Dakota,White,2015,26,185521,14.01
+Tennessee,Black or African American,2015,61,363391,16.790000000000003
+Tennessee,White,2015,214,1264240,16.930000000000003
+Texas,Asian or Pacific Islander,2015,71,398082,17.84
+Texas,Black or African American,2015,138,1116110,12.36
+Texas,White,2015,1372,6408587,21.41
+Utah,White,2015,188,927634,20.27
+Vermont,American Indian or Alaska Native,2015,0,735,0
+Vermont,Asian or Pacific Islander,2015,0,3564,0
+Vermont,White,2015,28,135229,20.71
+Virginia,Asian or Pacific Islander,2015,25,160966,15.530000000000001
+Virginia,Black or African American,2015,50,494769,10.11
+Virginia,White,2015,248,1438842,17.240000000000002
+Washington,Asian or Pacific Islander,2015,31,186708,16.6
+Washington,Black or African American,2015,22,128422,17.130000000000003
+Washington,White,2015,287,1424226,20.150000000000002
+West Virginia,American Indian or Alaska Native,2015,0,959,0
+West Virginia,White,2015,63,398214,15.82
+Wisconsin,Black or African American,2015,20,158538,12.620000000000001
+Wisconsin,White,2015,227,1221479,18.580000000000002
+Wyoming,White,2015,19,142138,13.37
+Alabama,Black or African American,2016,71,392474,18.09
+Alabama,White,2016,193,825145,23.39
+Alaska,Black or African American,2016,0,13167,0
+Arizona,American Indian or Alaska Native,2016,19,138102,13.76
+Arizona,White,2016,262,1451374,18.05
+Arkansas,American Indian or Alaska Native,2016,0,9933,0
+Arkansas,White,2016,119,600283,19.82
+California,Asian or Pacific Islander,2016,234,1507687,15.52
+California,Black or African American,2016,107,802891,13.330000000000002
+California,White,2016,1552,7649709,20.290000000000003
+Colorado,White,2016,216,1219585,17.71
+Connecticut,American Indian or Alaska Native,2016,0,7324,0
+Connecticut,Black or African American,2016,18,132115,13.62
+Connecticut,White,2016,136,685513,19.840000000000003
+Delaware,American Indian or Alaska Native,2016,0,1981,0
+Delaware,Asian or Pacific Islander,2016,0,10725,0
+Delaware,Black or African American,2016,16,69335,23.080000000000002
+Delaware,White,2016,31,149616,20.72
+District of Columbia,American Indian or Alaska Native,2016,0,1315,0
+District of Columbia,Asian or Pacific Islander,2016,0,5417,0
+Florida,Black or African American,2016,177,1103848,16.03
+Florida,White,2016,738,3351813,22.02
+Georgia,American Indian or Alaska Native,2016,0,19649,0
+Georgia,Asian or Pacific Islander,2016,34,130673,26.02
+Georgia,Black or African American,2016,158,1035408,15.26
+Georgia,White,2016,347,1627149,21.330000000000002
+Hawaii,American Indian or Alaska Native,2016,0,1353,0
+Hawaii,Asian or Pacific Islander,2016,45,279609,16.09
+Idaho,Black or African American,2016,0,9125,0
+Idaho,White,2016,85,461536,18.419999999999998
+Illinois,Asian or Pacific Islander,2016,39,195599,19.94
+Illinois,Black or African American,2016,90,593318,15.17
+Illinois,White,2016,525,2498740,21.01
+Indiana,American Indian or Alaska Native,2016,0,9461,0
+Indiana,Black or African American,2016,32,242887,13.17
+Indiana,White,2016,294,1472736,19.96
+Iowa,American Indian or Alaska Native,2016,0,7338,0
+Iowa,White,2016,158,739215,21.37
+Kansas,White,2016,111,689042,16.11
+Kentucky,American Indian or Alaska Native,2016,0,3599,0
+Kentucky,White,2016,221,979725,22.560000000000002
+Louisiana,Black or African American,2016,61,487050,12.520000000000001
+Louisiana,White,2016,132,717603,18.39
+Maine,White,2016,58,271485,21.36
+Maryland,American Indian or Alaska Native,2016,0,13213,0
+Maryland,Asian or Pacific Islander,2016,17,112864,15.06
+Maryland,Black or African American,2016,56,536496,10.440000000000001
+Maryland,White,2016,188,864719,21.740000000000002
+Massachusetts,Asian or Pacific Islander,2016,26,128502,20.230000000000004
+Massachusetts,Black or African American,2016,24,200422,11.97
+Massachusetts,White,2016,253,1274412,19.85
+Michigan,Black or African American,2016,74,465255,15.91
+Michigan,White,2016,396,1907411,20.76
+Minnesota,Black or African American,2016,30,162130,18.5
+Minnesota,White,2016,225,1152970,19.51
+Mississippi,American Indian or Alaska Native,2016,0,6480,0
+Mississippi,Black or African American,2016,59,356092,16.57
+Mississippi,White,2016,87,436590,19.930000000000003
+Missouri,Black or African American,2016,40,247426,16.169999999999998
+Missouri,White,2016,250,1252238,19.96
+Montana,Asian or Pacific Islander,2016,0,2841,0
+Montana,Black or African American,2016,0,4165,0
+Montana,White,2016,38,218971,17.35
+Nebraska,White,2016,95,458274,20.730000000000004
+Nevada,White,2016,129,556940,23.16
+New Hampshire,American Indian or Alaska Native,2016,0,1311,0
+New Hampshire,White,2016,48,281526,17.05
+New Jersey,Asian or Pacific Islander,2016,43,240324,17.89
+New Jersey,Black or African American,2016,69,409783,16.84
+New Jersey,White,2016,363,1593322,22.78
+New Mexico,Black or African American,2016,0,21473,0
+New Mexico,White,2016,75,439943,17.05
+New York,Asian or Pacific Islander,2016,73,442984,16.48
+New York,Black or African American,2016,143,1020597,14.01
+New York,White,2016,743,3278826,22.66
+North Carolina,Asian or Pacific Islander,2016,18,100882,17.84
+North Carolina,Black or African American,2016,117,679684,17.21
+North Carolina,White,2016,339,1731140,19.580000000000002
+North Dakota,White,2016,28,168921,16.580000000000002
+Ohio,Black or African American,2016,66,527596,12.51
+Ohio,White,2016,442,2337075,18.91
+Oklahoma,American Indian or Alaska Native,2016,39,157394,24.78
+Oklahoma,White,2016,135,761419,17.73
+Oregon,White,2016,152,844129,18.01
+Pennsylvania,Asian or Pacific Islander,2016,18,135597,13.27
+Pennsylvania,Black or African American,2016,68,513142,13.25
+Pennsylvania,White,2016,480,2407205,19.94
+Rhode Island,American Indian or Alaska Native,2016,0,4990,0
+Rhode Island,White,2016,38,201633,18.85
+South Carolina,Black or African American,2016,52,403828,12.880000000000003
+South Carolina,White,2016,156,788641,19.78
+South Dakota,Asian or Pacific Islander,2016,0,4608,0
+South Dakota,White,2016,35,186284,18.790000000000003
+Tennessee,American Indian or Alaska Native,2016,0,9944,0
+Tennessee,Black or African American,2016,52,364103,14.280000000000001
+Tennessee,White,2016,251,1269691,19.77
+Texas,Asian or Pacific Islander,2016,71,416351,17.05
+Texas,Black or African American,2016,152,1137312,13.36
+Texas,White,2016,1349,6459320,20.880000000000003
+Utah,White,2016,175,940149,18.61
+Vermont,American Indian or Alaska Native,2016,0,740,0
+Vermont,Asian or Pacific Islander,2016,0,3613,0
+Vermont,Black or African American,2016,0,4237,0
+Vermont,White,2016,27,133722,20.19
+Virginia,Asian or Pacific Islander,2016,22,165664,13.280000000000001
+Virginia,Black or African American,2016,63,496325,12.690000000000001
+Virginia,White,2016,239,1439914,16.6
+Washington,Asian or Pacific Islander,2016,41,193288,21.21
+Washington,White,2016,281,1436348,19.560000000000002
+West Virginia,American Indian or Alaska Native,2016,0,984,0
+West Virginia,Asian or Pacific Islander,2016,0,4164,0
+West Virginia,White,2016,75,394508,19.01
+Wisconsin,Black or African American,2016,16,158998,10.06
+Wisconsin,White,2016,258,1214589,21.240000000000002
+Wyoming,Asian or Pacific Islander,2016,0,1920,0
+Wyoming,Black or African American,2016,0,3474,0
+Wyoming,White,2016,31,141300,21.94
+Alabama,Black or African American,2017,56,392087,14.280000000000001
+Alabama,White,2017,157,825635,19.02
+Alaska,White,2017,26,122926,21.150000000000002
+Arizona,American Indian or Alaska Native,2017,18,138857,12.96
+Arizona,White,2017,273,1446086,18.880000000000003
+Arkansas,Black or African American,2017,27,156689,17.23
+Arkansas,White,2017,104,599015,17.36
+California,Asian or Pacific Islander,2017,210,1534164,13.690000000000001
+California,Black or African American,2017,103,796375,12.930000000000001
+California,White,2017,1453,7596536,19.130000000000003
+Colorado,Black or African American,2017,19,96843,19.62
+Colorado,White,2017,230,1219765,18.86
+Connecticut,American Indian or Alaska Native,2017,0,7725,0
+Connecticut,Black or African American,2017,17,132097,12.87
+Connecticut,White,2017,136,678073,20.060000000000002
+Delaware,American Indian or Alaska Native,2017,0,2051,0
+Delaware,White,2017,34,149487,22.740000000000002
+District of Columbia,American Indian or Alaska Native,2017,0,1416,0
+District of Columbia,Asian or Pacific Islander,2017,0,5754,0
+Florida,Asian or Pacific Islander,2017,16,167933,9.53
+Florida,Black or African American,2017,162,1116186,14.51
+Florida,White,2017,717,3384886,21.180000000000003
+Georgia,Asian or Pacific Islander,2017,28,134814,20.77
+Georgia,Black or African American,2017,158,1042262,15.16
+Georgia,White,2017,324,1626276,19.92
+Hawaii,American Indian or Alaska Native,2017,0,1337,0
+Hawaii,Asian or Pacific Islander,2017,43,279107,15.41
+Idaho,White,2017,84,468525,17.930000000000003
+Illinois,Asian or Pacific Islander,2017,36,199361,18.06
+Illinois,Black or African American,2017,81,585754,13.830000000000002
+Illinois,White,2017,510,2474352,20.61
+Indiana,American Indian or Alaska Native,2017,0,9548,0
+Indiana,Black or African American,2017,27,245674,10.990000000000002
+Indiana,White,2017,259,1468507,17.64
+Iowa,American Indian or Alaska Native,2017,0,7423,0
+Iowa,White,2017,152,737551,20.61
+Kansas,White,2017,127,686082,18.51
+Kentucky,American Indian or Alaska Native,2017,0,3571,0
+Kentucky,Black or African American,2017,23,130063,17.680000000000003
+Kentucky,White,2017,229,979356,23.380000000000003
+Louisiana,American Indian or Alaska Native,2017,0,12191,0
+Louisiana,Black or African American,2017,48,485146,9.89
+Louisiana,White,2017,137,713965,19.19
+Maine,American Indian or Alaska Native,2017,0,3163,0
+Maine,White,2017,70,269400,25.980000000000004
+Maryland,Black or African American,2017,73,537160,13.590000000000002
+Maryland,White,2017,141,863880,16.32
+Massachusetts,Asian or Pacific Islander,2017,20,132441,15.100000000000001
+Massachusetts,Black or African American,2017,37,204811,18.07
+Massachusetts,White,2017,233,1266308,18.400000000000002
+Michigan,Black or African American,2017,62,464518,13.350000000000001
+Michigan,White,2017,337,1896566,17.77
+Minnesota,Asian or Pacific Islander,2017,24,101909,23.55
+Minnesota,Black or African American,2017,23,169549,13.57
+Minnesota,White,2017,254,1151884,22.05
+Mississippi,American Indian or Alaska Native,2017,0,6566,0
+Mississippi,Black or African American,2017,46,352727,13.040000000000001
+Mississippi,White,2017,82,434430,18.880000000000003
+Missouri,Black or African American,2017,34,247883,13.719999999999999
+Missouri,White,2017,191,1249225,15.290000000000001
+Montana,Black or African American,2017,0,4339,0
+Montana,White,2017,56,219938,25.46
+Nebraska,White,2017,92,460056,20
+Nevada,White,2017,110,558222,19.71
+New Hampshire,White,2017,62,279106,22.21
+New Jersey,American Indian or Alaska Native,2017,0,21172,0
+New Jersey,Asian or Pacific Islander,2017,43,246198,17.47
+New Jersey,Black or African American,2017,59,409951,14.39
+New Jersey,White,2017,348,1590272,21.880000000000003
+New Mexico,White,2017,67,435038,15.4
+New York,Asian or Pacific Islander,2017,100,451138,22.17
+New York,Black or African American,2017,147,1013615,14.5
+New York,White,2017,748,3258929,22.950000000000003
+North Carolina,Black or African American,2017,87,682835,12.740000000000002
+North Carolina,White,2017,326,1733367,18.81
+North Dakota,White,2017,26,168814,15.4
+Ohio,Black or African American,2017,71,532427,13.340000000000002
+Ohio,White,2017,429,2326373,18.44
+Oklahoma,American Indian or Alaska Native,2017,33,157877,20.900000000000002
+Oklahoma,White,2017,111,758138,14.64
+Oregon,White,2017,192,845751,22.700000000000003
+Pennsylvania,Asian or Pacific Islander,2017,22,139792,15.740000000000002
+Pennsylvania,Black or African American,2017,57,517357,11.020000000000001
+Pennsylvania,White,2017,471,2393549,19.680000000000003
+Rhode Island,American Indian or Alaska Native,2017,0,5196,0
+Rhode Island,White,2017,38,199739,19.02
+South Carolina,Black or African American,2017,55,403382,13.630000000000003
+South Carolina,White,2017,153,795262,19.240000000000002
+South Dakota,Asian or Pacific Islander,2017,0,4966,0
+South Dakota,White,2017,29,187608,15.46
+Tennessee,American Indian or Alaska Native,2017,0,10440,0
+Tennessee,Black or African American,2017,45,365110,12.33
+Tennessee,White,2017,245,1276337,19.200000000000003
+Texas,Asian or Pacific Islander,2017,83,432440,19.19
+Texas,Black or African American,2017,162,1156071,14.01
+Texas,White,2017,1286,6487161,19.82
+Utah,White,2017,204,949501,21.480000000000004
+Vermont,American Indian or Alaska Native,2017,0,733,0
+Vermont,Black or African American,2017,0,4241,0
+Vermont,White,2017,31,132553,23.39
+Virginia,American Indian or Alaska Native,2017,0,14086,0
+Virginia,Asian or Pacific Islander,2017,20,169504,11.8
+Virginia,Black or African American,2017,67,498361,13.440000000000001
+Virginia,White,2017,229,1440057,15.9
+Washington,Asian or Pacific Islander,2017,41,200465,20.450000000000003
+Washington,Black or African American,2017,21,135447,15.5
+Washington,White,2017,286,1444403,19.8
+West Virginia,American Indian or Alaska Native,2017,0,944,0
+West Virginia,Asian or Pacific Islander,2017,0,4113,0
+West Virginia,White,2017,77,390061,19.740000000000002
+Wisconsin,Black or African American,2017,25,160087,15.62
+Wisconsin,White,2017,241,1209006,19.930000000000003
+Wyoming,Asian or Pacific Islander,2017,0,1854,0
+Wyoming,White,2017,22,138658,15.87
+Alabama,Black or African American,2018,50,392383,12.740000000000002
+Alabama,White,2018,145,826811,17.540000000000003
+Alaska,White,2018,24,120759,19.87
+Arizona,American Indian or Alaska Native,2018,19,139701,13.600000000000001
+Arizona,White,2018,320,1443441,22.17
+Arkansas,Black or African American,2018,31,156515,19.810000000000002
+Arkansas,White,2018,93,597299,15.57
+California,American Indian or Alaska Native,2018,21,238661,8.8
+California,Asian or Pacific Islander,2018,258,1551858,16.630000000000003
+California,Black or African American,2018,88,789417,11.15
+California,White,2018,1470,7532216,19.52
+Colorado,Black or African American,2018,17,98456,17.27
+Colorado,White,2018,223,1220244,18.28
+Connecticut,American Indian or Alaska Native,2018,0,8246,0
+Connecticut,Black or African American,2018,18,132023,13.630000000000003
+Connecticut,White,2018,128,672085,19.05
+Delaware,American Indian or Alaska Native,2018,0,2155,0
+Delaware,White,2018,41,149037,27.510000000000005
+District of Columbia,American Indian or Alaska Native,2018,0,1413,0
+District of Columbia,Asian or Pacific Islander,2018,0,5988,0
+Florida,Asian or Pacific Islander,2018,27,170842,15.8
+Florida,Black or African American,2018,157,1124353,13.96
+Florida,White,2018,720,3407012,21.130000000000003
+Georgia,Asian or Pacific Islander,2018,17,138501,12.270000000000001
+Georgia,Black or African American,2018,146,1048255,13.930000000000001
+Georgia,White,2018,352,1624004,21.67
+Hawaii,Asian or Pacific Islander,2018,42,278438,15.080000000000002
+Idaho,Black or African American,2018,0,9517,0
+Idaho,White,2018,66,473003,13.950000000000001
+Illinois,Asian or Pacific Islander,2018,35,201801,17.34
+Illinois,Black or African American,2018,80,580302,13.790000000000001
+Illinois,White,2018,508,2447609,20.75
+Indiana,American Indian or Alaska Native,2018,0,9758,0
+Indiana,Black or African American,2018,32,249429,12.830000000000002
+Indiana,White,2018,280,1466087,19.1
+Iowa,White,2018,113,734489,15.380000000000003
+Kansas,White,2018,116,682508,17
+Kentucky,American Indian or Alaska Native,2018,0,3571,0
+Kentucky,Black or African American,2018,24,130833,18.34
+Kentucky,White,2018,212,978056,21.680000000000003
+Louisiana,American Indian or Alaska Native,2018,0,12168,0
+Louisiana,Black or African American,2018,69,482530,14.3
+Louisiana,White,2018,168,710287,23.650000000000002
+Maine,American Indian or Alaska Native,2018,0,3173,0
+Maine,White,2018,59,267402,22.060000000000002
+Maryland,Asian or Pacific Islander,2018,17,117293,14.490000000000002
+Maryland,Black or African American,2018,68,537296,12.66
+Maryland,White,2018,144,863528,16.680000000000003
+Massachusetts,American Indian or Alaska Native,2018,0,12011,0
+Massachusetts,Asian or Pacific Islander,2018,23,134615,17.09
+Massachusetts,Black or African American,2018,24,208781,11.5
+Massachusetts,White,2018,224,1256925,17.82
+Michigan,Black or African American,2018,65,464146,14
+Michigan,White,2018,394,1882357,20.930000000000003
+Minnesota,Black or African American,2018,28,176480,15.87
+Minnesota,White,2018,259,1148664,22.55
+Mississippi,Black or African American,2018,40,348573,11.48
+Mississippi,White,2018,76,430314,17.66
+Missouri,American Indian or Alaska Native,2018,0,13294,0
+Missouri,Black or African American,2018,34,248412,13.690000000000001
+Missouri,White,2018,224,1245618,17.98
+Montana,Asian or Pacific Islander,2018,0,2899,0
+Montana,Black or African American,2018,0,4363,0
+Montana,White,2018,49,219894,22.28
+Nebraska,White,2018,100,460328,21.72
+Nevada,Black or African American,2018,16,109955,14.55
+Nevada,White,2018,120,560597,21.41
+New Hampshire,American Indian or Alaska Native,2018,0,1303,0
+New Hampshire,Black or African American,2018,0,9996,0
+New Hampshire,White,2018,60,276245,21.72
+New Jersey,Asian or Pacific Islander,2018,46,249874,18.41
+New Jersey,Black or African American,2018,58,410669,14.12
+New Jersey,White,2018,336,1587834,21.16
+New Mexico,White,2018,78,429054,18.180000000000003
+New York,Asian or Pacific Islander,2018,92,456951,20.130000000000003
+New York,Black or African American,2018,158,1007379,15.680000000000001
+New York,White,2018,726,3242166,22.39
+North Carolina,Asian or Pacific Islander,2018,21,109547,19.169999999999998
+North Carolina,Black or African American,2018,74,685536,10.790000000000001
+North Carolina,White,2018,314,1736951,18.080000000000002
+North Dakota,Asian or Pacific Islander,2018,0,4254,0
+North Dakota,White,2018,27,170007,15.880000000000003
+Ohio,American Indian or Alaska Native,2018,0,12294,0
+Ohio,Black or African American,2018,71,536891,13.219999999999999
+Ohio,White,2018,455,2311210,19.69
+Oklahoma,American Indian or Alaska Native,2018,31,158634,19.540000000000003
+Oklahoma,White,2018,127,755142,16.82
+Oregon,White,2018,149,842684,17.680000000000003
+Pennsylvania,American Indian or Alaska Native,2018,0,20844,0
+Pennsylvania,Asian or Pacific Islander,2018,17,143487,11.850000000000001
+Pennsylvania,Black or African American,2018,68,522166,13.02
+Pennsylvania,White,2018,438,2381837,18.39
+Rhode Island,American Indian or Alaska Native,2018,0,5364,0
+Rhode Island,White,2018,42,198455,21.16
+South Carolina,American Indian or Alaska Native,2018,0,9067,0
+South Carolina,Black or African American,2018,32,403408,7.93
+South Carolina,White,2018,160,800262,19.990000000000002
+South Dakota,Black or African American,2018,0,10292,0
+South Dakota,White,2018,30,188209,15.940000000000001
+Tennessee,Black or African American,2018,38,365406,10.4
+Tennessee,White,2018,197,1282924,15.36
+Texas,Asian or Pacific Islander,2018,76,445229,17.07
+Texas,Black or African American,2018,175,1172729,14.92
+Texas,White,2018,1343,6499959,20.66
+Utah,White,2018,198,955056,20.730000000000004
+Vermont,American Indian or Alaska Native,2018,0,724,0
+Vermont,Black or African American,2018,0,4241,0
+Vermont,White,2018,23,131524,17.490000000000002
+Virginia,American Indian or Alaska Native,2018,0,14176,0
+Virginia,Black or African American,2018,54,500247,10.790000000000001
+Virginia,White,2018,238,1439754,16.53
+Washington,Asian or Pacific Islander,2018,49,206433,23.740000000000002
+Washington,Black or African American,2018,16,138512,11.55
+Washington,White,2018,257,1445077,17.78
+West Virginia,American Indian or Alaska Native,2018,0,924,0
+West Virginia,White,2018,84,385952,21.76
+Wisconsin,Black or African American,2018,22,160928,13.67
+Wisconsin,White,2018,241,1203590,20.02
+Wyoming,American Indian or Alaska Native,2018,0,7144,0
+Wyoming,Asian or Pacific Islander,2018,0,1858,0
+Wyoming,White,2018,24,137050,17.51
+Alabama,American Indian or Alaska Native,2019,0,9313,0
+Alabama,Black or African American,2019,49,392433,12.490000000000002
+Alabama,White,2019,131,827240,15.840000000000002
+Alaska,White,2019,19,118587,16.02
+Arizona,American Indian or Alaska Native,2019,17,139606,12.18
+Arizona,Black or African American,2019,19,140641,13.51
+Arizona,White,2019,291,1441551,20.19
+Arkansas,Black or African American,2019,18,156115,11.530000000000001
+Arkansas,White,2019,98,594999,16.47
+California,Asian or Pacific Islander,2019,201,1561701,12.87
+California,Black or African American,2019,97,782577,12.39
+California,White,2019,1425,7447928,19.130000000000003
+Colorado,Black or African American,2019,19,98847,19.22
+Colorado,White,2019,216,1215068,17.78
+Connecticut,American Indian or Alaska Native,2019,0,8463,0
+Connecticut,Asian or Pacific Islander,2019,0,51033,0
+Connecticut,Black or African American,2019,17,132282,12.850000000000001
+Connecticut,White,2019,111,663720,16.72
+Delaware,American Indian or Alaska Native,2019,0,2216,0
+Delaware,Asian or Pacific Islander,2019,0,11603,0
+Delaware,White,2019,24,148645,16.150000000000002
+District of Columbia,Black or African American,2019,16,83432,19.180000000000003
+Florida,American Indian or Alaska Native,2019,0,31672,0
+Florida,Asian or Pacific Islander,2019,29,174382,16.630000000000003
+Florida,Black or African American,2019,173,1128455,15.330000000000002
+Florida,White,2019,736,3411797,21.57
+Georgia,Asian or Pacific Islander,2019,18,141989,12.68
+Georgia,Black or African American,2019,137,1054656,12.990000000000002
+Georgia,White,2019,320,1620216,19.75
+Hawaii,American Indian or Alaska Native,2019,0,1310,0
+Hawaii,Asian or Pacific Islander,2019,31,276801,11.200000000000001
+Hawaii,Black or African American,2019,0,13696,0
+Idaho,Asian or Pacific Islander,2019,0,10631,0
+Idaho,White,2019,84,478198,17.57
+Illinois,American Indian or Alaska Native,2019,0,26578,0
+Illinois,Asian or Pacific Islander,2019,36,203509,17.69
+Illinois,Black or African American,2019,77,574381,13.41
+Illinois,White,2019,497,2418856,20.55
+Indiana,American Indian or Alaska Native,2019,0,9912,0
+Indiana,Black or African American,2019,22,251966,8.73
+Indiana,White,2019,249,1461840,17.03
+Iowa,American Indian or Alaska Native,2019,0,7755,0
+Iowa,White,2019,134,731899,18.31
+Kansas,White,2019,119,678244,17.55
+Kentucky,Black or African American,2019,19,131664,14.430000000000001
+Kentucky,White,2019,203,974723,20.830000000000002
+Louisiana,American Indian or Alaska Native,2019,0,12006,0
+Louisiana,Black or African American,2019,65,479721,13.55
+Louisiana,White,2019,140,706389,19.82
+Maine,American Indian or Alaska Native,2019,0,3155,0
+Maine,Asian or Pacific Islander,2019,0,5252,0
+Maine,White,2019,59,266057,22.180000000000003
+Maryland,American Indian or Alaska Native,2019,0,14760,0
+Maryland,Asian or Pacific Islander,2019,21,118858,17.669999999999998
+Maryland,Black or African American,2019,80,538305,14.86
+Maryland,White,2019,152,862532,17.62
+Massachusetts,American Indian or Alaska Native,2019,0,12278,0
+Massachusetts,Asian or Pacific Islander,2019,20,137126,14.590000000000002
+Massachusetts,Black or African American,2019,34,211578,16.07
+Massachusetts,White,2019,222,1243044,17.86
+Michigan,Black or African American,2019,57,463313,12.3
+Michigan,White,2019,312,1865994,16.72
+Minnesota,Asian or Pacific Islander,2019,24,105613,22.72
+Minnesota,Black or African American,2019,27,181845,14.850000000000001
+Minnesota,White,2019,228,1145609,19.900000000000002
+Mississippi,Black or African American,2019,40,344829,11.600000000000001
+Mississippi,White,2019,70,426889,16.400000000000002
+Missouri,American Indian or Alaska Native,2019,0,13470,0
+Missouri,Black or African American,2019,29,248951,11.65
+Missouri,White,2019,226,1240874,18.21
+Montana,Black or African American,2019,0,4458,0
+Montana,White,2019,44,219932,20.01
+Nebraska,White,2019,93,460166,20.21
+Nevada,White,2019,114,562001,20.28
+New Hampshire,American Indian or Alaska Native,2019,0,1299,0
+New Hampshire,White,2019,52,273695,19
+New Jersey,Asian or Pacific Islander,2019,30,253100,11.850000000000001
+New Jersey,Black or African American,2019,50,412669,12.120000000000001
+New Jersey,White,2019,328,1582400,20.730000000000004
+New Mexico,White,2019,82,425025,19.290000000000003
+New York,Asian or Pacific Islander,2019,81,461797,17.540000000000003
+New York,Black or African American,2019,141,1003547,14.05
+New York,White,2019,653,3215266,20.310000000000002
+North Carolina,Black or African American,2019,84,687775,12.21
+North Carolina,White,2019,341,1736058,19.64
+North Dakota,Asian or Pacific Islander,2019,0,4390,0
+North Dakota,White,2019,33,171582,19.230000000000004
+Ohio,American Indian or Alaska Native,2019,0,12487,0
+Ohio,Black or African American,2019,74,539728,13.71
+Ohio,White,2019,483,2296637,21.03
+Oklahoma,American Indian or Alaska Native,2019,26,157428,16.52
+Oklahoma,White,2019,142,753851,18.84
+Oregon,White,2019,147,838375,17.53
+Pennsylvania,Asian or Pacific Islander,2019,17,146357,11.620000000000001
+Pennsylvania,Black or African American,2019,68,524008,12.980000000000002
+Pennsylvania,White,2019,474,2363705,20.05
+Rhode Island,American Indian or Alaska Native,2019,0,5454,0
+Rhode Island,Asian or Pacific Islander,2019,0,12246,0
+Rhode Island,White,2019,31,196445,15.780000000000001
+South Carolina,Black or African American,2019,59,403430,14.62
+South Carolina,White,2019,124,804895,15.41
+South Dakota,White,2019,33,189029,17.46
+Tennessee,American Indian or Alaska Native,2019,0,11148,0
+Tennessee,Black or African American,2019,27,365704,7.38
+Tennessee,White,2019,223,1284492,17.36
+Texas,Asian or Pacific Islander,2019,82,457677,17.919999999999998
+Texas,Black or African American,2019,168,1189038,14.130000000000003
+Texas,White,2019,1298,6513132,19.930000000000003
+Utah,White,2019,187,957260,19.53
+Vermont,American Indian or Alaska Native,2019,0,698,0
+Vermont,Black or African American,2019,0,4242,0
+Vermont,White,2019,25,130399,19.169999999999998
+Virginia,Asian or Pacific Islander,2019,20,175328,11.41
+Virginia,Black or African American,2019,84,502594,16.71
+Virginia,White,2019,257,1438099,17.87
+Washington,Asian or Pacific Islander,2019,39,212442,18.36
+Washington,Black or African American,2019,25,141101,17.72
+Washington,White,2019,283,1444077,19.6
+West Virginia,American Indian or Alaska Native,2019,0,960,0
+West Virginia,Asian or Pacific Islander,2019,0,4267,0
+West Virginia,White,2019,73,381741,19.12
+Wisconsin,Black or African American,2019,30,160661,18.669999999999998
+Wisconsin,White,2019,216,1197499,18.040000000000003
+Wyoming,Asian or Pacific Islander,2019,0,1929,0
+Wyoming,Black or African American,2019,0,3531,0
+Wyoming,White,2019,24,135975,17.650000000000002
+Alabama,Black or African American,2020,57,391941,14.540000000000001
+Alabama,White,2020,131,826614,15.850000000000001
+Alaska,White,2020,16,117242,13.65
+Arizona,Asian or Pacific Islander,2020,16,80848,19.790000000000003
+Arizona,Black or African American,2020,19,143429,13.25
+Arizona,White,2020,264,1434741,18.400000000000002
+Arkansas,Black or African American,2020,17,155216,10.950000000000001
+Arkansas,White,2020,95,591603,16.06
+California,American Indian or Alaska Native,2020,17,240333,7.07
+California,Asian or Pacific Islander,2020,222,1560012,14.230000000000002
+California,Black or African American,2020,112,776805,14.42
+California,White,2020,1341,7334689,18.28
+Colorado,Black or African American,2020,23,99569,23.1
+Colorado,White,2020,218,1204428,18.1
+Connecticut,American Indian or Alaska Native,2020,0,8780,0
+Connecticut,Black or African American,2020,20,132663,15.080000000000002
+Connecticut,White,2020,124,654080,18.96
+Delaware,American Indian or Alaska Native,2020,0,2301,0
+Delaware,White,2020,32,148242,21.590000000000003
+District of Columbia,American Indian or Alaska Native,2020,0,1503,0
+District of Columbia,Asian or Pacific Islander,2020,0,5813,0
+District of Columbia,White,2020,20,51036,39.19
+Florida,Asian or Pacific Islander,2020,26,177294,14.66
+Florida,Black or African American,2020,138,1127576,12.240000000000002
+Florida,White,2020,703,3414585,20.590000000000003
+Georgia,Asian or Pacific Islander,2020,24,144060,16.66
+Georgia,Black or African American,2020,148,1053888,14.040000000000001
+Georgia,White,2020,325,1607294,20.22
+Hawaii,American Indian or Alaska Native,2020,0,1398,0
+Hawaii,Asian or Pacific Islander,2020,41,273359,15
+Idaho,Asian or Pacific Islander,2020,0,10985,0
+Idaho,White,2020,74,481070,15.380000000000003
+Illinois,American Indian or Alaska Native,2020,0,26852,0
+Illinois,Asian or Pacific Islander,2020,41,203304,20.17
+Illinois,Black or African American,2020,71,566904,12.520000000000001
+Illinois,White,2020,457,2380165,19.200000000000003
+Iowa,White,2020,124,727154,17.05
+Kansas,White,2020,107,672143,15.92
+Kentucky,American Indian or Alaska Native,2020,0,3771,0
+Kentucky,Black or African American,2020,20,132243,15.12
+Kentucky,White,2020,178,968195,18.380000000000003
+Louisiana,American Indian or Alaska Native,2020,0,12049,0
+Louisiana,Black or African American,2020,68,474046,14.340000000000002
+Louisiana,White,2020,125,699590,17.87
+Maine,American Indian or Alaska Native,2020,0,3178,0
+Maine,Black or African American,2020,0,12035,0
+Maine,White,2020,57,263732,21.61
+Maryland,Black or African American,2020,75,536082,13.990000000000002
+Maryland,White,2020,134,856490,15.65
+Massachusetts,American Indian or Alaska Native,2020,0,12478,0
+Massachusetts,Asian or Pacific Islander,2020,17,137212,12.39
+Massachusetts,Black or African American,2020,28,211912,13.21
+Massachusetts,White,2020,192,1216730,15.780000000000001
+Michigan,Asian or Pacific Islander,2020,19,101206,18.77
+Michigan,Black or African American,2020,50,461137,10.840000000000002
+Michigan,White,2020,287,1843937,15.56
+Minnesota,Asian or Pacific Islander,2020,20,106415,18.790000000000003
+Minnesota,Black or African American,2020,30,184835,16.23
+Minnesota,White,2020,204,1138433,17.919999999999998
+Mississippi,American Indian or Alaska Native,2020,0,6560,0
+Mississippi,Black or African American,2020,36,339840,10.590000000000002
+Mississippi,White,2020,60,421520,14.230000000000002
+Missouri,American Indian or Alaska Native,2020,0,13730,0
+Missouri,Black or African American,2020,30,248453,12.07
+Missouri,White,2020,197,1233453,15.969999999999999
+Montana,Asian or Pacific Islander,2020,0,3286,0
+Montana,Black or African American,2020,0,4621,0
+Montana,White,2020,35,220469,15.880000000000003
+Nebraska,American Indian or Alaska Native,2020,0,15871,0
+Nebraska,White,2020,80,458176,17.46
+Nevada,White,2020,106,559220,18.95
+New Hampshire,American Indian or Alaska Native,2020,0,1333,0
+New Hampshire,White,2020,49,270468,18.12
+New Jersey,American Indian or Alaska Native,2020,0,23477,0
+New Jersey,Asian or Pacific Islander,2020,38,254285,14.940000000000001
+New Jersey,Black or African American,2020,58,414414,14
+New Jersey,White,2020,314,1570101,20
+New Mexico,White,2020,59,419875,14.05
+New York,Asian or Pacific Islander,2020,67,459885,14.57
+New York,Black or African American,2020,149,998093,14.930000000000001
+New York,White,2020,638,3165681,20.150000000000002
+North Carolina,Asian or Pacific Islander,2020,17,115122,14.77
+North Carolina,Black or African American,2020,77,684749,11.240000000000002
+North Carolina,White,2020,320,1723110,18.57
+North Dakota,Asian or Pacific Islander,2020,0,4509,0
+North Dakota,White,2020,27,172456,15.66
+Ohio,Black or African American,2020,63,539695,11.670000000000002
+Ohio,White,2020,431,2273547,18.96
+Oklahoma,American Indian or Alaska Native,2020,27,155472,17.37
+Oklahoma,White,2020,111,751738,14.77
+Oregon,White,2020,156,831132,18.77
+Pennsylvania,American Indian or Alaska Native,2020,0,22094,0
+Pennsylvania,Asian or Pacific Islander,2020,25,148922,16.790000000000003
+Pennsylvania,Black or African American,2020,59,523135,11.280000000000001
+Pennsylvania,White,2020,405,2340961,17.3
+Rhode Island,American Indian or Alaska Native,2020,0,5578,0
+Rhode Island,Asian or Pacific Islander,2020,0,12329,0
+Rhode Island,White,2020,30,193946,15.469999999999999
+South Carolina,Black or African American,2020,57,402213,14.17
+South Carolina,White,2020,119,805431,14.77
+South Dakota,Asian or Pacific Islander,2020,0,5112,0
+South Dakota,White,2020,33,189235,17.44
+Tennessee,American Indian or Alaska Native,2020,0,11653,0
+Tennessee,Black or African American,2020,42,365642,11.490000000000002
+Tennessee,White,2020,211,1282936,16.45
+Texas,Asian or Pacific Islander,2020,73,467368,15.62
+Texas,Black or African American,2020,181,1204256,15.030000000000001
+Texas,White,2020,1235,6500611,19
+Utah,White,2020,204,955180,21.36
+Vermont,American Indian or Alaska Native,2020,0,709,0
+Vermont,Asian or Pacific Islander,2020,0,3979,0
+Vermont,White,2020,30,128923,23.27
+Virginia,American Indian or Alaska Native,2020,0,14931,0
+Virginia,Asian or Pacific Islander,2020,19,176716,10.75
+Virginia,Black or African American,2020,56,502247,11.15
+Virginia,White,2020,224,1431149,15.65
+Washington,Asian or Pacific Islander,2020,45,217007,20.740000000000002
+Washington,Black or African American,2020,20,143419,13.950000000000001
+Washington,White,2020,277,1438392,19.26
+West Virginia,American Indian or Alaska Native,2020,0,1012,0
+West Virginia,White,2020,79,376620,20.980000000000004
+Wisconsin,Black or African American,2020,22,159517,13.790000000000001
+Wisconsin,White,2020,211,1186800,17.78
+Wyoming,Asian or Pacific Islander,2020,0,2003,0
+Wyoming,Black or African American,2020,0,3619,0
+Wyoming,White,2020,36,135268,26.610000000000003
+Alabama,American Indian or Alaska Native,2021,0,9506,0
+Alabama,Black or African American,2021,39,389834,10
+Alabama,White,2021,99,824289,12.01
+Alaska,Black or African American,2021,0,12962,0
+Alaska,White,2021,18,115556,15.580000000000002
+Arizona,Black or African American,2021,18,145374,12.38
+Arizona,White,2021,262,1416924,18.490000000000002
+Arkansas,American Indian or Alaska Native,2021,0,10790,0
+Arkansas,Black or African American,2021,24,154051,15.580000000000002
+Arkansas,White,2021,98,588090,16.66
+California,Asian or Pacific Islander,2021,208,1527492,13.62
+California,Black or African American,2021,98,758296,12.92
+California,White,2021,1313,7112818,18.46
+Colorado,Black or African American,2021,17,100471,16.919999999999998
+Colorado,White,2021,189,1177529,16.05
+Connecticut,American Indian or Alaska Native,2021,0,9876,0
+Connecticut,Black or African American,2021,20,134112,14.91
+Connecticut,White,2021,117,649545,18.01
+Delaware,American Indian or Alaska Native,2021,0,2316,0
+Delaware,White,2021,20,147035,13.600000000000001
+District of Columbia,American Indian or Alaska Native,2021,0,1749,0
+District of Columbia,Asian or Pacific Islander,2021,0,6254,0
+Florida,Asian or Pacific Islander,2021,26,179841,14.46
+Florida,Black or African American,2021,164,1121289,14.630000000000003
+Florida,White,2021,696,3404397,20.44
+Georgia,American Indian or Alaska Native,2021,0,20707,0
+Georgia,Black or African American,2021,152,1045169,14.540000000000001
+Georgia,White,2021,329,1587315,20.730000000000004
+Hawaii,American Indian or Alaska Native,2021,0,1391,0
+Hawaii,Asian or Pacific Islander,2021,37,269585,13.719999999999999
+Idaho,American Indian or Alaska Native,2021,0,13435,0
+Idaho,White,2021,79,486853,16.23
+Illinois,Asian or Pacific Islander,2021,41,201246,20.37
+Illinois,Black or African American,2021,69,554796,12.440000000000001
+Illinois,White,2021,431,2322963,18.55
+Iowa,White,2021,128,718640,17.81
+Kansas,American Indian or Alaska Native,2021,0,14083,0
+Kansas,White,2021,98,663140,14.780000000000001
+Kentucky,Black or African American,2021,17,132162,12.86
+Kentucky,White,2021,188,955790,19.67
+Louisiana,Black or African American,2021,59,466637,12.64
+Louisiana,White,2021,128,689223,18.57
+Maine,Black or African American,2021,0,12499,0
+Maine,White,2021,57,260850,21.85
+Maryland,Asian or Pacific Islander,2021,22,119204,18.46
+Maryland,Black or African American,2021,55,529233,10.39
+Maryland,White,2021,107,843509,12.690000000000001
+Massachusetts,Black or African American,2021,27,214913,12.56
+Massachusetts,White,2021,208,1193672,17.430000000000003
+Michigan,Black or African American,2021,59,455315,12.96
+Michigan,White,2021,283,1800237,15.719999999999999
+Minnesota,Black or African American,2021,33,187207,17.630000000000003
+Minnesota,White,2021,186,1117897,16.64
+Mississippi,American Indian or Alaska Native,2021,0,6605,0
+Mississippi,Black or African American,2021,42,333957,12.58
+Mississippi,White,2021,80,416798,19.19
+Missouri,Black or African American,2021,32,247023,12.950000000000001
+Missouri,White,2021,197,1222707,16.11
+Montana,Asian or Pacific Islander,2021,0,3414,0
+Montana,Black or African American,2021,0,4753,0
+Montana,White,2021,37,221132,16.73
+Nebraska,White,2021,80,451851,17.7
+Nevada,White,2021,76,549646,13.830000000000002
+New Hampshire,American Indian or Alaska Native,2021,0,1324,0
+New Hampshire,Asian or Pacific Islander,2021,0,12046,0
+New Hampshire,Black or African American,2021,0,10595,0
+New Hampshire,White,2021,52,265072,19.62
+New Jersey,Asian or Pacific Islander,2021,53,253564,20.900000000000002
+New Jersey,Black or African American,2021,62,412662,15.02
+New Jersey,White,2021,318,1539461,20.66
+New Mexico,White,2021,63,409838,15.37
+New York,Asian or Pacific Islander,2021,86,454894,18.91
+New York,Black or African American,2021,164,972688,16.86
+New York,White,2021,608,3088667,19.680000000000003
+North Carolina,Asian or Pacific Islander,2021,20,118354,16.900000000000002
+North Carolina,Black or African American,2021,80,686863,11.65
+North Carolina,White,2021,303,1716461,17.650000000000002
+North Dakota,White,2021,32,171595,18.650000000000002
+Ohio,Black or African American,2021,78,537846,14.5
+Ohio,White,2021,447,2225550,20.080000000000002
+Oklahoma,American Indian or Alaska Native,2021,34,155025,21.930000000000003
+Oklahoma,Black or African American,2021,23,125689,18.3
+Oklahoma,White,2021,143,747152,19.14
+Oregon,White,2021,150,815990,18.380000000000003
+Pennsylvania,Asian or Pacific Islander,2021,19,152214,12.48
+Pennsylvania,Black or African American,2021,74,523344,14.14
+Pennsylvania,White,2021,410,2319023,17.680000000000003
+Rhode Island,American Indian or Alaska Native,2021,0,5820,0
+Rhode Island,Asian or Pacific Islander,2021,0,12137,0
+Rhode Island,White,2021,26,189490,13.719999999999999
+South Carolina,American Indian or Alaska Native,2021,0,9560,0
+South Carolina,Black or African American,2021,53,399534,13.27
+South Carolina,White,2021,123,806299,15.25
+South Dakota,Asian or Pacific Islander,2021,0,5269,0
+South Dakota,White,2021,32,188660,16.96
+Tennessee,American Indian or Alaska Native,2021,0,12079,0
+Tennessee,Black or African American,2021,59,362587,16.27
+Tennessee,White,2021,248,1277565,19.41
+Texas,Asian or Pacific Islander,2021,100,472589,21.16
+Texas,Black or African American,2021,157,1218055,12.89
+Texas,White,2021,1258,6453319,19.490000000000002
+Utah,American Indian or Alaska Native,2021,0,21788,0
+Utah,White,2021,225,949706,23.69
+Vermont,American Indian or Alaska Native,2021,0,721,0
+Vermont,Asian or Pacific Islander,2021,0,3901,0
+Vermont,White,2021,21,127171,16.51
+Virginia,American Indian or Alaska Native,2021,0,15207,0
+Virginia,Asian or Pacific Islander,2021,16,176500,9.07
+Virginia,Black or African American,2021,42,498109,8.43
+Virginia,White,2021,186,1414561,13.15
+Washington,Asian or Pacific Islander,2021,41,218094,18.8
+Washington,Black or African American,2021,19,143780,13.21
+Washington,White,2021,245,1402596,17.47
+West Virginia,American Indian or Alaska Native,2021,0,1026,0
+West Virginia,White,2021,62,371266,16.7
+Wisconsin,Black or African American,2021,28,158309,17.69
+Wisconsin,White,2021,188,1157851,16.240000000000002
+Wyoming,Asian or Pacific Islander,2021,0,1974,0
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
