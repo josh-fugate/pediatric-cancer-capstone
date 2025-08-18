@@ -14,11 +14,13 @@ View the live dashboard here: [Pedatric Cancer Dashboard on Tableau Public](http
 
 ```text
 data/
-├── incidence/
-│   ├── raw/      # Raw .txt files downloaded from CDC WONDER
-│   └── clean/    # Processed .csv files ready for analysis
+└── incidence/
+    └── clean/      # Processed .csv files ready for analysis
 scripts/
 └── clean_incidence_data.R  # R script to clean raw files
+.gitignore                   # Excludes raw data and temp files
+Pediatric Cancer Capstone.Rproj  # R project file
+README.md                    # Project documentation
 ```
 
 ---
