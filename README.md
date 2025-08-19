@@ -74,9 +74,8 @@ README.md                    # Project documentation
 ---
 
 ## 📊 Dashboard  
-View the live dashboard here:  
+- **View the Tableau Dashboard Here:**  
 [![Dashboard Preview](dashboard_preview.png)](https://public.tableau.com/app/profile/josh.fugate/viz/PediatricCancerIncidenceRates/MapDashboard)
-- **Tableau Dashboard Link:** [Pediatric Cancer Dashboard](https://public.tableau.com/app/profile/josh.fugate/viz/PediatricCancerIncidenceRates/MapDashboard)  
 - **Key Features:**  
   - 🌎 Interactive U.S. map with state drill-down  
   - 📈 Trend lines showing year-over-year incidence  
