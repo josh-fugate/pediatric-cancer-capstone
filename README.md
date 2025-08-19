@@ -74,7 +74,8 @@ README.md                    # Project documentation
 ---
 
 ## 📊 Dashboard  
-- **View the Tableau Dashboard Here:**  
+- **View the Tableau Dashboard Here:**
+
 [![Dashboard Preview](dashboard_preview.png)](https://public.tableau.com/app/profile/josh.fugate/viz/PediatricCancerIncidenceRates/MapDashboard)
 - **Key Features:**  
   - 🌎 Interactive U.S. map with state drill-down  
@@ -94,7 +95,7 @@ README.md                    # Project documentation
 
 ## 📌 Limitations & Next Steps  
 - **Limitations:**  
-  - Suppressed counts (<10 cases) reduce visibility for rare cancers.  
+  - Suppressed counts (<16 cases) reduce visibility for rare cancers.  
   - No socioeconomic or environmental covariates included.  
   - Mortality data not yet integrated.  
 
